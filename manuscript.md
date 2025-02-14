@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-02-13'
+date-meta: '2025-02-14'
 author-meta:
 - John Doe
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-02-13" />
-  <meta name="citation_publication_date" content="2025-02-13" />
-  <meta property="article:published_time" content="2025-02-13" />
-  <meta name="dc.modified" content="2025-02-13T23:53:52+00:00" />
-  <meta property="article:modified_time" content="2025-02-13T23:53:52+00:00" />
+  <meta name="dc.date" content="2025-02-14" />
+  <meta name="citation_publication_date" content="2025-02-14" />
+  <meta property="article:published_time" content="2025-02-14" />
+  <meta name="dc.modified" content="2025-02-14T00:01:35+00:00" />
+  <meta property="article:modified_time" content="2025-02-14T00:01:35+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/ad73a42f6ef5016fb9b4a4af27f04317e21a0f69/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/ad73a42f6ef5016fb9b4a4af27f04317e21a0f69/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/ad73a42f6ef5016fb9b4a4af27f04317e21a0f69/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/05c12d2322305d61621465eb88e5b4f9be78f908/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/05c12d2322305d61621465eb88e5b4f9be78f908/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/05c12d2322305d61621465eb88e5b4f9be78f908/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/ad73a42f6ef5016fb9b4a4af27f04317e21a0f69/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/05c12d2322305d61621465eb88e5b4f9be78f908/))
 was automatically generated
-from [timrobinson/manubot-demo@ad73a42](https://github.com/timrobinson/manubot-demo/tree/ad73a42f6ef5016fb9b4a4af27f04317e21a0f69)
-on February 13, 2025.
+from [timrobinson/manubot-demo@05c12d2](https://github.com/timrobinson/manubot-demo/tree/05c12d2322305d61621465eb88e5b4f9be78f908)
+on February 14, 2025.
 </em></small>
 
 
@@ -116,6 +116,7 @@ Jane Roe \<jane.roe@whatever.edu\>.
 
 
 :::
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nc1AmCGVeYvWKCsUK-RoPmd7edOBzMuWDLVsUuCPpzY&font=Default&lang=en&initial_zoom=2&height=700%22%20width=%223000%22%20height=%22700%22%20frameborder=%220%22" width="100%" height="500px"></iframe>
 
 
 ## Abstract {.page_break_before}
