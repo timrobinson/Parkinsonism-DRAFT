@@ -7,16 +7,12 @@ keywords:
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
-    mastodon-server: mastodon.social
-    email: john.doe@something.com
+  - github: timrobinson
+    name: Tim Robinson
+    initials: TR
+    email: trr640@gmail.com
     affiliations:
-      - Department of Something, University of Whatever
+      - University of Washington, Mechanical Engineering Department
     funders:
       - Grant XXXXXXXX
   - github: janeroe
