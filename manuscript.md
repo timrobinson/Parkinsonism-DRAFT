@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-02-14" />
   <meta name="citation_publication_date" content="2025-02-14" />
   <meta property="article:published_time" content="2025-02-14" />
-  <meta name="dc.modified" content="2025-02-14T00:15:28+00:00" />
-  <meta property="article:modified_time" content="2025-02-14T00:15:28+00:00" />
+  <meta name="dc.modified" content="2025-02-14T21:51:26+00:00" />
+  <meta property="article:modified_time" content="2025-02-14T21:51:26+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/83d4fb1e9cfb5de70506a523455c8655aba19416/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/83d4fb1e9cfb5de70506a523455c8655aba19416/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/83d4fb1e9cfb5de70506a523455c8655aba19416/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/c94959745bf887f5ae2a3e77288fdd024470195b/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/c94959745bf887f5ae2a3e77288fdd024470195b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/c94959745bf887f5ae2a3e77288fdd024470195b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/83d4fb1e9cfb5de70506a523455c8655aba19416/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/c94959745bf887f5ae2a3e77288fdd024470195b/))
 was automatically generated
-from [timrobinson/manubot-demo@83d4fb1](https://github.com/timrobinson/manubot-demo/tree/83d4fb1e9cfb5de70506a523455c8655aba19416)
+from [timrobinson/manubot-demo@c949597](https://github.com/timrobinson/manubot-demo/tree/c94959745bf887f5ae2a3e77288fdd024470195b)
 on February 14, 2025.
 </em></small>
 
@@ -113,7 +113,9 @@ Jane Roe \<jane.roe@whatever.edu\>.
 
 ## Abstract {.page_break_before}
 
-Hey, I am editing it now
+NOTE - this document is in draft currently.  If I have the discipline, I will be making additions and edits for the next few months
+
+Parkinsonism is a category of neurological diseases characterized by common mobility symptoms.  Specific diseases include Parkinson's Disease, Lewy Body Dementia, and Multiple System Atrophy.  These disease have complex and heterogenious pathologies that are not well understood.  Common pathology attributes for idiopathic parkinsonism includes misfolded proteins leading to toxic aggregates within the central nervous system (CNS), dysfunctional mitochondria resulting in impaired energy production and oxidative stress, chronic CNS inflammation, and dysfunctional cellular machinery that would otherwise correct misfolded protein conformation.  While parkinsonian disorders share some clinical features, their pathologies diverge based on which types of cells are affected and in which regions of the brain these changes occur. This distinction is a key factor in diagnosing and understanding these different disorders.
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
