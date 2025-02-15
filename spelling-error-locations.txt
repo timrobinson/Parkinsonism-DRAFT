@@ -1,4 +1,3 @@
-content/01.abstract.md:5:heterogenious
 content/01.abstract.md:5:LBD
 content/01.abstract.md:5:Lewy
 content/01.abstract.md:5:misfolded

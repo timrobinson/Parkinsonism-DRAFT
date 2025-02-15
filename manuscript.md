@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-02-15" />
   <meta name="citation_publication_date" content="2025-02-15" />
   <meta property="article:published_time" content="2025-02-15" />
-  <meta name="dc.modified" content="2025-02-15T00:39:55+00:00" />
-  <meta property="article:modified_time" content="2025-02-15T00:39:55+00:00" />
+  <meta name="dc.modified" content="2025-02-15T00:44:50+00:00" />
+  <meta property="article:modified_time" content="2025-02-15T00:44:50+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -43,9 +43,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/58b61cda547a3e70eb49ed8dbd4113214c79b83b/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/58b61cda547a3e70eb49ed8dbd4113214c79b83b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/58b61cda547a3e70eb49ed8dbd4113214c79b83b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/2f29c8a9712057456080002f3252af992a3e4496/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/2f29c8a9712057456080002f3252af992a3e4496/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/2f29c8a9712057456080002f3252af992a3e4496/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/58b61cda547a3e70eb49ed8dbd4113214c79b83b/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/2f29c8a9712057456080002f3252af992a3e4496/))
 was automatically generated
-from [timrobinson/manubot-demo@58b61cd](https://github.com/timrobinson/manubot-demo/tree/58b61cda547a3e70eb49ed8dbd4113214c79b83b)
+from [timrobinson/manubot-demo@2f29c8a](https://github.com/timrobinson/manubot-demo/tree/2f29c8a9712057456080002f3252af992a3e4496)
 on February 15, 2025.
 </em></small>
 
@@ -115,7 +115,7 @@ Jane Roe \<jane.roe@whatever.edu\>.
 
 NOTE - this document is in draft currently.  If I have the discipline, I will be making additions and edits for the next few months
 
-Parkinsonism is a category of neurological diseases characterized by common mobility symptoms.  Specific diseases include Parkinson's Disease (PD), Lewy Body Dementia(LBD), Progressive Supranuclear Palsy (PSP), and Multiple System Atrophy (MSA).  These disease have complex and heterogenious pathologies that are not well understood.  Common pathology attributes for idiopathic parkinsonism includes misfolded proteins leading to toxic aggregates within the central nervous system (CNS), dysfunctional mitochondria resulting in impaired energy production and oxidative stress, chronic CNS inflammation, and dysfunctional cellular machinery that would otherwise correct misfolded protein conformation.  The pathologies diverge based on which types of cells are affected, which protein aggregates, and which regions of the brain these changes occur. 
+Parkinsonism is a category of neurological diseases characterized by common mobility symptoms. Specific diseases include Parkinson's Disease (PD), Lewy Body Dementia (LBD), Progressive Supranuclear Palsy (PSP), and Multiple System Atrophy (MSA). These diseases have complex and heterogeneous pathologies that are not well understood. Common pathology attributes for idiopathic parkinsonism include misfolded proteins leading to toxic aggregates within the central nervous system (CNS), dysfunctional mitochondria resulting in impaired energy production and oxidative stress, chronic CNS inflammation, and dysfunctional cellular machinery that would otherwise correct misfolded protein conformation. The pathologies diverge based on which types of cells are affected, which protein aggregates, and which regions of the brain these changes occur. 
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
