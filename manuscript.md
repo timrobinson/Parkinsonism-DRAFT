@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-02-15" />
   <meta name="citation_publication_date" content="2025-02-15" />
   <meta property="article:published_time" content="2025-02-15" />
-  <meta name="dc.modified" content="2025-02-15T18:07:48+00:00" />
-  <meta property="article:modified_time" content="2025-02-15T18:07:48+00:00" />
+  <meta name="dc.modified" content="2025-02-15T21:34:41+00:00" />
+  <meta property="article:modified_time" content="2025-02-15T21:34:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/0478f9f0374503b2efbebfcfb11cb3838ac27e3e/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/0478f9f0374503b2efbebfcfb11cb3838ac27e3e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/0478f9f0374503b2efbebfcfb11cb3838ac27e3e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/752f9463c17748a01643ca9006c85d6167d3b5e9/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/752f9463c17748a01643ca9006c85d6167d3b5e9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/752f9463c17748a01643ca9006c85d6167d3b5e9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/0478f9f0374503b2efbebfcfb11cb3838ac27e3e/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/752f9463c17748a01643ca9006c85d6167d3b5e9/))
 was automatically generated
-from [timrobinson/manubot-demo@0478f9f](https://github.com/timrobinson/manubot-demo/tree/0478f9f0374503b2efbebfcfb11cb3838ac27e3e)
+from [timrobinson/manubot-demo@752f946](https://github.com/timrobinson/manubot-demo/tree/752f9463c17748a01643ca9006c85d6167d3b5e9)
 on February 15, 2025.
 </em></small>
 
@@ -118,6 +118,9 @@ Jane Roe \<jane.roe@whatever.edu\>.
 NOTE - this document is in draft currently.  If I have the discipline, I will be making additions and edits for the next few months
 
 Parkinsonism is a category of neurological diseases characterized by common mobility symptoms. Specific diseases include Parkinson's Disease (PD), Lewy Body Dementia (LBD), Progressive Supranuclear Palsy (PSP), and Multiple System Atrophy (MSA). These diseases have complex and heterogeneous pathologies that are not well understood. Common pathology attributes for idiopathic parkinsonism include misfolded proteins leading to toxic aggregates within the central nervous system (CNS), dysfunctional mitochondria resulting in impaired energy production and oxidative stress, chronic CNS inflammation, and dysfunctional cellular machinery that would otherwise correct misfolded protein conformation. The pathologies diverge based on which types of cells are affected, which protein aggregates, and which regions of the brain these changes occur. 
+
+
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nc1AmCGVeYvWKCsUK-RoPmd7edOBzMuWDLVsUuCPpzY&font=Default&lang=en&initial_zoom=2&height=700%22%20width=%223000%22%20height=%22700%22%20frameborder=%220%22" width="100%" height="500px"></iframe>
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
