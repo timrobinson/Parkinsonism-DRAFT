@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-02-15" />
   <meta name="citation_publication_date" content="2025-02-15" />
   <meta property="article:published_time" content="2025-02-15" />
-  <meta name="dc.modified" content="2025-02-15T00:44:50+00:00" />
-  <meta property="article:modified_time" content="2025-02-15T00:44:50+00:00" />
+  <meta name="dc.modified" content="2025-02-15T04:21:23+00:00" />
+  <meta property="article:modified_time" content="2025-02-15T04:21:23+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -33,6 +33,7 @@ header-includes: |
   <meta name="citation_technical_report_institution" content="Manubot" />
   <meta name="citation_author" content="Tim Robinson" />
   <meta name="citation_author_institution" content="University of Washington, Mechanical Engineering Department" />
+  <meta name="citation_author_orcid" content="0009-0000-7817-608X" />
   <meta name="citation_author" content="Jane Roe" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
@@ -43,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/2f29c8a9712057456080002f3252af992a3e4496/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/2f29c8a9712057456080002f3252af992a3e4496/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/2f29c8a9712057456080002f3252af992a3e4496/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/0ecc4c5e81cf30aa24b54e5f8fb73e9514f74d57/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/0ecc4c5e81cf30aa24b54e5f8fb73e9514f74d57/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/0ecc4c5e81cf30aa24b54e5f8fb73e9514f74d57/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/2f29c8a9712057456080002f3252af992a3e4496/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/0ecc4c5e81cf30aa24b54e5f8fb73e9514f74d57/))
 was automatically generated
-from [timrobinson/manubot-demo@2f29c8a](https://github.com/timrobinson/manubot-demo/tree/2f29c8a9712057456080002f3252af992a3e4496)
+from [timrobinson/manubot-demo@0ecc4c5](https://github.com/timrobinson/manubot-demo/tree/0ecc4c5e81cf30aa24b54e5f8fb73e9514f74d57)
 on February 15, 2025.
 </em></small>
 
@@ -81,6 +82,8 @@ on February 15, 2025.
 
 + **Tim Robinson**
   <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0009-0000-7817-608X](https://orcid.org/0009-0000-7817-608X)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [timrobinson](https://github.com/timrobinson)
     <br>
