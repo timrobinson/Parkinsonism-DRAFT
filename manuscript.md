@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: Parkinsonism
 keywords:
 - markdown
 - publishing
@@ -16,15 +16,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Parkinsonism" />
+  <meta name="citation_title" content="Parkinsonism" />
+  <meta property="og:title" content="Parkinsonism" />
+  <meta property="twitter:title" content="Parkinsonism" />
   <meta name="dc.date" content="2025-02-15" />
   <meta name="citation_publication_date" content="2025-02-15" />
   <meta property="article:published_time" content="2025-02-15" />
-  <meta name="dc.modified" content="2025-02-15T04:23:14+00:00" />
-  <meta property="article:modified_time" content="2025-02-15T04:23:14+00:00" />
+  <meta name="dc.modified" content="2025-02-15T04:25:53+00:00" />
+  <meta property="article:modified_time" content="2025-02-15T04:25:53+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/8938dfe384387a15192dd75a864ad811e7db4186/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/8938dfe384387a15192dd75a864ad811e7db4186/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/8938dfe384387a15192dd75a864ad811e7db4186/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/32e7940c61292c4def45f70a4f233d622619d0b2/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/32e7940c61292c4def45f70a4f233d622619d0b2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/32e7940c61292c4def45f70a4f233d622619d0b2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/8938dfe384387a15192dd75a864ad811e7db4186/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/32e7940c61292c4def45f70a4f233d622619d0b2/))
 was automatically generated
-from [timrobinson/manubot-demo@8938dfe](https://github.com/timrobinson/manubot-demo/tree/8938dfe384387a15192dd75a864ad811e7db4186)
+from [timrobinson/manubot-demo@32e7940](https://github.com/timrobinson/manubot-demo/tree/32e7940c61292c4def45f70a4f233d622619d0b2)
 on February 15, 2025.
 </em></small>
 
@@ -89,7 +89,6 @@ on February 15, 2025.
     <br>
   <small>
      University of Washington, Mechanical Engineering Department
-     · Funded by Grant XXXXXXXX
   </small>
 
 + **Jane Roe**
