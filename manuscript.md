@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-02-15" />
   <meta name="citation_publication_date" content="2025-02-15" />
   <meta property="article:published_time" content="2025-02-15" />
-  <meta name="dc.modified" content="2025-02-15T04:25:53+00:00" />
-  <meta property="article:modified_time" content="2025-02-15T04:25:53+00:00" />
+  <meta name="dc.modified" content="2025-02-15T18:07:48+00:00" />
+  <meta property="article:modified_time" content="2025-02-15T18:07:48+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/32e7940c61292c4def45f70a4f233d622619d0b2/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/32e7940c61292c4def45f70a4f233d622619d0b2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/32e7940c61292c4def45f70a4f233d622619d0b2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/0478f9f0374503b2efbebfcfb11cb3838ac27e3e/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/0478f9f0374503b2efbebfcfb11cb3838ac27e3e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/0478f9f0374503b2efbebfcfb11cb3838ac27e3e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/32e7940c61292c4def45f70a4f233d622619d0b2/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/0478f9f0374503b2efbebfcfb11cb3838ac27e3e/))
 was automatically generated
-from [timrobinson/manubot-demo@32e7940](https://github.com/timrobinson/manubot-demo/tree/32e7940c61292c4def45f70a4f233d622619d0b2)
+from [timrobinson/manubot-demo@0478f9f](https://github.com/timrobinson/manubot-demo/tree/0478f9f0374503b2efbebfcfb11cb3838ac27e3e)
 on February 15, 2025.
 </em></small>
 
