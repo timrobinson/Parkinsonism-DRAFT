@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-02-15" />
   <meta name="citation_publication_date" content="2025-02-15" />
   <meta property="article:published_time" content="2025-02-15" />
-  <meta name="dc.modified" content="2025-02-15T22:03:54+00:00" />
-  <meta property="article:modified_time" content="2025-02-15T22:03:54+00:00" />
+  <meta name="dc.modified" content="2025-02-15T22:04:36+00:00" />
+  <meta property="article:modified_time" content="2025-02-15T22:04:36+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/278e5f2b05f0ca6e749569b2b4d1fc336454fd66/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/278e5f2b05f0ca6e749569b2b4d1fc336454fd66/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/278e5f2b05f0ca6e749569b2b4d1fc336454fd66/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/27807f88b3ef12b764a8ce126c8b8e81471852a8/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/27807f88b3ef12b764a8ce126c8b8e81471852a8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/27807f88b3ef12b764a8ce126c8b8e81471852a8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/278e5f2b05f0ca6e749569b2b4d1fc336454fd66/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/27807f88b3ef12b764a8ce126c8b8e81471852a8/))
 was automatically generated
-from [timrobinson/manubot-demo@278e5f2](https://github.com/timrobinson/manubot-demo/tree/278e5f2b05f0ca6e749569b2b4d1fc336454fd66)
+from [timrobinson/manubot-demo@27807f8](https://github.com/timrobinson/manubot-demo/tree/27807f88b3ef12b764a8ce126c8b8e81471852a8)
 on February 15, 2025.
 </em></small>
 
@@ -120,7 +120,7 @@ NOTE - this document is in draft currently.  If I have the discipline, I will be
 Parkinsonism is a category of neurological diseases characterized by common mobility symptoms. Specific diseases include Parkinson's Disease (PD), Lewy Body Dementia (LBD), Progressive Supranuclear Palsy (PSP), and Multiple System Atrophy (MSA). These diseases have complex and heterogeneous pathologies that are not well understood. Common pathology attributes for idiopathic parkinsonism include misfolded proteins leading to toxic aggregates within the central nervous system (CNS), dysfunctional mitochondria resulting in impaired energy production and oxidative stress, chronic CNS inflammation, and dysfunctional cellular machinery that would otherwise correct misfolded protein conformation. The pathologies diverge based on which types of cells are affected, which protein aggregates, and which regions of the brain these changes occur. 
 
 
-<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nc1AmCGVeYvWKCsUK-RoPmd7edOBzMuWDLVsUuCPpzY&font=Default&lang=en&initial_zoom=2&height=700%22%20width=%223000%22%20height=%22700%22%20frameborder=%220%22" width="100%" height="500px"></iframe>
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nc1AmCGVeYvWKCsUK-RoPmd7edOBzMuWDLVsUuCPpzY&font=Default&lang=en&initial_zoom=2&height=700%22%20width=%223000%22%20height=%22700%22%20frameborder=%220%22" width="100%" height="500px"></iframe>  
 
 
 <iframe src="https://timrobinson.github.io/manubot-demo/content/images/progression.html" width="100%" height="500px"></iframe>
