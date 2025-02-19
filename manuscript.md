@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-02-15'
+date-meta: '2025-02-19'
 author-meta:
 - Tim Robinson
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Parkinsonism" />
   <meta property="og:title" content="Parkinsonism" />
   <meta property="twitter:title" content="Parkinsonism" />
-  <meta name="dc.date" content="2025-02-15" />
-  <meta name="citation_publication_date" content="2025-02-15" />
-  <meta property="article:published_time" content="2025-02-15" />
-  <meta name="dc.modified" content="2025-02-15T22:07:24+00:00" />
-  <meta property="article:modified_time" content="2025-02-15T22:07:24+00:00" />
+  <meta name="dc.date" content="2025-02-19" />
+  <meta name="citation_publication_date" content="2025-02-19" />
+  <meta property="article:published_time" content="2025-02-19" />
+  <meta name="dc.modified" content="2025-02-19T01:16:12+00:00" />
+  <meta property="article:modified_time" content="2025-02-19T01:16:12+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/cbbb312167bbfed0085684c57315b67c53a90995/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/cbbb312167bbfed0085684c57315b67c53a90995/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/cbbb312167bbfed0085684c57315b67c53a90995/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/2c56b8f81fe3423f5ceb78ee0268e9a4d3ba380d/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/2c56b8f81fe3423f5ceb78ee0268e9a4d3ba380d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/2c56b8f81fe3423f5ceb78ee0268e9a4d3ba380d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,10 +68,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/cbbb312167bbfed0085684c57315b67c53a90995/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/2c56b8f81fe3423f5ceb78ee0268e9a4d3ba380d/))
 was automatically generated
-from [timrobinson/manubot-demo@cbbb312](https://github.com/timrobinson/manubot-demo/tree/cbbb312167bbfed0085684c57315b67c53a90995)
-on February 15, 2025.
+from [timrobinson/manubot-demo@2c56b8f](https://github.com/timrobinson/manubot-demo/tree/2c56b8f81fe3423f5ceb78ee0268e9a4d3ba380d)
+on February 19, 2025.
 </em></small>
 
 
@@ -123,7 +123,7 @@ Parkinsonism is a category of neurological diseases characterized by common mobi
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nc1AmCGVeYvWKCsUK-RoPmd7edOBzMuWDLVsUuCPpzY&font=Default&lang=en&initial_zoom=2&height=700%22%20width=%223000%22%20height=%22700%22%20frameborder=%220%22" width="100%" height="500px"></iframe> <br><br>
 
 
-<iframe src="https://timrobinson.github.io/manubot-demo/content/images/progression.html" width="100%" height="500px"></iframe>
+<iframe src="./images/progression.html" width="100%" height="500px"></iframe>
 
 
 
