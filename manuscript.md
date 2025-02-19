@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-02-19" />
   <meta name="citation_publication_date" content="2025-02-19" />
   <meta property="article:published_time" content="2025-02-19" />
-  <meta name="dc.modified" content="2025-02-19T01:16:12+00:00" />
-  <meta property="article:modified_time" content="2025-02-19T01:16:12+00:00" />
+  <meta name="dc.modified" content="2025-02-19T01:20:30+00:00" />
+  <meta property="article:modified_time" content="2025-02-19T01:20:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/2c56b8f81fe3423f5ceb78ee0268e9a4d3ba380d/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/2c56b8f81fe3423f5ceb78ee0268e9a4d3ba380d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/2c56b8f81fe3423f5ceb78ee0268e9a4d3ba380d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/8cc645b75a6161501e8e6e09af7997a98887698c/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/8cc645b75a6161501e8e6e09af7997a98887698c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/8cc645b75a6161501e8e6e09af7997a98887698c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/2c56b8f81fe3423f5ceb78ee0268e9a4d3ba380d/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/8cc645b75a6161501e8e6e09af7997a98887698c/))
 was automatically generated
-from [timrobinson/manubot-demo@2c56b8f](https://github.com/timrobinson/manubot-demo/tree/2c56b8f81fe3423f5ceb78ee0268e9a4d3ba380d)
+from [timrobinson/manubot-demo@8cc645b](https://github.com/timrobinson/manubot-demo/tree/8cc645b75a6161501e8e6e09af7997a98887698c)
 on February 19, 2025.
 </em></small>
 
@@ -123,7 +123,7 @@ Parkinsonism is a category of neurological diseases characterized by common mobi
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nc1AmCGVeYvWKCsUK-RoPmd7edOBzMuWDLVsUuCPpzY&font=Default&lang=en&initial_zoom=2&height=700%22%20width=%223000%22%20height=%22700%22%20frameborder=%220%22" width="100%" height="500px"></iframe> <br><br>
 
 
-<iframe src="./images/progression.html" width="100%" height="500px"></iframe>
+<iframe src="./images/progression.html" width="150%" height="700px"></iframe>
 
 
 
