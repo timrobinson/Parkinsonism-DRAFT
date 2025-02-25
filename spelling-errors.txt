@@ -19,6 +19,8 @@ enim
 esse
 Excepteur
 exercitation
+exosome
+Exosomes
 fugiat
 incididunt
 ipsum
@@ -34,6 +36,8 @@ magna
 misfolded
 mollit
 MSA
+neurodegeneration
+neurodegenerative
 nisi
 nostrud
 occaecat
@@ -41,6 +45,7 @@ officia
 Pandoc’s
 pariatur
 pathologies
+prodromal
 proident
 PSP
 qui
