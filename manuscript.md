@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-02-25" />
   <meta name="citation_publication_date" content="2025-02-25" />
   <meta property="article:published_time" content="2025-02-25" />
-  <meta name="dc.modified" content="2025-02-25T19:05:53+00:00" />
-  <meta property="article:modified_time" content="2025-02-25T19:05:53+00:00" />
+  <meta name="dc.modified" content="2025-02-25T19:12:13+00:00" />
+  <meta property="article:modified_time" content="2025-02-25T19:12:13+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/1362cd64d389484f7281b7c6007452a8104a068b/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/1362cd64d389484f7281b7c6007452a8104a068b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/1362cd64d389484f7281b7c6007452a8104a068b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/3301f51d792f96467216bf4a7e63316c61a8f6bc/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/3301f51d792f96467216bf4a7e63316c61a8f6bc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/3301f51d792f96467216bf4a7e63316c61a8f6bc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/1362cd64d389484f7281b7c6007452a8104a068b/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/3301f51d792f96467216bf4a7e63316c61a8f6bc/))
 was automatically generated
-from [timrobinson/manubot-demo@1362cd6](https://github.com/timrobinson/manubot-demo/tree/1362cd64d389484f7281b7c6007452a8104a068b)
+from [timrobinson/manubot-demo@3301f51](https://github.com/timrobinson/manubot-demo/tree/3301f51d792f96467216bf4a7e63316c61a8f6bc)
 on February 25, 2025.
 </em></small>
 
@@ -127,6 +127,8 @@ Parkinsonism is a category of neurological diseases characterized by common mobi
 
 
 
+
+## Exosomes
 
 Exosomes are small extracellular vesicles that play a key role in cell-to-cell communication and waste removal by transporting molecular cargo such as proteins, RNA, and lipids. Research within the last decade has focused on their potential in targeted therapy delivery, disease biomarker discovery, immune system modulation, and strategies to block their uptake to mitigate pathological processes. [Citation Needed]
 
