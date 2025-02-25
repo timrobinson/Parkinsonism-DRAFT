@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-02-25" />
   <meta name="citation_publication_date" content="2025-02-25" />
   <meta property="article:published_time" content="2025-02-25" />
-  <meta name="dc.modified" content="2025-02-25T19:12:13+00:00" />
-  <meta property="article:modified_time" content="2025-02-25T19:12:13+00:00" />
+  <meta name="dc.modified" content="2025-02-25T23:18:35+00:00" />
+  <meta property="article:modified_time" content="2025-02-25T23:18:35+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/3301f51d792f96467216bf4a7e63316c61a8f6bc/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/3301f51d792f96467216bf4a7e63316c61a8f6bc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/3301f51d792f96467216bf4a7e63316c61a8f6bc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/f25088ecf511a071d8d9cfd6e575d29e29adf04f/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/f25088ecf511a071d8d9cfd6e575d29e29adf04f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/f25088ecf511a071d8d9cfd6e575d29e29adf04f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/3301f51d792f96467216bf4a7e63316c61a8f6bc/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/f25088ecf511a071d8d9cfd6e575d29e29adf04f/))
 was automatically generated
-from [timrobinson/manubot-demo@3301f51](https://github.com/timrobinson/manubot-demo/tree/3301f51d792f96467216bf4a7e63316c61a8f6bc)
+from [timrobinson/manubot-demo@f25088e](https://github.com/timrobinson/manubot-demo/tree/f25088ecf511a071d8d9cfd6e575d29e29adf04f)
 on February 25, 2025.
 </em></small>
 
@@ -133,6 +133,10 @@ Parkinsonism is a category of neurological diseases characterized by common mobi
 Exosomes are small extracellular vesicles that play a key role in cell-to-cell communication and waste removal by transporting molecular cargo such as proteins, RNA, and lipids. Research within the last decade has focused on their potential in targeted therapy delivery, disease biomarker discovery, immune system modulation, and strategies to block their uptake to mitigate pathological processes. [Citation Needed]
 
 Regarding neurodegenerative diseases, exosomes are being studied as potential biomarkers for early diagnosis, particularly for disorders like Parkinson’s Disease and Multiple System Atrophy. [Citation Needed] These diseases have long prodromal phases, during which symptoms may be subtle or non-motor in nature, delaying diagnosis until neurodegeneration is already advanced. Since current diagnostic methods rely heavily on clinical evaluations of motor dysfunction, the identification of exosome-based biomarkers could enable earlier, more precise detection. Importantly, clinically viable biomarkers must be detectable in peripheral fluids such as blood or saliva, allowing for non-invasive testing during routine healthcare visits. This could shift the diagnostic paradigm from symptom-based assessments to proactive screening, potentially enabling earlier interventions that slow disease progression. 
+
+Importantly, exosomes can cross the blood-brain barrier (BBB) bidirectionally, [Citation Needed] allowing for the collection of CNS biomarkers in peripheral fluids and enabling potential therapeutic delivery to the brain. However, in neurodegenerative diseases, a compromised BBB may also permit the entry of exosomes carrying toxic cargo, potentially contributing to disease progression by spreading misfolded proteins, exacerbating neuroinflammation, and inducing metabolic stress. Additionally, exosomes can transport immune-modulating factors, such as cytokines or microRNA, which may further disrupt CNS homeostasis. Understanding these mechanisms is critical, as exosomes could serve as both pathological agents and therapeutic targets in neurodegenerative disease management. [Citation Needed]
+
+Beyond their role in disease progression, exosomes also serve as natural concentrators of key biomarkers, which might otherwise be too dilute in peripheral fluids like blood or saliva for reliable detection. Furthermore, exosomes carry surface antigens reflective of their parent cells, allowing for selective isolation of disease-relevant exosomes. [Citation Needed] By isolating exosomes derived from specific cell types, such as dopaminergic neurons or oligodendrocytes, researchers can obtain enriched biomarker profiles in measurable concentrations, enhancing disease detection. This makes exosome-based diagnostics a promising avenue for the early identification and monitoring of neurodegenerative conditions.
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
 Use this template as a starting point for your manuscript.
