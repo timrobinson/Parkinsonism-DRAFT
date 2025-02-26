@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-02-26" />
   <meta name="citation_publication_date" content="2025-02-26" />
   <meta property="article:published_time" content="2025-02-26" />
-  <meta name="dc.modified" content="2025-02-26T19:47:23+00:00" />
-  <meta property="article:modified_time" content="2025-02-26T19:47:23+00:00" />
+  <meta name="dc.modified" content="2025-02-26T19:49:25+00:00" />
+  <meta property="article:modified_time" content="2025-02-26T19:49:25+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/3e736a0ed5feac3e1b15998193ba7c3fdda88b8b/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/3e736a0ed5feac3e1b15998193ba7c3fdda88b8b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/3e736a0ed5feac3e1b15998193ba7c3fdda88b8b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/f0cbca7180cd4640c31ea29e6fc832d445e98e5f/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/f0cbca7180cd4640c31ea29e6fc832d445e98e5f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/f0cbca7180cd4640c31ea29e6fc832d445e98e5f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/3e736a0ed5feac3e1b15998193ba7c3fdda88b8b/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/f0cbca7180cd4640c31ea29e6fc832d445e98e5f/))
 was automatically generated
-from [timrobinson/manubot-demo@3e736a0](https://github.com/timrobinson/manubot-demo/tree/3e736a0ed5feac3e1b15998193ba7c3fdda88b8b)
+from [timrobinson/manubot-demo@f0cbca7](https://github.com/timrobinson/manubot-demo/tree/f0cbca7180cd4640c31ea29e6fc832d445e98e5f)
 on February 26, 2025.
 </em></small>
 
@@ -142,7 +142,7 @@ Importantly, exosomes can cross the blood-brain barrier (BBB) bidirectionally, [
 
 Beyond their role in disease progression, exosomes also serve as natural concentrators of key biomarkers, which might otherwise be too dilute in peripheral fluids like blood or saliva for reliable detection. Furthermore, exosomes carry surface antigens reflective of their parent cells, allowing for selective isolation of disease-relevant exosomes. [Citation Needed] By isolating exosomes derived from specific cell types, such as dopaminergic neurons or oligodendrocytes, researchers can obtain enriched biomarker profiles in measurable concentrations, enhancing disease detection. This makes exosome-based diagnostics a promising avenue for the early identification and monitoring of neurodegenerative conditions.
 
-## Exosomes Cargo
+## Exosomes Cargo and Key Biomarkers
 
 Some text....
 
