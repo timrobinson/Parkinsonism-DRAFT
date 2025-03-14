@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-03-14" />
   <meta name="citation_publication_date" content="2025-03-14" />
   <meta property="article:published_time" content="2025-03-14" />
-  <meta name="dc.modified" content="2025-03-14T20:04:22+00:00" />
-  <meta property="article:modified_time" content="2025-03-14T20:04:22+00:00" />
+  <meta name="dc.modified" content="2025-03-14T20:12:41+00:00" />
+  <meta property="article:modified_time" content="2025-03-14T20:12:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/f7f521cc0c1e58480b8144d26f7777660110a9da/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/f7f521cc0c1e58480b8144d26f7777660110a9da/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/f7f521cc0c1e58480b8144d26f7777660110a9da/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/ab25c8b466be5cda72a94c727ac7c39d28da458d/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/ab25c8b466be5cda72a94c727ac7c39d28da458d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/ab25c8b466be5cda72a94c727ac7c39d28da458d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/f7f521cc0c1e58480b8144d26f7777660110a9da/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/ab25c8b466be5cda72a94c727ac7c39d28da458d/))
 was automatically generated
-from [timrobinson/manubot-demo@f7f521c](https://github.com/timrobinson/manubot-demo/tree/f7f521cc0c1e58480b8144d26f7777660110a9da)
+from [timrobinson/manubot-demo@ab25c8b](https://github.com/timrobinson/manubot-demo/tree/ab25c8b466be5cda72a94c727ac7c39d28da458d)
 on March 14, 2025.
 </em></small>
 
@@ -137,7 +137,7 @@ Building on this, Heiko Braak proposed in 2003 that PD may originate outside the
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nc1AmCGVeYvWKCsUK-RoPmd7edOBzMuWDLVsUuCPpzY&font=Default&lang=en&initial_zoom=2&height=700%22%20width=%223000%22%20height=%22700%22%20frameborder=%220%22" width="100%" height="500px"></iframe> <br><br>
 
 ## A Broad Selection of Potential Early Detection Biomarkers
-
+\begin{landscape}
 
 | Biomarker	| Category | Applicable Disorders | Source Fluid/Tissue |
 | :--------- | :--------: | :--------------------: | :-------------------: |
@@ -155,6 +155,7 @@ Building on this, Heiko Braak proposed in 2003 that PD may originate outside the
 | PINK1/Parkin Levels | Disease-associated | PD, MSA | Blood, CSF |
 | Complement Proteins (e.g., C3, Factor H) | Disease-associated	| PD, MSA | CSF |
 
+\end{landscape}
 ## Exosomes
 
 Exosomes are small extracellular vesicles that play a key role in cell-to-cell communication and waste removal by transporting molecular cargo such as proteins, RNA, and lipids. Research within the last decade has focused on their potential in targeted therapy delivery, disease biomarker discovery, immune system modulation, and strategies to block their uptake to mitigate pathological processes. [Citation Needed]
