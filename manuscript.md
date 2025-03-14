@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-02-27'
+date-meta: '2025-03-14'
 author-meta:
 - Tim Robinson
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Parkinsonism" />
   <meta property="og:title" content="Parkinsonism" />
   <meta property="twitter:title" content="Parkinsonism" />
-  <meta name="dc.date" content="2025-02-27" />
-  <meta name="citation_publication_date" content="2025-02-27" />
-  <meta property="article:published_time" content="2025-02-27" />
-  <meta name="dc.modified" content="2025-02-27T19:04:29+00:00" />
-  <meta property="article:modified_time" content="2025-02-27T19:04:29+00:00" />
+  <meta name="dc.date" content="2025-03-14" />
+  <meta name="citation_publication_date" content="2025-03-14" />
+  <meta property="article:published_time" content="2025-03-14" />
+  <meta name="dc.modified" content="2025-03-14T19:41:41+00:00" />
+  <meta property="article:modified_time" content="2025-03-14T19:41:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/87538780717b7b427001f42f2d2e6cb59aad4494/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/87538780717b7b427001f42f2d2e6cb59aad4494/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/87538780717b7b427001f42f2d2e6cb59aad4494/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/6b5ba23cb46c7d9065bd0688c50108758cd12117/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/6b5ba23cb46c7d9065bd0688c50108758cd12117/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/6b5ba23cb46c7d9065bd0688c50108758cd12117/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,10 +68,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/87538780717b7b427001f42f2d2e6cb59aad4494/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/6b5ba23cb46c7d9065bd0688c50108758cd12117/))
 was automatically generated
-from [timrobinson/manubot-demo@8753878](https://github.com/timrobinson/manubot-demo/tree/87538780717b7b427001f42f2d2e6cb59aad4494)
-on February 27, 2025.
+from [timrobinson/manubot-demo@6b5ba23](https://github.com/timrobinson/manubot-demo/tree/6b5ba23cb46c7d9065bd0688c50108758cd12117)
+on March 14, 2025.
 </em></small>
 
 
@@ -135,6 +135,25 @@ The mid-20th century saw a breakthrough when Arvid Carlsson identified dopamine 
 Building on this, Heiko Braak proposed in 2003 that PD may originate outside the brain, with misfolded alpha-synuclein spreading from the gut or olfactory system before affecting the CNS. More recently, Filip Scheperjans and others expanded this hypothesis, implicating gut microbiota in triggering the chronic inflammation that might drive early PD pathology. These findings have reframed Parkinson’s research, shifting focus from late-stage neurodegeneration to early detection and intervention.
 
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nc1AmCGVeYvWKCsUK-RoPmd7edOBzMuWDLVsUuCPpzY&font=Default&lang=en&initial_zoom=2&height=700%22%20width=%223000%22%20height=%22700%22%20frameborder=%220%22" width="100%" height="500px"></iframe> <br><br>
+
+## A Broad Selection of Potential Early Detection Biomarkers
+
+
+| Biomarker	| Category | Applicable Disorders | Source Fluid/Tissue |
+| :--------- | :--------: | :--------------------: | :-------------------: |
+| α-Synuclein Oligomers | Disease-specific | PD, MSA, DLB | CSF, Blood |
+| Total α-Synuclein | Disease-associated | PD, MSA, DLB	| CSF |
+| Phosphorylated α-Synuclein | Disease-specific	| PD | CSF |
+| Neurofilament Light Chain (NfL) |	Disease-associated | PD, MSA, PSP, CBD | CSF, Blood |
+| Total Tau Protein	| Disease-associated | PD, MSA, DLB, AD	| CSF |
+| Phosphorylated Tau Protein | Disease-associated | AD, DLB	| CSF |
+| Amyloid-β42 |	Disease-associated | AD, DLB | CSF |
+| DJ-1 Protein | Disease-associated	| PD | CSF, Blood |
+| Lysosomal Enzymes | Disease-associated | PD, MSA | CSF |
+| Inflammatory Cytokines (e.g., IL-6, TNF-α) | Disease-associated | PD, MSA, PSP, CBD | CSF, Blood |
+| MicroRNAs (e.g., miR-34b/c, miR-133b) | Disease-associated | PD | Blood, CSF |
+| PINK1/Parkin Levels | Disease-associated | PD, MSA | Blood, CSF |
+| Complement Proteins (e.g., C3, Factor H) | Disease-associated	| PD, MSA | CSF |
 
 ## Exosomes
 
