@@ -80,6 +80,13 @@ content/02.body-document.md:27:MSA
 content/02.body-document.md:27:Parkin
 content/02.body-document.md:28:CSF
 content/02.body-document.md:28:MSA
+content/02.body-document.md:29:CBD
+content/02.body-document.md:29:Corticobasal
+content/02.body-document.md:29:DLB
+content/02.body-document.md:29:Lewy
+content/02.body-document.md:29:MSA
+content/02.body-document.md:29:PSP
+content/02.body-document.md:29:Supranuclear
 content/02.body-document.md:31:Exosomes
 content/02.body-document.md:33:Exosomes
 content/02.body-document.md:35:exosome
