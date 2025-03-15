@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-03-15" />
   <meta name="citation_publication_date" content="2025-03-15" />
   <meta property="article:published_time" content="2025-03-15" />
-  <meta name="dc.modified" content="2025-03-15T04:39:25+00:00" />
-  <meta property="article:modified_time" content="2025-03-15T04:39:25+00:00" />
+  <meta name="dc.modified" content="2025-03-15T04:45:38+00:00" />
+  <meta property="article:modified_time" content="2025-03-15T04:45:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/039c66a3f55c644129b7f6635fd7cf74936cbf80/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/039c66a3f55c644129b7f6635fd7cf74936cbf80/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/039c66a3f55c644129b7f6635fd7cf74936cbf80/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/f2da06eb0221936f25c35b456fcbff52c655f7a6/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/f2da06eb0221936f25c35b456fcbff52c655f7a6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/f2da06eb0221936f25c35b456fcbff52c655f7a6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/039c66a3f55c644129b7f6635fd7cf74936cbf80/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/f2da06eb0221936f25c35b456fcbff52c655f7a6/))
 was automatically generated
-from [timrobinson/manubot-demo@039c66a](https://github.com/timrobinson/manubot-demo/tree/039c66a3f55c644129b7f6635fd7cf74936cbf80)
+from [timrobinson/manubot-demo@f2da06e](https://github.com/timrobinson/manubot-demo/tree/f2da06eb0221936f25c35b456fcbff52c655f7a6)
 on March 15, 2025.
 </em></small>
 
@@ -154,7 +154,9 @@ Building on this, Heiko Braak proposed in 2003 that PD may originate outside the
 | MicroRNAs (e.g., miR-34b/c, miR-133b) | Disease-associated | PD | Blood, CSF |
 | PINK1/Parkin Levels | Disease-associated | PD, MSA | Blood, CSF |
 | Complement Proteins (e.g., C3, Factor H) | Disease-associated	| PD, MSA | CSF |
-Note: PD = Parkinson's Disease; MSA = Multiple System Atrophy; DLB = Dementia with Lewy Bodies; PSP = Progressive Supranuclear Palsy; CBD = Corticobasal Degeneration; AD = Alzheimer's Disease 
+
+
+*Note: PD = Parkinson's Disease; MSA = Multiple System Atrophy; DLB = Dementia with Lewy Bodies; PSP = Progressive Supranuclear Palsy; CBD = Corticobasal Degeneration; AD = Alzheimer's Disease* 
 
 ## Exosomes
 
