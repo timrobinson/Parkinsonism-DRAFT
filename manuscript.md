@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-04-04" />
   <meta name="citation_publication_date" content="2025-04-04" />
   <meta property="article:published_time" content="2025-04-04" />
-  <meta name="dc.modified" content="2025-04-04T18:08:52+00:00" />
-  <meta property="article:modified_time" content="2025-04-04T18:08:52+00:00" />
+  <meta name="dc.modified" content="2025-04-04T18:25:15+00:00" />
+  <meta property="article:modified_time" content="2025-04-04T18:25:15+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/b5d19790585a844716d947515651ac4be0aee641/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/b5d19790585a844716d947515651ac4be0aee641/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/b5d19790585a844716d947515651ac4be0aee641/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/de7734a41ff24f789e3d99abe7354d12e2170eb2/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/de7734a41ff24f789e3d99abe7354d12e2170eb2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/de7734a41ff24f789e3d99abe7354d12e2170eb2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/b5d19790585a844716d947515651ac4be0aee641/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/de7734a41ff24f789e3d99abe7354d12e2170eb2/))
 was automatically generated
-from [timrobinson/manubot-demo@b5d1979](https://github.com/timrobinson/manubot-demo/tree/b5d19790585a844716d947515651ac4be0aee641)
+from [timrobinson/manubot-demo@de7734a](https://github.com/timrobinson/manubot-demo/tree/de7734a41ff24f789e3d99abe7354d12e2170eb2)
 on April 4, 2025.
 </em></small>
 
@@ -128,7 +128,7 @@ Parkinsonism is a category of neurological diseases characterized primarily by m
 
 
 ## Introduction
-The history of Parkinsonism traces back to 1817 when James Parkinson published An Essay on the Shaking Palsy, describing the characteristic motor symptoms of what would later be called Parkinson’s Disease (PD). Nearly a century later, Jean-Martin Charcot refined Parkinson’s observations, distinguishing the disorder from other movement disorders and formally naming it Maladie de Parkinson. Charcot also identified degeneration of the substantia nigra as a pathological feature, an insight that would later prove essential. Around the same time, in 1900, Dejerine and Thomas described a separate disorder, now known as Multiple System Atrophy (MSA), highlighting its distinct pathology affecting both motor and autonomic functions. In 1912, Friedrich Lewy discovered intraneuronal inclusions—Lewy bodies—marking the first pathological hallmark of PD, though their role remained unclear for decades.
+The history of Parkinsonism began in 1817, when James Parkinson published An Essay on the Shaking Palsy, describing the characteristic motor symptoms of the condition that would later bear his name. Several decades later, Jean-Martin Charcot refined Parkinson’s observations, distinguishing the disease from other movement disorders and formally naming it Maladie de Parkinson. Charcot also noted degeneration of the substantia nigra, an insight later validated as a central pathological feature. Around 1900, Dejerine and Thomas described a distinct degenerative disorder now recognized as Multiple System Atrophy (MSA). Although its pathology differs from Parkinson’s Disease, MSA shares overlapping motor symptoms and is often confused with PD in clinical settings—a confusion made more understandable by the later discovery that both diseases involve toxic aggregates of misfolded alpha-synuclein. In 1912, Friedrich Lewy identified intraneuronal inclusions—later called Lewy bodies—marking the first visible pathological hallmark of PD, though their significance would remain unclear for decades.
 
 The mid-20th century saw a breakthrough when Arvid Carlsson identified dopamine as a critical neurotransmitter, demonstrating its depletion in PD patients. This discovery paved the way for dopamine-replacement therapy, culminating in the FDA approval of Carbidopa/Levodopa in 1975, which remains the cornerstone of PD treatment. In the 1980s, a turning point emerged when drug users exposed to MPTP developed severe Parkinsonism, revealing the vulnerability of dopaminergic neurons to environmental toxins. This event shifted research away from symptomatic treatments toward mechanistic studies, leading to the discovery that mitochondrial dysfunction, oxidative stress, and impaired protein degradation contribute to PD pathology. The 1990s solidified alpha-synuclein as a key player, with genetic mutations in SNCA linking the protein to familial PD and misfolded aggregates being identified as a major pathological feature.
 

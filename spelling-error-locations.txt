@@ -23,9 +23,12 @@ content/02.body-document.md:3:intraneuronal
 content/02.body-document.md:3:Lewy
 content/02.body-document.md:3:Lewy
 content/02.body-document.md:3:Maladie
+content/02.body-document.md:3:misfolded
+content/02.body-document.md:3:MSA
 content/02.body-document.md:3:MSA
 content/02.body-document.md:3:nigra
 content/02.body-document.md:3:substantia
+content/02.body-document.md:3:synuclein
 content/02.body-document.md:5:Arvid
 content/02.body-document.md:5:Carbidopa
 content/02.body-document.md:5:Carlsson
