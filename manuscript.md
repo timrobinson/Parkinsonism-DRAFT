@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-03-15'
+date-meta: '2025-04-04'
 author-meta:
 - Tim Robinson
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Parkinsonism" />
   <meta property="og:title" content="Parkinsonism" />
   <meta property="twitter:title" content="Parkinsonism" />
-  <meta name="dc.date" content="2025-03-15" />
-  <meta name="citation_publication_date" content="2025-03-15" />
-  <meta property="article:published_time" content="2025-03-15" />
-  <meta name="dc.modified" content="2025-03-15T04:45:38+00:00" />
-  <meta property="article:modified_time" content="2025-03-15T04:45:38+00:00" />
+  <meta name="dc.date" content="2025-04-04" />
+  <meta name="citation_publication_date" content="2025-04-04" />
+  <meta property="article:published_time" content="2025-04-04" />
+  <meta name="dc.modified" content="2025-04-04T18:08:52+00:00" />
+  <meta property="article:modified_time" content="2025-04-04T18:08:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/f2da06eb0221936f25c35b456fcbff52c655f7a6/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/f2da06eb0221936f25c35b456fcbff52c655f7a6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/f2da06eb0221936f25c35b456fcbff52c655f7a6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/b5d19790585a844716d947515651ac4be0aee641/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/b5d19790585a844716d947515651ac4be0aee641/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/b5d19790585a844716d947515651ac4be0aee641/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,10 +68,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/f2da06eb0221936f25c35b456fcbff52c655f7a6/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/b5d19790585a844716d947515651ac4be0aee641/))
 was automatically generated
-from [timrobinson/manubot-demo@f2da06e](https://github.com/timrobinson/manubot-demo/tree/f2da06eb0221936f25c35b456fcbff52c655f7a6)
-on March 15, 2025.
+from [timrobinson/manubot-demo@b5d1979](https://github.com/timrobinson/manubot-demo/tree/b5d19790585a844716d947515651ac4be0aee641)
+on April 4, 2025.
 </em></small>
 
 
@@ -117,7 +117,7 @@ Jane Roe \<jane.roe@whatever.edu\>.
 
 NOTE - this document is in draft currently.  If I have the discipline, I will be making additions and edits for the next few months
 
-Parkinsonism is a category of neurological diseases characterized by common mobility symptoms. Specific diseases include Parkinson's Disease (PD), Lewy Body Dementia (LBD), Progressive Supranuclear Palsy (PSP), and Multiple System Atrophy (MSA). These diseases have complex and heterogeneous pathologies that are not well understood. Common pathology attributes for idiopathic parkinsonism include misfolded proteins leading to toxic aggregates within the central nervous system (CNS), dysfunctional mitochondria resulting in impaired energy production and oxidative stress, chronic CNS inflammation, and dysfunctional cellular machinery that would otherwise correct misfolded protein conformation. The pathologies diverge based on which types of cells are affected, which protein aggregates, and which regions of the brain these changes occur. These pathological changes are reflected in the cargo of exosomes released by affected cells, which can contain misfolded proteins, mitochondrial dysfunction markers, inflammatory mediators, and molecular indicators of impaired cellular maintenance. Since exosomes cross the blood-brain barrier and enter peripheral fluids, they offer a promising avenue for non-invasive biomarker discovery, potentially enabling earlier diagnosis and improved monitoring of disease progression in parkinsonian disorders.
+Parkinsonism is a category of neurological diseases characterized primarily by motor symptoms such as bradykinesia, rigidity, and resting tremor. Specific diseases include Parkinson’s Disease (PD), Lewy Body Dementia (LBD), Multiple System Atrophy (MSA), and Progressive Supranuclear Palsy (PSP). While these disorders share overlapping clinical features, their underlying pathologies are complex and heterogeneous. Common pathological features among many forms of idiopathic parkinsonism include misfolded proteins leading to toxic intracellular aggregates, dysfunctional mitochondria resulting in impaired energy production and oxidative stress, chronic central nervous system (CNS) inflammation, and impaired cellular machinery that normally maintains protein homeostasis. The diseases diverge based on the specific cell types affected, the protein that aggregates (e.g., alpha-synuclein in PD, LBD, and MSA; tau in PSP), and the regions of the brain impacted. These pathological changes are reflected in the cargo of exosomes—small extracellular vesicles released by affected cells—which may contain misfolded proteins, markers of mitochondrial dysfunction, inflammatory mediators, and molecular indicators of impaired cellular maintenance. Because exosomes can cross the blood-brain barrier and enter peripheral fluids, they represent a promising avenue for non-invasive biomarker discovery, potentially enabling earlier diagnosis and improved monitoring of disease progression in parkinsonian disorders.
 
 
 

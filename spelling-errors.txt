@@ -6,6 +6,7 @@ anim
 Arvid
 aute
 Braak
+bradykinesia
 Carbidopa
 Carlsson
 CBD
@@ -32,12 +33,13 @@ esse
 Excepteur
 exercitation
 exosome
-exosomes
+Exosomes
 Filip
 Friedrich
 fugiat
 Heiko
 incididunt
+intracellular
 intraneuronal
 ipsum
 irure
@@ -89,7 +91,7 @@ SNCA
 substantia
 sunt
 Supranuclear
-Synuclein
+synuclein
 tempor
 timrobinson
 TNF
