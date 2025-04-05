@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-04-04'
+date-meta: '2025-04-05'
 author-meta:
 - Tim Robinson
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Parkinsonism" />
   <meta property="og:title" content="Parkinsonism" />
   <meta property="twitter:title" content="Parkinsonism" />
-  <meta name="dc.date" content="2025-04-04" />
-  <meta name="citation_publication_date" content="2025-04-04" />
-  <meta property="article:published_time" content="2025-04-04" />
-  <meta name="dc.modified" content="2025-04-04T18:25:15+00:00" />
-  <meta property="article:modified_time" content="2025-04-04T18:25:15+00:00" />
+  <meta name="dc.date" content="2025-04-05" />
+  <meta name="citation_publication_date" content="2025-04-05" />
+  <meta property="article:published_time" content="2025-04-05" />
+  <meta name="dc.modified" content="2025-04-05T02:05:19+00:00" />
+  <meta property="article:modified_time" content="2025-04-05T02:05:19+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/de7734a41ff24f789e3d99abe7354d12e2170eb2/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/de7734a41ff24f789e3d99abe7354d12e2170eb2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/de7734a41ff24f789e3d99abe7354d12e2170eb2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/95b5043fd146b393c0b48102612cc5084f24dcf7/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/95b5043fd146b393c0b48102612cc5084f24dcf7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/95b5043fd146b393c0b48102612cc5084f24dcf7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,10 +68,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/de7734a41ff24f789e3d99abe7354d12e2170eb2/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/95b5043fd146b393c0b48102612cc5084f24dcf7/))
 was automatically generated
-from [timrobinson/manubot-demo@de7734a](https://github.com/timrobinson/manubot-demo/tree/de7734a41ff24f789e3d99abe7354d12e2170eb2)
-on April 4, 2025.
+from [timrobinson/manubot-demo@95b5043](https://github.com/timrobinson/manubot-demo/tree/95b5043fd146b393c0b48102612cc5084f24dcf7)
+on April 5, 2025.
 </em></small>
 
 
@@ -130,7 +130,7 @@ Parkinsonism is a category of neurological diseases characterized primarily by m
 ## Introduction
 The history of Parkinsonism began in 1817, when James Parkinson published An Essay on the Shaking Palsy, describing the characteristic motor symptoms of the condition that would later bear his name. Several decades later, Jean-Martin Charcot refined Parkinson’s observations, distinguishing the disease from other movement disorders and formally naming it Maladie de Parkinson. Charcot also noted degeneration of the substantia nigra, an insight later validated as a central pathological feature. Around 1900, Dejerine and Thomas described a distinct degenerative disorder now recognized as Multiple System Atrophy (MSA). Although its pathology differs from Parkinson’s Disease, MSA shares overlapping motor symptoms and is often confused with PD in clinical settings—a confusion made more understandable by the later discovery that both diseases involve toxic aggregates of misfolded alpha-synuclein. In 1912, Friedrich Lewy identified intraneuronal inclusions—later called Lewy bodies—marking the first visible pathological hallmark of PD, though their significance would remain unclear for decades.
 
-The mid-20th century saw a breakthrough when Arvid Carlsson identified dopamine as a critical neurotransmitter, demonstrating its depletion in PD patients. This discovery paved the way for dopamine-replacement therapy, culminating in the FDA approval of Carbidopa/Levodopa in 1975, which remains the cornerstone of PD treatment. In the 1980s, a turning point emerged when drug users exposed to MPTP developed severe Parkinsonism, revealing the vulnerability of dopaminergic neurons to environmental toxins. This event shifted research away from symptomatic treatments toward mechanistic studies, leading to the discovery that mitochondrial dysfunction, oxidative stress, and impaired protein degradation contribute to PD pathology. The 1990s solidified alpha-synuclein as a key player, with genetic mutations in SNCA linking the protein to familial PD and misfolded aggregates being identified as a major pathological feature.
+The mid-20th century brought a major breakthrough when Arvid Carlsson demonstrated the essential role of the neurotransmitter dopamine in motor control and its abundance in the basal ganglia, laying the groundwork for understanding its depletion in Parkinson’s Disease (PD). This discovery led to dopamine-replacement therapy, culminating in the widespread use—and eventual FDA approval in 1975—of carbidopa/levodopa, which remains the cornerstone of PD treatment and is also the mainstay therapy for Multiple System Atrophy (MSA), despite its typically limited and short-lived benefits. In the 1980s, an unexpected insight came when individuals exposed to heroin laced with the synthetic drug MPTP developed rapid-onset parkinsonism. The compound’s inhibition of mitochondrial Complex I exposed the particular vulnerability of dopaminergic neurons to environmental toxins, marking a pivotal shift away from symptomatic treatments toward mechanistic studies focused on the cellular underpinnings of PD. Subsequent investigations uncovered key roles for mitochondrial dysfunction, oxidative stress, and impaired protein clearance. In the 1990s, mutations in the SNCA gene, which encodes the alpha-synuclein protein, confirmed it as a causative factor in familial PD, and misfolded alpha-synuclein aggregates were identified as the major component of Lewy bodies, cementing the protein’s central role in both inherited and sporadic forms of the disease.
 
 Building on this, Heiko Braak proposed in 2003 that PD may originate outside the brain, with misfolded alpha-synuclein spreading from the gut or olfactory system before affecting the CNS. More recently, Filip Scheperjans and others expanded this hypothesis, implicating gut microbiota in triggering the chronic inflammation that might drive early PD pathology. These findings have reframed Parkinson’s research, shifting focus from late-stage neurodegeneration to early detection and intervention.
 

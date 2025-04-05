@@ -7,7 +7,7 @@ Arvid
 aute
 Braak
 bradykinesia
-Carbidopa
+carbidopa
 Carlsson
 CBD
 Charcot
@@ -48,7 +48,7 @@ labore
 laboris
 laborum
 LBD
-Levodopa
+levodopa
 Lewy
 Lorem
 magna
@@ -91,7 +91,7 @@ SNCA
 substantia
 sunt
 Supranuclear
-synuclein
+Synuclein
 tempor
 timrobinson
 TNF
