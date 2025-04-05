@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-04-05" />
   <meta name="citation_publication_date" content="2025-04-05" />
   <meta property="article:published_time" content="2025-04-05" />
-  <meta name="dc.modified" content="2025-04-05T02:05:19+00:00" />
-  <meta property="article:modified_time" content="2025-04-05T02:05:19+00:00" />
+  <meta name="dc.modified" content="2025-04-05T02:20:11+00:00" />
+  <meta property="article:modified_time" content="2025-04-05T02:20:11+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/95b5043fd146b393c0b48102612cc5084f24dcf7/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/95b5043fd146b393c0b48102612cc5084f24dcf7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/95b5043fd146b393c0b48102612cc5084f24dcf7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/00934207e6cdd6f98446c9acef8b5bf0f28816a1/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/00934207e6cdd6f98446c9acef8b5bf0f28816a1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/00934207e6cdd6f98446c9acef8b5bf0f28816a1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/95b5043fd146b393c0b48102612cc5084f24dcf7/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/00934207e6cdd6f98446c9acef8b5bf0f28816a1/))
 was automatically generated
-from [timrobinson/manubot-demo@95b5043](https://github.com/timrobinson/manubot-demo/tree/95b5043fd146b393c0b48102612cc5084f24dcf7)
+from [timrobinson/manubot-demo@0093420](https://github.com/timrobinson/manubot-demo/tree/00934207e6cdd6f98446c9acef8b5bf0f28816a1)
 on April 5, 2025.
 </em></small>
 
@@ -132,7 +132,7 @@ The history of Parkinsonism began in 1817, when James Parkinson published An Ess
 
 The mid-20th century brought a major breakthrough when Arvid Carlsson demonstrated the essential role of the neurotransmitter dopamine in motor control and its abundance in the basal ganglia, laying the groundwork for understanding its depletion in Parkinson’s Disease (PD). This discovery led to dopamine-replacement therapy, culminating in the widespread use—and eventual FDA approval in 1975—of carbidopa/levodopa, which remains the cornerstone of PD treatment and is also the mainstay therapy for Multiple System Atrophy (MSA), despite its typically limited and short-lived benefits. In the 1980s, an unexpected insight came when individuals exposed to heroin laced with the synthetic drug MPTP developed rapid-onset parkinsonism. The compound’s inhibition of mitochondrial Complex I exposed the particular vulnerability of dopaminergic neurons to environmental toxins, marking a pivotal shift away from symptomatic treatments toward mechanistic studies focused on the cellular underpinnings of PD. Subsequent investigations uncovered key roles for mitochondrial dysfunction, oxidative stress, and impaired protein clearance. In the 1990s, mutations in the SNCA gene, which encodes the alpha-synuclein protein, confirmed it as a causative factor in familial PD, and misfolded alpha-synuclein aggregates were identified as the major component of Lewy bodies, cementing the protein’s central role in both inherited and sporadic forms of the disease.
 
-Building on this, Heiko Braak proposed in 2003 that PD may originate outside the brain, with misfolded alpha-synuclein spreading from the gut or olfactory system before affecting the CNS. More recently, Filip Scheperjans and others expanded this hypothesis, implicating gut microbiota in triggering the chronic inflammation that might drive early PD pathology. These findings have reframed Parkinson’s research, shifting focus from late-stage neurodegeneration to early detection and intervention.
+Building on this mechanistic shift, Heiko Braak proposed in 2002 and 2003 that Parkinson’s Disease (PD) may originate outside the brain, with misfolded alpha-synuclein initially appearing in the enteric nervous system or olfactory bulb and then spreading in a prion-like fashion to the central nervous system (CNS). Although originally developed to describe PD, similar peripheral origins have been explored for Multiple System Atrophy (MSA), particularly given its early autonomic symptoms—such as constipation, urinary dysfunction, and orthostatic hypotension—and the detection of alpha-synuclein pathology in the peripheral nervous system. More recently, Filip Scheperjans and others have expanded this line of inquiry by implicating the gut microbiota in triggering the chronic inflammation and immune dysregulation that may drive early alpha-synuclein misfolding. These findings have reframed Parkinson’s research, and increasingly MSA research as well, shifting focus from late-stage neurodegeneration to the search for prodromal biomarkers and early therapeutic intervention.
 
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nc1AmCGVeYvWKCsUK-RoPmd7edOBzMuWDLVsUuCPpzY&font=Default&lang=en&initial_zoom=2&height=700%22%20width=%223000%22%20height=%22700%22%20frameborder=%220%22" width="100%" height="500px"></iframe> <br><br>
 
