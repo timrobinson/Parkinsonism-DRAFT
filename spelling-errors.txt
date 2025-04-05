@@ -13,6 +13,7 @@ CBD
 Charcot
 cillum
 commodo
+compacta
 concentrators
 consectetur
 consequat
@@ -35,9 +36,12 @@ Excepteur
 exercitation
 exosome
 exosomes
+extrapyramidal
 Filip
 Friedrich
 fugiat
+GCIs
+glial
 Heiko
 hypotension
 incididunt
@@ -67,6 +71,7 @@ neurodegeneration
 neurodegenerative
 Neurofilament
 neuroinflammation
+neuroinflammatory
 nigra
 nisi
 nostrud
@@ -81,6 +86,7 @@ Parkin
 parkinsonian
 pathologies
 Phosphorylated
+PNS
 prodromal
 proident
 PSP
