@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-04-05" />
   <meta name="citation_publication_date" content="2025-04-05" />
   <meta property="article:published_time" content="2025-04-05" />
-  <meta name="dc.modified" content="2025-04-05T02:52:00+00:00" />
-  <meta property="article:modified_time" content="2025-04-05T02:52:00+00:00" />
+  <meta name="dc.modified" content="2025-04-05T02:54:02+00:00" />
+  <meta property="article:modified_time" content="2025-04-05T02:54:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/932e9a7371317dd66ea53443e30e1ce2666c8517/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/932e9a7371317dd66ea53443e30e1ce2666c8517/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/932e9a7371317dd66ea53443e30e1ce2666c8517/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/6d63c0286cb45be6bda5d0eba452ee45f9913750/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/6d63c0286cb45be6bda5d0eba452ee45f9913750/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/6d63c0286cb45be6bda5d0eba452ee45f9913750/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/932e9a7371317dd66ea53443e30e1ce2666c8517/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/6d63c0286cb45be6bda5d0eba452ee45f9913750/))
 was automatically generated
-from [timrobinson/manubot-demo@932e9a7](https://github.com/timrobinson/manubot-demo/tree/932e9a7371317dd66ea53443e30e1ce2666c8517)
+from [timrobinson/manubot-demo@6d63c02](https://github.com/timrobinson/manubot-demo/tree/6d63c0286cb45be6bda5d0eba452ee45f9913750)
 on April 5, 2025.
 </em></small>
 
@@ -140,7 +140,7 @@ Building on this mechanistic shift, Heiko Braak proposed in 2002 and 2003 that P
 
 To understand how neurodegenerative diseases such as Parkinson’s Disease (PD) and Multiple System Atrophy (MSA) progress, it is essential to examine the anatomical layout of the nervous system—particularly the vulnerable entry points and communication pathways between the peripheral and central branches.
 
-The nervous system is traditionally divided into the central nervous system (CNS), comprising the brain and spinal cord, and the peripheral nervous system (PNS), which includes all neural structures outside the CNS. A critical but often underappreciated component of the PNS is the enteric nervous system (ENS)—sometimes referred to as the “second brain”—which regulates digestive function and communicates bidirectionally with the CNS through the vagus nerve and sympathetic ganglia.
+The nervous system is traditionally divided into the central nervous system (CNS), comprising the brain and spinal cord, and the peripheral nervous system (PNS), which includes all neural structures outside the CNS. A critical but often underappreciated component of the PNS is the enteric nervous system (ENS)—sometimes referred to as the “second brain”—which regulates digestive function and communicates bidirectionally with the CNS through a neural bridge called the vagus nerve and sympathetic ganglia.
 
 The autonomic nervous system (ANS), a subdivision of the PNS, governs involuntary processes like digestion, heart rate, and bladder control. It includes the sympathetic, parasympathetic, and enteric branches. Importantly, both PD and MSA frequently exhibit early signs of autonomic dysfunction—such as constipation, urinary urgency, and orthostatic hypotension—well before the onset of classic motor or balance symptoms. In fact, constipation has been observed to precede postural instability even in MSA, which is typically associated with cerebellar and extrapyramidal dysfunction. These early symptoms point to disease activity within the PNS, particularly in autonomic circuits.
 
