@@ -113,7 +113,7 @@ submucosal
 substantia
 sunt
 Supranuclear
-Synuclein
+synuclein
 synucleinopathies
 tempor
 timrobinson
