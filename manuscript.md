@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-04-05'
+date-meta: '2025-04-06'
 author-meta:
 - Tim Robinson
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Parkinsonism" />
   <meta property="og:title" content="Parkinsonism" />
   <meta property="twitter:title" content="Parkinsonism" />
-  <meta name="dc.date" content="2025-04-05" />
-  <meta name="citation_publication_date" content="2025-04-05" />
-  <meta property="article:published_time" content="2025-04-05" />
-  <meta name="dc.modified" content="2025-04-05T02:54:02+00:00" />
-  <meta property="article:modified_time" content="2025-04-05T02:54:02+00:00" />
+  <meta name="dc.date" content="2025-04-06" />
+  <meta name="citation_publication_date" content="2025-04-06" />
+  <meta property="article:published_time" content="2025-04-06" />
+  <meta name="dc.modified" content="2025-04-06T00:05:56+00:00" />
+  <meta property="article:modified_time" content="2025-04-06T00:05:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/6d63c0286cb45be6bda5d0eba452ee45f9913750/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/6d63c0286cb45be6bda5d0eba452ee45f9913750/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/6d63c0286cb45be6bda5d0eba452ee45f9913750/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/b3b461cce749d2a02b1433a0f18450eaed3dc064/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/b3b461cce749d2a02b1433a0f18450eaed3dc064/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/b3b461cce749d2a02b1433a0f18450eaed3dc064/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,10 +68,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/6d63c0286cb45be6bda5d0eba452ee45f9913750/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/b3b461cce749d2a02b1433a0f18450eaed3dc064/))
 was automatically generated
-from [timrobinson/manubot-demo@6d63c02](https://github.com/timrobinson/manubot-demo/tree/6d63c0286cb45be6bda5d0eba452ee45f9913750)
-on April 5, 2025.
+from [timrobinson/manubot-demo@b3b461c](https://github.com/timrobinson/manubot-demo/tree/b3b461cce749d2a02b1433a0f18450eaed3dc064)
+on April 6, 2025.
 </em></small>
 
 
@@ -138,15 +138,34 @@ Building on this mechanistic shift, Heiko Braak proposed in 2002 and 2003 that P
 
 ## Anatomy of the Nervous System: A Framework for Pathology
 
-To understand how neurodegenerative diseases such as Parkinson’s Disease (PD) and Multiple System Atrophy (MSA) progress, it is essential to examine the anatomical layout of the nervous system—particularly the vulnerable entry points and communication pathways between the peripheral and central branches.
+Mounting evidence suggests that the pathogenesis of neurodegenerative diseases like Parkinson’s Disease (PD) may begin in the Enteric Nervous System (ENS), progress through the autonomic branches of the Peripheral Nervous System (PNS), and ascend via a neural bridge—most notably, the vagus nerve—into the Central Nervous System (CNS). While this ENS-to-CNS progression is well supported in PD, similar pathways are being explored in Multiple System Atrophy (MSA), especially in cases where early autonomic symptoms and peripheral alpha-synuclein pathology are evident. Understanding the structural anatomy of these three interconnected systems is therefore critical to realizing how synucleinopathies may develop and spread through the body. A key to this understanding lies in comparing dopaminergic neurons as they appear in each of these environments: the Enteric Nervous System (ENS), the Peripheral Nervous System (PNS), and the Central Nervous System (CNS). These comparisons not only illustrate structural distinctions but also highlight how each system is uniquely affected in diseases like PD and MSA.
 
-The nervous system is traditionally divided into the central nervous system (CNS), comprising the brain and spinal cord, and the peripheral nervous system (PNS), which includes all neural structures outside the CNS. A critical but often underappreciated component of the PNS is the enteric nervous system (ENS)—sometimes referred to as the “second brain”—which regulates digestive function and communicates bidirectionally with the CNS through a neural bridge called the vagus nerve and sympathetic ganglia.
+To visually anchor this comparison, we present a labeled illustration of representative neurons from each system. This drawing forms the centerpiece of this section and includes bullet points beneath each neuron to highlight their key structural and functional characteristics. These visual summaries also reinforce each system's relevance to synucleinopathies like PD and MSA.
 
-The autonomic nervous system (ANS), a subdivision of the PNS, governs involuntary processes like digestion, heart rate, and bladder control. It includes the sympathetic, parasympathetic, and enteric branches. Importantly, both PD and MSA frequently exhibit early signs of autonomic dysfunction—such as constipation, urinary urgency, and orthostatic hypotension—well before the onset of classic motor or balance symptoms. In fact, constipation has been observed to precede postural instability even in MSA, which is typically associated with cerebellar and extrapyramidal dysfunction. These early symptoms point to disease activity within the PNS, particularly in autonomic circuits.
+<ins>Enteric Nervous System (ENS) Neuron</ins>
 
-Within the CNS, PD primarily affects dopaminergic neurons in the substantia nigra pars compacta, with alpha-synuclein aggregates accumulating in neurons as Lewy bodies. In contrast, MSA is marked by the accumulation of misfolded alpha-synuclein in oligodendrocytes, forming glial cytoplasmic inclusions (GCIs). While oligodendrocytes are not present in the PNS, recent findings from skin biopsies in MSA patients have revealed misfolded alpha-synuclein in peripheral autonomic nerve fibers, suggesting that peripheral pathology may precede central involvement. This raises the possibility that GCIs are a downstream effect of pathogenic alpha-synuclein entering the CNS from the periphery, potentially via non-neuronal mechanisms such as extracellular vesicle transfer or neuroinflammatory signaling.
+Although the ENS is technically a subdivision of the autonomic branch of the Peripheral Nervous System (PNS), its extensive autonomy and structural specialization justify its separate discussion here.
+The ENS resides in the walls of the gastrointestinal tract, primarily within the myenteric and submucosal plexuses. These plexuses are dense, highly branched networks of unmyelinated neurons and enteric glial cells. Rather than transmitting long-range signals, these neurons coordinate complex, localized reflexes to control gut motility, secretion, and blood flow. The unmyelinated nature of ENS neurons facilitates tight packing and high-density connectivity, which is critical for fine-tuned digestive control.
 
-These anatomical and cellular distinctions are critical for understanding disease progression and for identifying early, disease-specific biomarkers—especially those that can be detected in peripheral fluids before irreversible CNS damage has occurred.
+Importantly, research suggests that alpha-synuclein pathology may begin in this region, with misfolded protein appearing in the enteric plexus before spreading via autonomic pathways to the CNS. This supports Braak's hypothesis that synucleinopathies such as PD and possibly MSA may originate in the gut.
+
+<ins>Peripheral Nervous System (PNS) Neuron</ins>
+
+PNS neurons bridge the gap between the CNS and the digestive tract and other visceral organs. They are frequently myelinated by Schwann cells, each of which wraps a single axonal segment. This design supports rapid conduction of autonomic signals critical for regulating functions like blood pressure and digestion. In the context of PD and MSA, the PNS is a useful diagnostic window: alpha-synuclein pathology can be detected in skin and autonomic nerves even in the prodromal phase of disease.
+
+A notable distinction between PD and MSA lies in the extent of autonomic dysfunction seen in the PNS. MSA often presents with earlier and more severe autonomic symptoms—such as orthostatic hypotension, urinary incontinence, and erectile dysfunction—compared to PD. This greater impact on autonomic systems contributes directly to the term "multiple system atrophy," reflecting degeneration that extends beyond the motor system.
+
+A notable distinction between PD and MSA lies in the extent of autonomic dysfunction seen in the PNS. MSA often presents with earlier and more severe autonomic symptoms—such as orthostatic hypotension, urinary incontinence, and erectile dysfunction—compared to PD. This greater impact on autonomic systems contributes directly to the term "multiple system atrophy," reflecting degeneration that extends beyond the motor system.
+
+<ins>Central Nervous System (CNS) Neuron</ins>
+
+CNS neurons reside within the brain and spinal cord and play integrative roles in everything from motor control to higher cognitive function. They are myelinated by oligodendrocytes, which can extend processes to multiple axons. Uniquely, a single oligodendrocyte can myelinate axons from multiple types of neurons—such as dopaminergic, GABAergic, and serotonergic—contributing to the efficiency and interconnectivity of CNS signaling. This allows for high-efficiency signal propagation across vast brain regions. In PD, CNS dopaminergic neurons degenerate, particularly in the substantia nigra. In MSA, it is the oligodendrocytes themselves that become pathological, forming glial cytoplasmic inclusions of misfolded alpha-synuclein.
+
+One distinguishing feature of MSA is that demyelination occurs across a broad range of neuron types. The death of oligodendrocytes leads to widespread disruption of myelin sheaths, affecting not only dopaminergic neurons but also serotonergic, cholinergic, and other neuron classes. This loss of structural insulation impairs axonal function and triggers apoptotic cell death, contributing to the multisystem nature of degeneration observed in MSA.
+
+By anchoring this anatomical comparison with a clear illustration and accompanying bullet points, we can directly visualize how structural differences in neuron types contribute to both healthy function and disease vulnerability.
+
+
 ## A Broad Selection of Potential Early Detection Biomarkers
 
 
