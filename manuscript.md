@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-04-06" />
   <meta name="citation_publication_date" content="2025-04-06" />
   <meta property="article:published_time" content="2025-04-06" />
-  <meta name="dc.modified" content="2025-04-06T00:44:56+00:00" />
-  <meta property="article:modified_time" content="2025-04-06T00:44:56+00:00" />
+  <meta name="dc.modified" content="2025-04-06T18:18:52+00:00" />
+  <meta property="article:modified_time" content="2025-04-06T18:18:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/9dbafe87ad5e1785e3a3a60425fc7df2dedc18d2/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/9dbafe87ad5e1785e3a3a60425fc7df2dedc18d2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/9dbafe87ad5e1785e3a3a60425fc7df2dedc18d2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/9f8f2a273541db2654f9c75f36ee6ab5717bfb9b/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/9f8f2a273541db2654f9c75f36ee6ab5717bfb9b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/9f8f2a273541db2654f9c75f36ee6ab5717bfb9b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/9dbafe87ad5e1785e3a3a60425fc7df2dedc18d2/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/9f8f2a273541db2654f9c75f36ee6ab5717bfb9b/))
 was automatically generated
-from [timrobinson/manubot-demo@9dbafe8](https://github.com/timrobinson/manubot-demo/tree/9dbafe87ad5e1785e3a3a60425fc7df2dedc18d2)
+from [timrobinson/manubot-demo@9f8f2a2](https://github.com/timrobinson/manubot-demo/tree/9f8f2a273541db2654f9c75f36ee6ab5717bfb9b)
 on April 6, 2025.
 </em></small>
 
@@ -142,7 +142,7 @@ Mounting evidence suggests that the pathogenesis of neurodegenerative diseases l
 
 To visually anchor this comparison, we present a labeled illustration of representative neurons from each system. This drawing forms the centerpiece of this section and includes bullet points beneath each neuron to highlight their key structural and functional characteristics. These visual summaries also reinforce each system's relevance to synucleinopathies like PD and MSA.
 
-<iframe src="./images/Myelination Picture.jpg" width="75%" height="350px"></iframe>
+<iframe src="./images/Myelination Picture.jpg" width="100%" height="400px"></iframe>
 
 <ins>Enteric Nervous System (ENS) Neuron</ins>
 
