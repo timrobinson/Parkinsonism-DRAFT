@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-04-06" />
   <meta name="citation_publication_date" content="2025-04-06" />
   <meta property="article:published_time" content="2025-04-06" />
-  <meta name="dc.modified" content="2025-04-06T00:23:49+00:00" />
-  <meta property="article:modified_time" content="2025-04-06T00:23:49+00:00" />
+  <meta name="dc.modified" content="2025-04-06T00:29:47+00:00" />
+  <meta property="article:modified_time" content="2025-04-06T00:29:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/b24d354394cd8319bfd081dc173e47aaeaf30362/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/b24d354394cd8319bfd081dc173e47aaeaf30362/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/b24d354394cd8319bfd081dc173e47aaeaf30362/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/28980b60f90d1b3e81ecce22a32d27b27f340e30/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/28980b60f90d1b3e81ecce22a32d27b27f340e30/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/28980b60f90d1b3e81ecce22a32d27b27f340e30/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/b24d354394cd8319bfd081dc173e47aaeaf30362/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/28980b60f90d1b3e81ecce22a32d27b27f340e30/))
 was automatically generated
-from [timrobinson/manubot-demo@b24d354](https://github.com/timrobinson/manubot-demo/tree/b24d354394cd8319bfd081dc173e47aaeaf30362)
+from [timrobinson/manubot-demo@28980b6](https://github.com/timrobinson/manubot-demo/tree/28980b60f90d1b3e81ecce22a32d27b27f340e30)
 on April 6, 2025.
 </em></small>
 
@@ -141,6 +141,8 @@ Building on this mechanistic shift, Heiko Braak proposed in 2002 and 2003 that P
 Mounting evidence suggests that the pathogenesis of neurodegenerative diseases like Parkinson’s Disease (PD) may begin in the Enteric Nervous System (ENS), progress through the autonomic branches of the Peripheral Nervous System (PNS), and ascend via a neural bridge—most notably, the vagus nerve—into the Central Nervous System (CNS). While this ENS-to-CNS progression is well supported in PD, similar pathways are being explored in Multiple System Atrophy (MSA), especially in cases where early autonomic symptoms and peripheral alpha-synuclein pathology are evident. Understanding the structural anatomy of these three interconnected systems is therefore critical to realizing how synucleinopathies may develop and spread through the body. A key to this understanding lies in comparing dopaminergic neurons as they appear in each of these environments: the Enteric Nervous System (ENS), the Peripheral Nervous System (PNS), and the Central Nervous System (CNS). These comparisons not only illustrate structural distinctions but also highlight how each system is uniquely affected in diseases like PD and MSA.
 
 To visually anchor this comparison, we present a labeled illustration of representative neurons from each system. This drawing forms the centerpiece of this section and includes bullet points beneath each neuron to highlight their key structural and functional characteristics. These visual summaries also reinforce each system's relevance to synucleinopathies like PD and MSA.
+
+<iframe src="./images/Myelination Picture.png" width="150%" height="700px"></iframe>
 
 <ins>Enteric Nervous System (ENS) Neuron</ins>
 
