@@ -38,7 +38,7 @@ esse
 Excepteur
 exercitation
 exosome
-exosomes
+Exosomes
 Filip
 Friedrich
 fugiat
@@ -60,13 +60,15 @@ laborum
 LBD
 levodopa
 Lewy
+Lewy’s
 Lorem
 magna
 Maladie
+microbiome
 microbiota
 microRNA
 MicroRNAs
-Misfolded
+misfolded
 misfolding
 mollit
 MPTP

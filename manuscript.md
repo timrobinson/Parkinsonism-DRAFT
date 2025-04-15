@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-04-15" />
   <meta name="citation_publication_date" content="2025-04-15" />
   <meta property="article:published_time" content="2025-04-15" />
-  <meta name="dc.modified" content="2025-04-15T18:53:05+00:00" />
-  <meta property="article:modified_time" content="2025-04-15T18:53:05+00:00" />
+  <meta name="dc.modified" content="2025-04-15T19:07:35+00:00" />
+  <meta property="article:modified_time" content="2025-04-15T19:07:35+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/514563924204abfbacc802ed4aa0f2033aaca6d1/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/514563924204abfbacc802ed4aa0f2033aaca6d1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/514563924204abfbacc802ed4aa0f2033aaca6d1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/500f94cacca89b9dade5211add984dee9fa5f4fd/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/500f94cacca89b9dade5211add984dee9fa5f4fd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/500f94cacca89b9dade5211add984dee9fa5f4fd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/514563924204abfbacc802ed4aa0f2033aaca6d1/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/500f94cacca89b9dade5211add984dee9fa5f4fd/))
 was automatically generated
-from [timrobinson/manubot-demo@5145639](https://github.com/timrobinson/manubot-demo/tree/514563924204abfbacc802ed4aa0f2033aaca6d1)
+from [timrobinson/manubot-demo@500f94c](https://github.com/timrobinson/manubot-demo/tree/500f94cacca89b9dade5211add984dee9fa5f4fd)
 on April 15, 2025.
 </em></small>
 
@@ -135,6 +135,8 @@ The mid-20th century brought a major breakthrough when Arvid Carlsson demonstrat
 Building on this mechanistic shift, Heiko Braak proposed in 2002 and 2003 that Parkinson’s Disease (PD) may originate outside the brain, with misfolded alpha-synuclein initially appearing in the enteric nervous system or olfactory bulb and then spreading in a prion-like fashion to the central nervous system (CNS). Although originally developed to describe PD, similar peripheral origins have been explored for Multiple System Atrophy (MSA), particularly given its early autonomic symptoms—such as constipation, urinary dysfunction, and orthostatic hypotension—and the detection of alpha-synuclein pathology in the peripheral nervous system. More recently, Filip Scheperjans and others have expanded this line of inquiry by implicating the gut microbiota in triggering the chronic inflammation and immune dysregulation that may drive early alpha-synuclein misfolding. These findings have reframed Parkinson’s research, and increasingly MSA research as well, shifting focus from late-stage neurodegeneration to the search for prodromal biomarkers and early therapeutic intervention.
 
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nc1AmCGVeYvWKCsUK-RoPmd7edOBzMuWDLVsUuCPpzY&font=Default&lang=en&initial_zoom=2&height=700%22%20width=%223000%22%20height=%22700%22%20frameborder=%220%22" width="100%" height="500px"></iframe> <br><br>
+
+All of these scientific developments—from Lewy’s discovery to Braak’s hypothesis and the rise of microbiome research—have expanded our understanding of Parkinsonism. Yet despite this progress, the clinical diagnosis of Parkinson’s Disease (PD) and Multiple System Atrophy (MSA) remains largely reliant on neurologists' evaluation of motor symptoms—such as tremor, rigidity, balance, and coordination—which only manifest well after disease onset. Moreover, these symptoms overlap considerably between PD and MSA, making accurate differentiation difficult in early stages. While several promising biomarkers are under investigation, none are currently used as a front-line diagnostic tool. The closest example, a synuclein-positive skin biopsy, is typically reserved for confirmatory use after clinical suspicion has already been established. This gap underscores the need for sensitive, disease-specific biomarkers capable of identifying Parkinsonism early—ideally in its prodromal phase—when therapeutic intervention may be most effective.
 
 ## Peripheral Gateways to Pathogenesis
 
