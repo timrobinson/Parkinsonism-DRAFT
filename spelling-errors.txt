@@ -38,7 +38,7 @@ esse
 Excepteur
 exercitation
 exosome
-Exosomes
+exosomes
 Filip
 Friedrich
 fugiat
@@ -94,7 +94,7 @@ Pandoc’s
 pariatur
 Parkin
 parkinsonian
-pathogenesis
+Pathogenesis
 pathologies
 Phosphorylated
 PNS
@@ -115,7 +115,7 @@ submucosal
 substantia
 sunt
 Supranuclear
-Synuclein
+synuclein
 synucleinopathies
 tempor
 timrobinson
