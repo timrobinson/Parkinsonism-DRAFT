@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-04-06'
+date-meta: '2025-04-15'
 author-meta:
 - Tim Robinson
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Parkinsonism" />
   <meta property="og:title" content="Parkinsonism" />
   <meta property="twitter:title" content="Parkinsonism" />
-  <meta name="dc.date" content="2025-04-06" />
-  <meta name="citation_publication_date" content="2025-04-06" />
-  <meta property="article:published_time" content="2025-04-06" />
-  <meta name="dc.modified" content="2025-04-06T18:18:52+00:00" />
-  <meta property="article:modified_time" content="2025-04-06T18:18:52+00:00" />
+  <meta name="dc.date" content="2025-04-15" />
+  <meta name="citation_publication_date" content="2025-04-15" />
+  <meta property="article:published_time" content="2025-04-15" />
+  <meta name="dc.modified" content="2025-04-15T18:50:22+00:00" />
+  <meta property="article:modified_time" content="2025-04-15T18:50:22+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/9f8f2a273541db2654f9c75f36ee6ab5717bfb9b/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/9f8f2a273541db2654f9c75f36ee6ab5717bfb9b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/9f8f2a273541db2654f9c75f36ee6ab5717bfb9b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/2a29fe73f5e2db612872d3f30609da6704214116/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/2a29fe73f5e2db612872d3f30609da6704214116/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/2a29fe73f5e2db612872d3f30609da6704214116/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,10 +68,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/9f8f2a273541db2654f9c75f36ee6ab5717bfb9b/))
+([permalink](https://timrobinson.github.io/manubot-demo/v/2a29fe73f5e2db612872d3f30609da6704214116/))
 was automatically generated
-from [timrobinson/manubot-demo@9f8f2a2](https://github.com/timrobinson/manubot-demo/tree/9f8f2a273541db2654f9c75f36ee6ab5717bfb9b)
-on April 6, 2025.
+from [timrobinson/manubot-demo@2a29fe7](https://github.com/timrobinson/manubot-demo/tree/2a29fe73f5e2db612872d3f30609da6704214116)
+on April 15, 2025.
 </em></small>
 
 
@@ -136,7 +136,13 @@ Building on this mechanistic shift, Heiko Braak proposed in 2002 and 2003 that P
 
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nc1AmCGVeYvWKCsUK-RoPmd7edOBzMuWDLVsUuCPpzY&font=Default&lang=en&initial_zoom=2&height=700%22%20width=%223000%22%20height=%22700%22%20frameborder=%220%22" width="100%" height="500px"></iframe> <br><br>
 
-## Anatomy of the Nervous System: A Framework for Pathology
+## Peripheral Pathogenesis Gateways
+
+Peripheral structures like the intestinal lining and olfactory epithelium—first proposed as sites of disease initiation in Braak’s staging framework—have emerged as potential gateways for the development of Parkinson’s Disease (PD) and Multiple System Atrophy (MSA), offering early access points through which environmental triggers may influence disease onset and progression. Of these, the intestinal lining has received the most sustained attention, particularly as a site where breaches in the epithelial barrier may allow microbial products or toxins to interact directly with neurons, glia, and immune cells. Misfolded α-synuclein originating in this environment may then propagate to the central nervous system via the vagus nerve. While Braak’s hypothesis initially emphasized anatomical spread, subsequent research has expanded its scope, implicating the gut microbiota and intestinal immune signaling in both initiating and sustaining the chronic inflammation that drives early protein misfolding. These findings have reframed the intestinal mucosa as a dynamic interface—one where microbial, immune, and neuronal signals converge to shape vulnerability or resilience.
+
+### Intestinal Lining
+
+
 
 Mounting evidence suggests that the pathogenesis of neurodegenerative diseases like Parkinson’s Disease (PD) may begin in the Enteric Nervous System (ENS), progress through the autonomic branches of the Peripheral Nervous System (PNS), and ascend via a neural bridge—most notably, the vagus nerve—into the Central Nervous System (CNS). While this ENS-to-CNS progression is well supported in PD, similar pathways are being explored in Multiple System Atrophy (MSA), especially in cases where early autonomic symptoms and peripheral alpha-synuclein pathology are evident. Understanding the structural anatomy of these three interconnected systems is therefore critical to realizing how synucleinopathies may develop and spread through the body. A key to this understanding lies in comparing dopaminergic neurons as they appear in each of these environments: the Enteric Nervous System (ENS), the Peripheral Nervous System (PNS), and the Central Nervous System (CNS). These comparisons not only illustrate structural distinctions but also highlight how each system is uniquely affected in diseases like PD and MSA.
 

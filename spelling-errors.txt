@@ -38,11 +38,12 @@ esse
 Excepteur
 exercitation
 exosome
-exosomes
+Exosomes
 Filip
 Friedrich
 fugiat
 GABAergic
+glia
 glial
 Heiko
 hypotension
@@ -65,11 +66,12 @@ Maladie
 microbiota
 microRNA
 MicroRNAs
-misfolded
+Misfolded
 misfolding
 mollit
 MPTP
 MSA
+mucosa
 multisystem
 myelin
 myelinate
@@ -113,7 +115,7 @@ submucosal
 substantia
 sunt
 Supranuclear
-synuclein
+Synuclein
 synucleinopathies
 tempor
 timrobinson
