@@ -24,6 +24,7 @@ CSF
 culpa
 cupidatat
 Dejerine
+demyelinating
 demyelination
 deserunt
 DLB
@@ -38,7 +39,7 @@ esse
 Excepteur
 exercitation
 exosome
-Exosomes
+exosomes
 Filip
 Friedrich
 fugiat
@@ -78,6 +79,7 @@ multisystem
 myelin
 myelinate
 myelinated
+myeloma
 myenteric
 neurodegeneration
 neurodegenerative
@@ -100,13 +102,16 @@ Pathogenesis
 pathologies
 Phosphorylated
 PNS
+preclinical
 prodromal
 proident
 PSP
 qui
 quis
 reframed
+remyelination
 reprehenderit
+repurposing
 Scheperjans
 Schwann
 sed
@@ -122,6 +127,7 @@ synucleinopathies
 tempor
 timrobinson
 TNF
+Translational
 ullamco
 unmyelinated
 velit
