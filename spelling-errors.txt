@@ -79,7 +79,7 @@ microbiome
 microbiota
 microRNA
 MicroRNAs
-Misfolded
+misfolded
 misfolding
 mollit
 MPTP
@@ -111,7 +111,7 @@ Pandoc’s
 pariatur
 Parkin
 parkinsonian
-Pathogenesis
+pathogenesis
 pathologies
 peptidoglycan
 peptidoglycans
@@ -121,6 +121,7 @@ PNS
 preclinical
 prodromal
 proident
+propria
 PSP
 qui
 quis

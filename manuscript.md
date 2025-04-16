@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-04-16" />
   <meta name="citation_publication_date" content="2025-04-16" />
   <meta property="article:published_time" content="2025-04-16" />
-  <meta name="dc.modified" content="2025-04-16T20:03:54+00:00" />
-  <meta property="article:modified_time" content="2025-04-16T20:03:54+00:00" />
+  <meta name="dc.modified" content="2025-04-16T20:16:52+00:00" />
+  <meta property="article:modified_time" content="2025-04-16T20:16:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/a3cb15f67083c69e47350e828411590ef059f474/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/a3cb15f67083c69e47350e828411590ef059f474/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/a3cb15f67083c69e47350e828411590ef059f474/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/4afbd74d687e11e123ee2a52bf2292cbc42eee29/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/4afbd74d687e11e123ee2a52bf2292cbc42eee29/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/4afbd74d687e11e123ee2a52bf2292cbc42eee29/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/a3cb15f67083c69e47350e828411590ef059f474/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/4afbd74d687e11e123ee2a52bf2292cbc42eee29/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@a3cb15f](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/a3cb15f67083c69e47350e828411590ef059f474)
+from [timrobinson/Parkinsonism-DRAFT@4afbd74](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/4afbd74d687e11e123ee2a52bf2292cbc42eee29)
 on April 16, 2025.
 </em></small>
 
@@ -147,6 +147,8 @@ Peripheral structures like the intestinal lining and olfactory epithelium—firs
 In the context of dysbiosis, different microbial populations may drive distinct but convergent inflammatory pathways in Parkinsonism. In Parkinson’s Disease (PD), dysbiosis is typically characterized by an overrepresentation of gram-negative bacteria, whose outer membranes contain lipopolysaccharide (LPS)—a potent immune stimulator recognized by Toll-Like Receptor 4 (TLR4) on glial and immune cells. In contrast, Multiple System Atrophy (MSA) is more often associated with gram-positive dysbiosis, in which peptidoglycans (PGNs)—major components of the gram-positive cell wall—serve as the primary immunogenic signal. These peptidoglycans, particularly through fragments such as muramyl dipeptide (MDP), are detected by the intracellular pattern recognition receptor Nucleotide-binding Oligomerization Domain-containing protein 2 (NOD2), which is expressed on innate immune cells such as macrophages and dendritic cells. Notably, some gram-positive bacteria release extracellular vesicles (EVs) containing immunogenic peptidoglycan fragments such as MDP, suggesting that NOD2 activation may, in some cases, occur even in the absence of a leaky gut. Although LPS and PGNs activate distinct receptors (TLR4 vs. NOD2), both initiate downstream pro-inflammatory signaling cascades, converging mechanistically through chronic inflammation—a common hallmark of most neurodegenerative disease progression, including PD and MSA.
 
 This distinction underscores a fundamental difference in how dysbiosis may contribute to disease pathogenesis. While gram-negative bacterial products like LPS typically require a leaky gut to access host immune receptors at the cell surface, gram-positive bacteria may bypass this barrier by releasing extracellular vesicles (EVs). These EVs can be endocytosed by immune cells, delivering immunogenic peptidoglycan fragments such as muramyl dipeptide (MDP) directly into the cytosol, where they activate NOD2 and initiate inflammatory signaling.
+
+The intestinal lining forms a complex, multilayered barrier that regulates the interface between the gut microbiota and host tissues. At its outermost surface—and directly adjacent to the gut microbiome—lies a single layer of epithelial cells joined by tight junction proteins, which together constitute the first physical and immunological barrier to microbial intrusion. In a healthy gut, this epithelial layer prevents bacterial products like LPS and MDP from entering deeper tissue compartments. However, when this barrier is compromised, a condition often referred to as “leaky gut,” microbial fragments can cross the epithelium and access the underlying lamina propria. This connective tissue layer hosts a rich network of immune cells, including macrophages and dendritic cells, as well as enteric glial cells that support local neuronal populations. It is within the lamina propria that much of the innate immune response is initiated, particularly through pattern recognition receptors such as TLR4 and NOD2. As such, the integrity of the intestinal epithelium plays a central role in determining whether microbial signals are safely contained or become the spark for a sustained inflammatory response.
 
 
 ________________________________
