@@ -23,6 +23,7 @@ Corticobasal
 CSF
 culpa
 cupidatat
+cytosol
 Dejerine
 demyelinating
 demyelination
@@ -37,13 +38,14 @@ dysbiosis
 dysregulation
 eiusmod
 elit
+endocytosed
 enim
 esse
 EVs
 Excepteur
 exercitation
 exosome
-Exosomes
+exosomes
 Filip
 Friedrich
 fugiat

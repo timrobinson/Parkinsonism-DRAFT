@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-04-16" />
   <meta name="citation_publication_date" content="2025-04-16" />
   <meta property="article:published_time" content="2025-04-16" />
-  <meta name="dc.modified" content="2025-04-16T19:48:19+00:00" />
-  <meta property="article:modified_time" content="2025-04-16T19:48:19+00:00" />
+  <meta name="dc.modified" content="2025-04-16T20:03:54+00:00" />
+  <meta property="article:modified_time" content="2025-04-16T20:03:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/535b96ccb1166f3fba0c96674d165d660250ee3d/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/535b96ccb1166f3fba0c96674d165d660250ee3d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/535b96ccb1166f3fba0c96674d165d660250ee3d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/a3cb15f67083c69e47350e828411590ef059f474/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/a3cb15f67083c69e47350e828411590ef059f474/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/a3cb15f67083c69e47350e828411590ef059f474/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/535b96ccb1166f3fba0c96674d165d660250ee3d/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/a3cb15f67083c69e47350e828411590ef059f474/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@535b96c](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/535b96ccb1166f3fba0c96674d165d660250ee3d)
+from [timrobinson/Parkinsonism-DRAFT@a3cb15f](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/a3cb15f67083c69e47350e828411590ef059f474)
 on April 16, 2025.
 </em></small>
 
@@ -145,6 +145,8 @@ Peripheral structures like the intestinal lining and olfactory epithelium—firs
 ### Microbiome and the Intestinal Lining
 
 In the context of dysbiosis, different microbial populations may drive distinct but convergent inflammatory pathways in Parkinsonism. In Parkinson’s Disease (PD), dysbiosis is typically characterized by an overrepresentation of gram-negative bacteria, whose outer membranes contain lipopolysaccharide (LPS)—a potent immune stimulator recognized by Toll-Like Receptor 4 (TLR4) on glial and immune cells. In contrast, Multiple System Atrophy (MSA) is more often associated with gram-positive dysbiosis, in which peptidoglycans (PGNs)—major components of the gram-positive cell wall—serve as the primary immunogenic signal. These peptidoglycans, particularly through fragments such as muramyl dipeptide (MDP), are detected by the intracellular pattern recognition receptor Nucleotide-binding Oligomerization Domain-containing protein 2 (NOD2), which is expressed on innate immune cells such as macrophages and dendritic cells. Notably, some gram-positive bacteria release extracellular vesicles (EVs) containing immunogenic peptidoglycan fragments such as MDP, suggesting that NOD2 activation may, in some cases, occur even in the absence of a leaky gut. Although LPS and PGNs activate distinct receptors (TLR4 vs. NOD2), both initiate downstream pro-inflammatory signaling cascades, converging mechanistically through chronic inflammation—a common hallmark of most neurodegenerative disease progression, including PD and MSA.
+
+This distinction underscores a fundamental difference in how dysbiosis may contribute to disease pathogenesis. While gram-negative bacterial products like LPS typically require a leaky gut to access host immune receptors at the cell surface, gram-positive bacteria may bypass this barrier by releasing extracellular vesicles (EVs). These EVs can be endocytosed by immune cells, delivering immunogenic peptidoglycan fragments such as muramyl dipeptide (MDP) directly into the cytosol, where they activate NOD2 and initiate inflammatory signaling.
 
 
 ________________________________
