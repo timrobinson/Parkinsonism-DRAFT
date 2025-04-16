@@ -87,12 +87,15 @@ content/02.body-document.md:19:dipeptide
 content/02.body-document.md:19:dysbiosis
 content/02.body-document.md:19:dysbiosis
 content/02.body-document.md:19:dysbiosis
+content/02.body-document.md:19:EVs
 content/02.body-document.md:19:glial
+content/02.body-document.md:19:immunogenic
 content/02.body-document.md:19:immunogenic
 content/02.body-document.md:19:intracellular
 content/02.body-document.md:19:lipopolysaccharide
 content/02.body-document.md:19:LPS
 content/02.body-document.md:19:LPS
+content/02.body-document.md:19:MDP
 content/02.body-document.md:19:MDP
 content/02.body-document.md:19:MSA
 content/02.body-document.md:19:MSA
@@ -100,6 +103,7 @@ content/02.body-document.md:19:muramyl
 content/02.body-document.md:19:neurodegenerative
 content/02.body-document.md:19:Oligomerization
 content/02.body-document.md:19:overrepresentation
+content/02.body-document.md:19:peptidoglycan
 content/02.body-document.md:19:peptidoglycans
 content/02.body-document.md:19:peptidoglycans
 content/02.body-document.md:19:PGNs

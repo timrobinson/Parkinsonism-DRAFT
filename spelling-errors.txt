@@ -39,6 +39,7 @@ eiusmod
 elit
 enim
 esse
+EVs
 Excepteur
 exercitation
 exosome
@@ -72,11 +73,11 @@ LPS
 magna
 Maladie
 MDP
-Microbiome
+microbiome
 microbiota
 microRNA
 MicroRNAs
-misfolded
+Misfolded
 misfolding
 mollit
 MPTP
@@ -108,8 +109,9 @@ Pandoc’s
 pariatur
 Parkin
 parkinsonian
-pathogenesis
+Pathogenesis
 pathologies
+peptidoglycan
 peptidoglycans
 PGNs
 Phosphorylated
@@ -135,7 +137,7 @@ submucosal
 substantia
 sunt
 Supranuclear
-Synuclein
+synuclein
 synucleinopathies
 tempor
 timrobinson
