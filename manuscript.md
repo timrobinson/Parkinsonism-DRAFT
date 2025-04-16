@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-04-15'
+date-meta: '2025-04-16'
 author-meta:
 - Tim Robinson
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Parkinsonism" />
   <meta property="og:title" content="Parkinsonism" />
   <meta property="twitter:title" content="Parkinsonism" />
-  <meta name="dc.date" content="2025-04-15" />
-  <meta name="citation_publication_date" content="2025-04-15" />
-  <meta property="article:published_time" content="2025-04-15" />
-  <meta name="dc.modified" content="2025-04-15T19:36:59+00:00" />
-  <meta property="article:modified_time" content="2025-04-15T19:36:59+00:00" />
+  <meta name="dc.date" content="2025-04-16" />
+  <meta name="citation_publication_date" content="2025-04-16" />
+  <meta property="article:published_time" content="2025-04-16" />
+  <meta name="dc.modified" content="2025-04-16T19:41:15+00:00" />
+  <meta property="article:modified_time" content="2025-04-16T19:41:15+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -38,15 +38,15 @@ header-includes: |
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <link rel="canonical" href="https://timrobinson.github.io/manubot-demo/" />
-  <meta property="og:url" content="https://timrobinson.github.io/manubot-demo/" />
-  <meta property="twitter:url" content="https://timrobinson.github.io/manubot-demo/" />
-  <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/manubot-demo/" />
-  <meta name="citation_pdf_url" content="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/manubot-demo/v/ae6c2b2474dd9848c845ed57621d7a126491a9fb/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/ae6c2b2474dd9848c845ed57621d7a126491a9fb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/manubot-demo/v/ae6c2b2474dd9848c845ed57621d7a126491a9fb/manuscript.pdf" />
+  <link rel="canonical" href="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
+  <meta property="og:url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
+  <meta property="twitter:url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
+  <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
+  <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/7cbf67d7dd06213de6938ab73696beb871a15e52/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/7cbf67d7dd06213de6938ab73696beb871a15e52/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/7cbf67d7dd06213de6938ab73696beb871a15e52/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,10 +68,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/manubot-demo/v/ae6c2b2474dd9848c845ed57621d7a126491a9fb/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/7cbf67d7dd06213de6938ab73696beb871a15e52/))
 was automatically generated
-from [timrobinson/manubot-demo@ae6c2b2](https://github.com/timrobinson/manubot-demo/tree/ae6c2b2474dd9848c845ed57621d7a126491a9fb)
-on April 15, 2025.
+from [timrobinson/Parkinsonism-DRAFT@7cbf67d](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/7cbf67d7dd06213de6938ab73696beb871a15e52)
+on April 16, 2025.
 </em></small>
 
 
@@ -104,7 +104,7 @@ on April 15, 2025.
 
 
 ::: {#correspondence}
-✉ — Correspondence possible via [GitHub Issues](https://github.com/timrobinson/manubot-demo/issues)
+✉ — Correspondence possible via [GitHub Issues](https://github.com/timrobinson/Parkinsonism-DRAFT/issues)
 or email to
 Jane Roe \<jane.roe@whatever.edu\>.
 
@@ -142,9 +142,12 @@ All of these scientific developments—from Lewy’s discovery to Braak’s hypo
 
 Peripheral structures like the intestinal lining and olfactory epithelium—first proposed as sites of disease initiation in Braak’s staging framework—have emerged as potential gateways for the development of Parkinson’s Disease (PD) and Multiple System Atrophy (MSA), offering early access points through which environmental triggers may influence disease onset and progression. Of these, the intestinal lining has received the most sustained attention, particularly as a site where breaches in the epithelial barrier may allow microbial products or toxins to interact directly with neurons, glia, and immune cells. Misfolded α-synuclein originating in this environment may then propagate to the central nervous system via the vagus nerve. While Braak’s hypothesis initially emphasized anatomical spread, subsequent research has expanded its scope, implicating the gut microbiota and intestinal immune signaling in both initiating and sustaining the chronic inflammation that drives early protein misfolding. These findings have reframed the intestinal mucosa as a dynamic interface—one where microbial, immune, and neuronal signals converge to shape vulnerability or resilience.
 
-### Intestinal Lining
+### Microbiome and the Intestinal Lining
+
+In the context of dysbiosis, different microbial populations may drive distinct but convergent inflammatory pathways in Parkinsonism. In Parkinson’s Disease (PD), dysbiosis is typically characterized by an overrepresentation of gram-negative bacteria, whose outer membranes contain lipopolysaccharide (LPS)—a potent immune stimulator recognized by Toll-Like Receptor 4 (TLR4) on glial and immune cells. In contrast, Multiple System Atrophy (MSA) is more often associated with gram-positive dysbiosis, in which peptidoglycans (PGNs)—major components of the gram-positive cell wall—serve as the primary immunogenic signal. These peptidoglycans, particularly through fragments such as muramyl dipeptide (MDP), are detected by the intracellular pattern recognition receptor Nucleotide-binding Oligomerization Domain-containing protein 2 (NOD2), which is expressed on innate immune cells such as macrophages and dendritic cells. Although LPS and PGNs activate distinct receptors (TLR4 vs. NOD2), both initiate downstream pro-inflammatory signaling cascades, converging mechanistically through chronic inflammation—a common hallmark of most neurodegenerative disease progression, including PD and MSA.
 
 
+________________________________
 
 Mounting evidence suggests that the pathogenesis of neurodegenerative diseases like Parkinson’s Disease (PD) may begin in the Enteric Nervous System (ENS), progress through the autonomic branches of the Peripheral Nervous System (PNS), and ascend via a neural bridge—most notably, the vagus nerve—into the Central Nervous System (CNS). While this ENS-to-CNS progression is well supported in PD, similar pathways are being explored in Multiple System Atrophy (MSA), especially in cases where early autonomic symptoms and peripheral alpha-synuclein pathology are evident. Understanding the structural anatomy of these three interconnected systems is therefore critical to realizing how synucleinopathies may develop and spread through the body. A key to this understanding lies in comparing dopaminergic neurons as they appear in each of these environments: the Enteric Nervous System (ENS), the Peripheral Nervous System (PNS), and the Central Nervous System (CNS). These comparisons not only illustrate structural distinctions but also highlight how each system is uniquely affected in diseases like PD and MSA.
 
