@@ -124,9 +124,11 @@ content/02.body-document.md:21:peptidoglycan
 content/02.body-document.md:23:dendritic
 content/02.body-document.md:23:glial
 content/02.body-document.md:23:LPS
+content/02.body-document.md:23:LPS
 content/02.body-document.md:23:MDP
 content/02.body-document.md:23:microbiome
 content/02.body-document.md:23:microbiota
+content/02.body-document.md:23:peptidoglycans
 content/02.body-document.md:23:propria
 content/02.body-document.md:23:propria
 content/02.body-document.md:25:axonal
@@ -152,7 +154,6 @@ content/02.body-document.md:27:LPS
 content/02.body-document.md:27:MSA
 content/02.body-document.md:27:multifunctional
 content/02.body-document.md:27:neuroimmune
-content/02.body-document.md:27:TLRs
 content/02.body-document.md:31:dopaminergic
 content/02.body-document.md:31:MSA
 content/02.body-document.md:31:MSA

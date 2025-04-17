@@ -76,7 +76,7 @@ LPS
 magna
 Maladie
 MDP
-Microbiome
+microbiome
 microbiota
 microRNA
 MicroRNAs
@@ -143,12 +143,11 @@ submucosal
 substantia
 sunt
 Supranuclear
-synuclein
+Synuclein
 synucleinopathies
 tempor
 timrobinson
 TLR
-TLRs
 TNF
 Translational
 ullamco
