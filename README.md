@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/gh-pages) branch hosts the contents of this directory at <https://timrobinson.github.io/Parkinsonism-DRAFT/>.
-The permalink for this webpage version is <https://timrobinson.github.io/Parkinsonism-DRAFT/v/4bccf9307f04cbe5d77901c103cdbc877f57fcd7/>.
+The permalink for this webpage version is <https://timrobinson.github.io/Parkinsonism-DRAFT/v/fdedef0be8fee36d93fbb0d2130a3a1c347884be/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://timrobinson.github.io/Parkinsonism-DRAFT/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`4bccf9307f04cbe5d77901c103cdbc877f57fcd7`](https://github.com/timrobinson/Parkinsonism-DRAFT/commit/4bccf9307f04cbe5d77901c103cdbc877f57fcd7).
+[`fdedef0be8fee36d93fbb0d2130a3a1c347884be`](https://github.com/timrobinson/Parkinsonism-DRAFT/commit/fdedef0be8fee36d93fbb0d2130a3a1c347884be).
