@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-04-17" />
   <meta name="citation_publication_date" content="2025-04-17" />
   <meta property="article:published_time" content="2025-04-17" />
-  <meta name="dc.modified" content="2025-04-17T19:36:30+00:00" />
-  <meta property="article:modified_time" content="2025-04-17T19:36:30+00:00" />
+  <meta name="dc.modified" content="2025-04-17T20:18:18+00:00" />
+  <meta property="article:modified_time" content="2025-04-17T20:18:18+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8537a184bdd3e83501a0dcbabca831feb1bd2718/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8537a184bdd3e83501a0dcbabca831feb1bd2718/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8537a184bdd3e83501a0dcbabca831feb1bd2718/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/4bccf9307f04cbe5d77901c103cdbc877f57fcd7/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/4bccf9307f04cbe5d77901c103cdbc877f57fcd7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/4bccf9307f04cbe5d77901c103cdbc877f57fcd7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/8537a184bdd3e83501a0dcbabca831feb1bd2718/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/4bccf9307f04cbe5d77901c103cdbc877f57fcd7/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@8537a18](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/8537a184bdd3e83501a0dcbabca831feb1bd2718)
+from [timrobinson/Parkinsonism-DRAFT@4bccf93](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/4bccf9307f04cbe5d77901c103cdbc877f57fcd7)
 on April 17, 2025.
 </em></small>
 
@@ -154,6 +154,7 @@ Enteric neurons reside within the gut wall in close proximity to immune and glia
 
 Enteric glial cells (EGCs) are multifunctional support cells that regulate interactions between the gut’s immune and nervous systems. In a healthy gut, these cells help maintain neuronal function, regulate synaptic activity, and support epithelial barrier integrity. However, enteric glia also have innate immune capabilities: they use pattern recognition receptors, including members of the Toll-Like Receptor family, to detect microbial products such as LPS and respond by releasing pro-inflammatory cytokines and reactive oxygen species. Under conditions of chronic exposure to microbial stressors or persistent dysbiosis, these cells can adopt an active state that amplifies local inflammation and contributes to neuronal dysfunction. As such, EGCs sit at the intersection of microbial sensing, immune signaling, and neuronal support—poised to either protect or endanger dopaminergic neurons depending on the context of gut health. Together, these properties enable enteric glial cells to mediate early immune-neuronal interactions that contribute to the onset and progression of PD and MSA.
 
+In addition to classical immune receptors like TLR4 and NOD2, emerging research highlights the role of neurotransmitter receptors—expressed on neurons, glial cells, and immune cells—in shaping the intensity and persistence of inflammation. Among these, the serotonin receptor 5-HT2A is of particular interest. It is expressed widely in the gastrointestinal tract, including on enteric glia and mucosal immune cells, and has been shown in some models to amplify cytokine production in response to microbial stressors. Other modulatory receptors, such as α7 nicotinic acetylcholine and purinergic receptors, may also contribute to this immunological tuning. This convergence of neurotransmission, microbial sensing, and immune regulation creates a self-reinforcing environment in which early signals from dysbiosis may be prolonged through receptor-mediated inflammatory feedback loops. This receptor-mediated feedback may represent a key mechanism by which inflammation persists beyond the initial microbial trigger.
 ________________________________
 
 Mounting evidence suggests that the pathogenesis of neurodegenerative diseases like Parkinson’s Disease (PD) may begin in the Enteric Nervous System (ENS), progress through the autonomic branches of the Peripheral Nervous System (PNS), and ascend via a neural bridge—most notably, the vagus nerve—into the Central Nervous System (CNS). While this ENS-to-CNS progression is well supported in PD, similar pathways are being explored in Multiple System Atrophy (MSA), especially in cases where early autonomic symptoms and peripheral alpha-synuclein pathology are evident. Understanding the structural anatomy of these three interconnected systems is therefore critical to realizing how synucleinopathies may develop and spread through the body. A key to this understanding lies in comparing dopaminergic neurons as they appear in each of these environments: the Enteric Nervous System (ENS), the Peripheral Nervous System (PNS), and the Central Nervous System (CNS). These comparisons not only illustrate structural distinctions but also highlight how each system is uniquely affected in diseases like PD and MSA.

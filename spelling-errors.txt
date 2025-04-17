@@ -1,3 +1,4 @@
+acetylcholine
 adipiscing
 aliqua
 aliquip
@@ -23,6 +24,7 @@ Corticobasal
 CSF
 culpa
 cupidatat
+cytokine
 cytosol
 Dejerine
 demyelinating
@@ -76,16 +78,18 @@ LPS
 magna
 Maladie
 MDP
-Microbiome
+microbiome
 microbiota
 microRNA
 MicroRNAs
-misfolded
+Misfolded
 misfolding
+modulatory
 mollit
 MPTP
 MSA
 mucosa
+mucosal
 multifunctional
 multisystem
 muramyl
@@ -98,6 +102,8 @@ neurodegeneration
 neurodegenerative
 Neurofilament
 neuroinflammation
+neurotransmission
+nicotinic
 nigra
 nisi
 nostrud
@@ -113,7 +119,7 @@ Pandoc’s
 pariatur
 Parkin
 parkinsonian
-Pathogenesis
+pathogenesis
 pathologies
 peptidoglycan
 peptidoglycans
@@ -125,6 +131,7 @@ prodromal
 proident
 propria
 PSP
+purinergic
 qui
 quis
 reframed
@@ -142,7 +149,7 @@ submucosal
 substantia
 sunt
 Supranuclear
-Synuclein
+synuclein
 synucleinopathies
 tempor
 timrobinson
