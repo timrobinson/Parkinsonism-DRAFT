@@ -46,7 +46,7 @@ EVs
 Excepteur
 exercitation
 exosome
-Exosomes
+exosomes
 Filip
 Friedrich
 fugiat
@@ -76,11 +76,11 @@ LPS
 magna
 Maladie
 MDP
-microbiome
+Microbiome
 microbiota
 microRNA
 MicroRNAs
-Misfolded
+misfolded
 misfolding
 mollit
 MPTP

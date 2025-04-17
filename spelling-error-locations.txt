@@ -148,8 +148,8 @@ content/02.body-document.md:27:EGCs
 content/02.body-document.md:27:glia
 content/02.body-document.md:27:glial
 content/02.body-document.md:27:glial
-content/02.body-document.md:27:lipopolysaccharide
 content/02.body-document.md:27:LPS
+content/02.body-document.md:27:MSA
 content/02.body-document.md:27:multifunctional
 content/02.body-document.md:27:neuroimmune
 content/02.body-document.md:27:TLRs
