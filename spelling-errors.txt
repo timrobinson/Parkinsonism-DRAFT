@@ -78,7 +78,7 @@ LPS
 magna
 Maladie
 MDP
-microbiome
+Microbiome
 microbiota
 microRNA
 MicroRNAs
