@@ -36,6 +36,7 @@ dopaminergic
 Duis
 dysbiosis
 dysregulation
+EGCs
 eiusmod
 elit
 endocytosed
@@ -45,7 +46,7 @@ EVs
 Excepteur
 exercitation
 exosome
-exosomes
+Exosomes
 Filip
 Friedrich
 fugiat
@@ -79,12 +80,13 @@ microbiome
 microbiota
 microRNA
 MicroRNAs
-misfolded
+Misfolded
 misfolding
 mollit
 MPTP
 MSA
 mucosa
+multifunctional
 multisystem
 muramyl
 myelin
@@ -95,6 +97,7 @@ myenteric
 neurodegeneration
 neurodegenerative
 Neurofilament
+neuroimmune
 neuroinflammation
 nigra
 nisi
@@ -145,6 +148,7 @@ synucleinopathies
 tempor
 timrobinson
 TLR
+TLRs
 TNF
 Translational
 ullamco
