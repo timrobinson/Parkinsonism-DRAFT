@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-04-17" />
   <meta name="citation_publication_date" content="2025-04-17" />
   <meta property="article:published_time" content="2025-04-17" />
-  <meta name="dc.modified" content="2025-04-17T19:33:29+00:00" />
-  <meta property="article:modified_time" content="2025-04-17T19:33:29+00:00" />
+  <meta name="dc.modified" content="2025-04-17T19:36:30+00:00" />
+  <meta property="article:modified_time" content="2025-04-17T19:36:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/0afab67fc40ca2158e093782d85fe8c9e9c544f8/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/0afab67fc40ca2158e093782d85fe8c9e9c544f8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/0afab67fc40ca2158e093782d85fe8c9e9c544f8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8537a184bdd3e83501a0dcbabca831feb1bd2718/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8537a184bdd3e83501a0dcbabca831feb1bd2718/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8537a184bdd3e83501a0dcbabca831feb1bd2718/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/0afab67fc40ca2158e093782d85fe8c9e9c544f8/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/8537a184bdd3e83501a0dcbabca831feb1bd2718/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@0afab67](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/0afab67fc40ca2158e093782d85fe8c9e9c544f8)
+from [timrobinson/Parkinsonism-DRAFT@8537a18](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/8537a184bdd3e83501a0dcbabca831feb1bd2718)
 on April 17, 2025.
 </em></small>
 
@@ -152,7 +152,7 @@ The intestinal lining forms a complex, multilayered barrier that regulates the i
 
 Enteric neurons reside within the gut wall in close proximity to immune and glial cells, forming a dense network governing gastrointestinal motility, secretion, and immune surveillance. Unlike dopaminergic neurons in the peripheral or central nervous systems, dopaminergic neurons in the enteric nervous system are unmyelinated, leaving the axonal membrane continuously exposed to the extracellular environment and rendering them more vulnerable to inflammatory damage. Their anatomical position—embedded within the lamina propria and submucosal plexus—places them in direct communication with both the gut epithelium and resident immune cells. This intimate spatial relationship makes enteric neurons among the first neuronal populations exposed to microbial products and other toxins. Although unmyelination is a common feature of enteric neurons, the selective vulnerability of dopaminergic populations likely reflects additional factors—such as their metabolic burden and reliance on α-synuclein—a topic explored further in a later section. This combination of environmental exposure and structural vulnerability positions enteric neurons as early targets in the pathogenesis of synucleinopathies.
 
-Enteric glial cells (EGCs) are multifunctional support cells that help regulate gut neuroimmune interactions. In a healthy gut, these cells help maintain neuronal function, regulate synaptic activity, and support epithelial barrier integrity. However, enteric glia also have innate immune capabilities: they use pattern recognition receptors, including members of the Toll-Like Receptor family, to detect microbial products such as LPS and respond by releasing pro-inflammatory cytokines and reactive oxygen species. Under conditions of chronic exposure to microbial stressors or persistent dysbiosis, these cells can adopt an active state that amplifies local inflammation and contributes to neuronal dysfunction. As such, EGCs sit at the intersection of microbial sensing, immune signaling, and neuronal support—poised to either protect or endanger dopaminergic neurons depending on the context of gut health. Together, these properties enable enteric glial cells to mediate early immune-neuronal interactions that contribute to the onset and progression of PD and MSA.
+Enteric glial cells (EGCs) are multifunctional support cells that regulate interactions between the gut’s immune and nervous systems. In a healthy gut, these cells help maintain neuronal function, regulate synaptic activity, and support epithelial barrier integrity. However, enteric glia also have innate immune capabilities: they use pattern recognition receptors, including members of the Toll-Like Receptor family, to detect microbial products such as LPS and respond by releasing pro-inflammatory cytokines and reactive oxygen species. Under conditions of chronic exposure to microbial stressors or persistent dysbiosis, these cells can adopt an active state that amplifies local inflammation and contributes to neuronal dysfunction. As such, EGCs sit at the intersection of microbial sensing, immune signaling, and neuronal support—poised to either protect or endanger dopaminergic neurons depending on the context of gut health. Together, these properties enable enteric glial cells to mediate early immune-neuronal interactions that contribute to the onset and progression of PD and MSA.
 
 ________________________________
 

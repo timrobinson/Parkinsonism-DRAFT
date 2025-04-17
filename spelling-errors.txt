@@ -76,7 +76,7 @@ LPS
 magna
 Maladie
 MDP
-microbiome
+Microbiome
 microbiota
 microRNA
 MicroRNAs
@@ -97,7 +97,6 @@ myenteric
 neurodegeneration
 neurodegenerative
 Neurofilament
-neuroimmune
 neuroinflammation
 nigra
 nisi
@@ -114,7 +113,7 @@ Pandoc’s
 pariatur
 Parkin
 parkinsonian
-pathogenesis
+Pathogenesis
 pathologies
 peptidoglycan
 peptidoglycans
