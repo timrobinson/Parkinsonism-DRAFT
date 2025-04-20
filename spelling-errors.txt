@@ -7,9 +7,11 @@ anim
 Arvid
 aute
 axonal
+biome
 Braak
 Braak’s
 bradykinesia
+Butyrate
 carbidopa
 Carlsson
 CBD
@@ -61,6 +63,7 @@ immunogenic
 incididunt
 interconnectivity
 intracellular
+intracellularly
 intraneuronal
 ipsum
 irure
@@ -78,11 +81,11 @@ LPS
 magna
 Maladie
 MDP
-Microbiome
+microbiome
 microbiota
 microRNA
 MicroRNAs
-Misfolded
+misfolded
 misfolding
 modulatory
 mollit
@@ -101,7 +104,9 @@ myenteric
 neurodegeneration
 neurodegenerative
 Neurofilament
+neuroimmune
 neuroinflammation
+neuroplasticity
 neurotransmission
 nicotinic
 nigra
@@ -114,6 +119,7 @@ oligodendrocytes
 Oligomerization
 Oligomers
 orthostatic
+overactivation
 overrepresentation
 Pandoc’s
 pariatur
@@ -126,9 +132,11 @@ peptidoglycans
 PGNs
 Phosphorylated
 PNS
+potentiators
 preclinical
 prodromal
 proident
+propionate
 propria
 PSP
 purinergic
@@ -138,6 +146,8 @@ reframed
 remyelination
 reprehenderit
 repurposing
+SCFA
+SCFAs
 Scheperjans
 Schwann
 sed
@@ -156,6 +166,7 @@ timrobinson
 TLR
 TNF
 Translational
+Tregs
 ullamco
 unmyelinated
 unmyelination
