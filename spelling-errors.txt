@@ -7,11 +7,12 @@ anim
 Arvid
 aute
 axonal
+bioactive
 biome
 Braak
 Braak’s
 bradykinesia
-Butyrate
+butyrate
 carbidopa
 Carlsson
 CBD
@@ -38,7 +39,8 @@ DLB
 dolore
 dopaminergic
 Duis
-dysbiosis
+DYSBIOSIS
+dysregulate
 dysregulation
 EGCs
 eiusmod
@@ -68,6 +70,7 @@ intraneuronal
 ipsum
 irure
 janeroe
+kynurenine
 labore
 laboris
 laborum
@@ -101,12 +104,14 @@ myelinate
 myelinated
 myeloma
 myenteric
+neuroactive
 neurodegeneration
 neurodegenerative
 Neurofilament
 neuroimmune
 neuroinflammation
-neuroplasticity
+NEUROPLASTICITY
+neurotoxic
 neurotransmission
 nicotinic
 nigra
@@ -118,6 +123,7 @@ oligodendrocyte
 oligodendrocytes
 Oligomerization
 Oligomers
+OMVs
 orthostatic
 overactivation
 overrepresentation
@@ -129,6 +135,8 @@ pathogenesis
 pathologies
 peptidoglycan
 peptidoglycans
+periplasmic
+PGN
 PGNs
 Phosphorylated
 PNS
