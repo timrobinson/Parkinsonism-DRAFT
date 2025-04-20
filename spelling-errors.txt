@@ -7,7 +7,6 @@ anim
 Arvid
 aute
 axonal
-bioactive
 biome
 Braak
 Braak’s
@@ -52,7 +51,7 @@ EVs
 Excepteur
 exercitation
 exosome
-Exosomes
+exosomes
 Filip
 Friedrich
 fugiat
@@ -84,7 +83,7 @@ LPS
 magna
 Maladie
 MDP
-Microbiome
+microbiome
 microbiota
 microRNA
 MicroRNAs
@@ -105,12 +104,12 @@ myelinated
 myeloma
 myenteric
 neuroactive
-NEURODEGENERATION
+neurodegeneration
 neurodegenerative
 Neurofilament
 neuroimmune
 neuroinflammation
-NEUROPLASTICITY
+neuroplasticity
 neurotoxic
 neurotransmission
 nicotinic
@@ -123,7 +122,6 @@ oligodendrocyte
 oligodendrocytes
 Oligomerization
 Oligomers
-OMVs
 orthostatic
 overactivation
 overrepresentation
@@ -135,8 +133,6 @@ pathogenesis
 pathologies
 peptidoglycan
 peptidoglycans
-periplasmic
-PGN
 PGNs
 Phosphorylated
 PNS

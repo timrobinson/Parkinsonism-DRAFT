@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-04-20" />
   <meta name="citation_publication_date" content="2025-04-20" />
   <meta property="article:published_time" content="2025-04-20" />
-  <meta name="dc.modified" content="2025-04-20T01:34:08+00:00" />
-  <meta property="article:modified_time" content="2025-04-20T01:34:08+00:00" />
+  <meta name="dc.modified" content="2025-04-20T01:38:31+00:00" />
+  <meta property="article:modified_time" content="2025-04-20T01:38:31+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/246146e654bd5c81dab1f7208b209c327fc77773/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/246146e654bd5c81dab1f7208b209c327fc77773/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/246146e654bd5c81dab1f7208b209c327fc77773/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8064afdc054cb7f2470ca96813bf7bc65a3cf2a2/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8064afdc054cb7f2470ca96813bf7bc65a3cf2a2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8064afdc054cb7f2470ca96813bf7bc65a3cf2a2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/246146e654bd5c81dab1f7208b209c327fc77773/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/8064afdc054cb7f2470ca96813bf7bc65a3cf2a2/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@246146e](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/246146e654bd5c81dab1f7208b209c327fc77773)
+from [timrobinson/Parkinsonism-DRAFT@8064afd](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/8064afdc054cb7f2470ca96813bf7bc65a3cf2a2)
 on April 20, 2025.
 </em></small>
 
@@ -144,10 +144,9 @@ Peripheral structures like the intestinal lining and olfactory epithelium—firs
 
 ### Microbiome and the Intestinal Lining
 
-In the context of dysbiosis, different microbial populations may drive distinct but convergent inflammatory pathways in Parkinsonism. In Parkinson’s Disease (PD), dysbiosis is typically characterized by an overrepresentation of gram-negative bacteria, whose outer membranes contain lipopolysaccharide (LPS)—a potent immune stimulator recognized by Toll-Like Receptor 4 (TLR4) on glial and immune cells. In contrast, Multiple System Atrophy (MSA) is more often associated with gram-positive dysbiosis, in which peptidoglycans (PGNs)—major components of the gram-positive cell wall—serve as the primary immunogenic signal. These peptidoglycans, particularly through fragments such as muramyl dipeptide (MDP), are detected by the intracellular pattern recognition receptor Nucleotide-binding Oligomerization Domain-containing protein 2 (NOD2), which is expressed on innate immune cells such as macrophages and dendritic cells. Notably, both gram-positive and gram-negative bacteria can release extracellular vesicles (EVs) containing immunogenic peptidoglycan (PGN) fragments. In the case of gram-positive species, these vesicles may carry muramyl dipeptide (MDP), a minimal bioactive motif recognized by NOD2. Gram-negative bacteria, while primarily associated with LPS, also contain PGN in their periplasmic space and can secrete it via outer membrane vesicles (OMVs). These vesicles may deliver PGN fragments capable of activating NOD1 and possibly NOD2, even in the absence of epithelial barrier breach. This challenges the traditional dichotomy of TLR4 for gram-negative recognition and NOD2 for gram-positive, suggesting a more nuanced picture in which multiple microbial pathways may converge on innate immune signaling. Although LPS and PGNs activate distinct receptors (TLR4 vs. NOD2/NOD1), both initiate downstream pro-inflammatory signaling cascades, converging mechanistically through chronic inflammation—a common hallmark of most neurodegenerative disease progression, including PD and MSA.
+In the context of dysbiosis, different microbial populations may drive distinct but convergent inflammatory pathways in Parkinsonism. In PD, dysbiosis is typically characterized within the gut by an overrepresentation of gram-negative bacteria, whose outer membranes contain lipopolysaccharide (LPS)—a potent immune stimulator recognized by Toll-Like Receptor 4 (TLR4) on glial and immune cells. In contrast, MSA is more often associated with gut gram-positive dysbiosis, in which peptidoglycans (PGNs)—major components of the gram-positive cell wall—serve as the primary immunogenic signal. These peptidoglycans, particularly through fragments such as muramyl dipeptide (MDP), are detected by the intracellular pattern recognition receptor Nucleotide-binding Oligomerization Domain-containing protein 2 (NOD2), which is expressed on innate immune cells such as macrophages and dendritic cells. Although LPS and PGNs activate distinct receptors (TLR4 vs. NOD2), both initiate downstream pro-inflammatory signaling cascades, converging mechanistically through chronic inflammation—a common hallmark of most neurodegenerative disease progression, including PD and MSA.
 
 <center>ADD TABLE OF DYSBIOSIS FOR BOTH PD AND MSA</center>
-
 
 This distinction underscores a fundamental difference in how dysbiosis may contribute to disease pathogenesis. While gram-negative bacterial products like LPS typically require a leaky gut to access host immune receptors at the cell surface, gram-positive bacteria may bypass this barrier by releasing extracellular vesicles (EVs). These EVs can be endocytosed by immune cells, delivering immunogenic peptidoglycan fragments such as muramyl dipeptide (MDP) directly into the cytosol, where they activate NOD2 and initiate inflammatory signaling.
 
@@ -162,7 +161,6 @@ In addition to classical immune receptors like TLR4 and NOD2, emerging research 
 Tryptophan metabolism provides an additional regulatory axis linking microbial imbalance, immune activation, and neurotransmitter availability. Under normal conditions, tryptophan serves as a precursor for serotonin synthesis in the gut. However, during systemic inflammation, homeostasis is perturbed, further biasing tryptophan metabolism toward the kynurenine pathway. This shift yields neuroactive metabolites that can modulate glial cell behavior, increase oxidative stress, and potentially promote alpha-synuclein misfolding. The loss of serotonin, combined with the rise of kynurenine-derived compounds, may further dysregulate the enteric environment, compounding neuronal vulnerability and inflammatory persistence. By altering the availability and metabolic fate of tryptophan, chronic inflammation not only reshapes neurotransmitter signaling but also deepens the pathological loop central to PD and MSA.
 
 <center>ADD GRAPHIC OF TRYPTOPHAN PATHWAY</center>
-
 
 While dysbiosis promotes inflammation through LPS, PGNs, and microbial vesicles, a healthy gut microbiota performs critical anti-inflammatory functions. One major class of protective metabolites is the short-chain fatty acids (SCFAs), particularly butyrate, propionate, and acetate, which are produced through the fermentation of dietary fiber by gram-positive anaerobes. SCFAs enhance epithelial barrier integrity, support tight junction formation, and promote the development of regulatory T cells (Tregs) that help suppress immune overactivation. Butyrate, in particular, has been shown to inhibit pro-inflammatory cytokine production. In the context of PD and MSA, a loss of SCFA-producing bacteria has been observed, resulting in diminished immune tolerance, impaired barrier maintenance, and a permissive environment for sustained inflammation. This suggests that the shift in microbiota composition not only introduces pro-inflammatory signals but also removes essential counter-regulatory mechanisms.
 
