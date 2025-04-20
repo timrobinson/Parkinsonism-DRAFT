@@ -52,7 +52,7 @@ EVs
 Excepteur
 exercitation
 exosome
-exosomes
+Exosomes
 Filip
 Friedrich
 fugiat
@@ -84,7 +84,7 @@ LPS
 magna
 Maladie
 MDP
-microbiome
+Microbiome
 microbiota
 microRNA
 MicroRNAs
@@ -105,7 +105,7 @@ myelinated
 myeloma
 myenteric
 neuroactive
-neurodegeneration
+NEURODEGENERATION
 neurodegenerative
 Neurofilament
 neuroimmune

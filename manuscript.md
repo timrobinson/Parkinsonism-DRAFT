@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-04-20" />
   <meta name="citation_publication_date" content="2025-04-20" />
   <meta property="article:published_time" content="2025-04-20" />
-  <meta name="dc.modified" content="2025-04-20T01:31:02+00:00" />
-  <meta property="article:modified_time" content="2025-04-20T01:31:02+00:00" />
+  <meta name="dc.modified" content="2025-04-20T01:34:08+00:00" />
+  <meta property="article:modified_time" content="2025-04-20T01:34:08+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/6fc664ea9dbdb4632f24eafcc855b70985ec24f4/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/6fc664ea9dbdb4632f24eafcc855b70985ec24f4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/6fc664ea9dbdb4632f24eafcc855b70985ec24f4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/246146e654bd5c81dab1f7208b209c327fc77773/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/246146e654bd5c81dab1f7208b209c327fc77773/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/246146e654bd5c81dab1f7208b209c327fc77773/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/6fc664ea9dbdb4632f24eafcc855b70985ec24f4/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/246146e654bd5c81dab1f7208b209c327fc77773/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@6fc664e](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/6fc664ea9dbdb4632f24eafcc855b70985ec24f4)
+from [timrobinson/Parkinsonism-DRAFT@246146e](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/246146e654bd5c81dab1f7208b209c327fc77773)
 on April 20, 2025.
 </em></small>
 
@@ -148,6 +148,7 @@ In the context of dysbiosis, different microbial populations may drive distinct 
 
 <center>ADD TABLE OF DYSBIOSIS FOR BOTH PD AND MSA</center>
 
+
 This distinction underscores a fundamental difference in how dysbiosis may contribute to disease pathogenesis. While gram-negative bacterial products like LPS typically require a leaky gut to access host immune receptors at the cell surface, gram-positive bacteria may bypass this barrier by releasing extracellular vesicles (EVs). These EVs can be endocytosed by immune cells, delivering immunogenic peptidoglycan fragments such as muramyl dipeptide (MDP) directly into the cytosol, where they activate NOD2 and initiate inflammatory signaling.
 
 The intestinal lining forms a complex, multilayered barrier that regulates the interface between the gut microbiota and host tissues. At its outermost surface—and directly adjacent to the gut microbiome—lies a single layer of epithelial cells joined by tight junction proteins, which together constitute the first physical and immunological barrier to microbial intrusion. In a healthy gut, this epithelial layer prevents bacterial products like LPS from entering deeper tissue compartments; however, MDP may bypass this barrier when delivered intracellularly via bacterial extracellular vesicles (EVs). However, when this barrier is compromised—a condition often referred to as “leaky gut”—microbial fragments from both gram-negative and gram-positive bacteria can cross the epithelium and access the underlying lamina propria. This connective tissue layer hosts a rich network of immune cells, including macrophages and dendritic cells, as well as enteric glial cells that support local neuronal populations. It is within the lamina propria that much of the innate immune response is initiated, particularly through pattern recognition receptors like TLR4—previously activated by LPS—and NOD2, which detects bacterial peptidoglycans. As such, the integrity of the intestinal epithelium plays a central role in determining whether microbial signals are safely contained or become the spark for a sustained inflammatory response.
@@ -161,6 +162,7 @@ In addition to classical immune receptors like TLR4 and NOD2, emerging research 
 Tryptophan metabolism provides an additional regulatory axis linking microbial imbalance, immune activation, and neurotransmitter availability. Under normal conditions, tryptophan serves as a precursor for serotonin synthesis in the gut. However, during systemic inflammation, homeostasis is perturbed, further biasing tryptophan metabolism toward the kynurenine pathway. This shift yields neuroactive metabolites that can modulate glial cell behavior, increase oxidative stress, and potentially promote alpha-synuclein misfolding. The loss of serotonin, combined with the rise of kynurenine-derived compounds, may further dysregulate the enteric environment, compounding neuronal vulnerability and inflammatory persistence. By altering the availability and metabolic fate of tryptophan, chronic inflammation not only reshapes neurotransmitter signaling but also deepens the pathological loop central to PD and MSA.
 
 <center>ADD GRAPHIC OF TRYPTOPHAN PATHWAY</center>
+
 
 While dysbiosis promotes inflammation through LPS, PGNs, and microbial vesicles, a healthy gut microbiota performs critical anti-inflammatory functions. One major class of protective metabolites is the short-chain fatty acids (SCFAs), particularly butyrate, propionate, and acetate, which are produced through the fermentation of dietary fiber by gram-positive anaerobes. SCFAs enhance epithelial barrier integrity, support tight junction formation, and promote the development of regulatory T cells (Tregs) that help suppress immune overactivation. Butyrate, in particular, has been shown to inhibit pro-inflammatory cytokine production. In the context of PD and MSA, a loss of SCFA-producing bacteria has been observed, resulting in diminished immune tolerance, impaired barrier maintenance, and a permissive environment for sustained inflammation. This suggests that the shift in microbiota composition not only introduces pro-inflammatory signals but also removes essential counter-regulatory mechanisms.
 
