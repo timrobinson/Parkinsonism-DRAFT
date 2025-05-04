@@ -7,11 +7,12 @@ anim
 Arvid
 aute
 axonal
+biofluids
 biome
 Braak
 Braak’s
 bradykinesia
-butyrate
+Butyrate
 carbidopa
 Carlsson
 CBD
@@ -51,7 +52,7 @@ EVs
 Excepteur
 exercitation
 exosome
-exosomes
+Exosomes
 Filip
 Friedrich
 fugiat
@@ -87,7 +88,8 @@ microbiome
 microbiota
 microRNA
 MicroRNAs
-misfolded
+miRNAs
+Misfolded
 misfolding
 modulatory
 mollit
@@ -105,7 +107,7 @@ myeloma
 myenteric
 neuroactive
 neurodegeneration
-neurodegenerative
+Neurodegenerative
 Neurofilament
 neuroimmune
 neuroinflammation
@@ -137,6 +139,7 @@ PGNs
 Phosphorylated
 PNS
 potentiators
+pre
 preclinical
 prodromal
 proident
@@ -150,6 +153,7 @@ reframed
 remyelination
 reprehenderit
 repurposing
+RNAs
 SCFA
 SCFAs
 Scheperjans
@@ -170,7 +174,9 @@ timrobinson
 TLR
 TNF
 Translational
+translationally
 Tregs
+tRFs
 ullamco
 unmyelinated
 unmyelination

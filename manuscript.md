@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-04-20'
+date-meta: '2025-05-04'
 author-meta:
 - Tim Robinson
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Parkinsonism" />
   <meta property="og:title" content="Parkinsonism" />
   <meta property="twitter:title" content="Parkinsonism" />
-  <meta name="dc.date" content="2025-04-20" />
-  <meta name="citation_publication_date" content="2025-04-20" />
-  <meta property="article:published_time" content="2025-04-20" />
-  <meta name="dc.modified" content="2025-04-20T01:38:31+00:00" />
-  <meta property="article:modified_time" content="2025-04-20T01:38:31+00:00" />
+  <meta name="dc.date" content="2025-05-04" />
+  <meta name="citation_publication_date" content="2025-05-04" />
+  <meta property="article:published_time" content="2025-05-04" />
+  <meta name="dc.modified" content="2025-05-04T20:18:59+00:00" />
+  <meta property="article:modified_time" content="2025-05-04T20:18:59+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8064afdc054cb7f2470ca96813bf7bc65a3cf2a2/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8064afdc054cb7f2470ca96813bf7bc65a3cf2a2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8064afdc054cb7f2470ca96813bf7bc65a3cf2a2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/45485278394870ea0459dccd189daa50ffb2058d/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/45485278394870ea0459dccd189daa50ffb2058d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/45485278394870ea0459dccd189daa50ffb2058d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,10 +68,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/8064afdc054cb7f2470ca96813bf7bc65a3cf2a2/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/45485278394870ea0459dccd189daa50ffb2058d/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@8064afd](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/8064afdc054cb7f2470ca96813bf7bc65a3cf2a2)
-on April 20, 2025.
+from [timrobinson/Parkinsonism-DRAFT@4548527](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/45485278394870ea0459dccd189daa50ffb2058d)
+on May 4, 2025.
 </em></small>
 
 
@@ -226,17 +226,17 @@ By anchoring this anatomical comparison with a clear illustration and accompanyi
 
 ## Exosomes
 
-Exosomes are small extracellular vesicles that play a key role in cell-to-cell communication and waste removal by transporting molecular cargo such as proteins, RNA, and lipids. Research within the last decade has focused on their potential in targeted therapy delivery, disease biomarker discovery, immune system modulation, and strategies to block their uptake to mitigate pathological processes. [Citation Needed]
+Exosomes are small extracellular vesicles that play a key role in cell-to-cell communication and waste disposal regulation, carrying molecular cargo such as proteins, RNA, and lipids that reflect the state of their parent cells. Research within the last decade has focused on their potential in targeted therapy delivery, disease biomarker discovery, immune system modulation, and strategies to block their uptake to mitigate pathological processes. [Citation Needed]
 
 Regarding neurodegenerative diseases, exosomes are being studied as potential biomarkers for early diagnosis, particularly for disorders like Parkinson’s Disease and Multiple System Atrophy. [Citation Needed] These diseases have long prodromal phases, during which symptoms may be subtle or non-motor in nature, delaying diagnosis until neurodegeneration is already advanced. Since current diagnostic methods rely heavily on clinical evaluations of motor dysfunction, the identification of exosome-based biomarkers could enable earlier, more precise detection. Importantly, clinically viable biomarkers must be detectable in peripheral fluids such as blood or saliva, allowing for non-invasive testing during routine healthcare visits. This could shift the diagnostic paradigm from symptom-based assessments to proactive screening, potentially enabling earlier interventions that slow disease progression. 
 
 Importantly, exosomes can cross the blood-brain barrier (BBB) bidirectionally, [Citation Needed] allowing for the collection of CNS biomarkers in peripheral fluids and enabling potential therapeutic delivery to the brain. However, in neurodegenerative diseases, a compromised BBB may also permit the entry of exosomes carrying toxic cargo, potentially contributing to disease progression by spreading misfolded proteins, exacerbating neuroinflammation, and inducing metabolic stress. Additionally, exosomes can transport immune-modulating factors, such as cytokines or microRNA, which may further disrupt CNS homeostasis. Understanding these mechanisms is critical, as exosomes could serve as both pathological agents and therapeutic targets in neurodegenerative disease management. [Citation Needed]
 
-Beyond their role in disease progression, exosomes also serve as natural concentrators of key biomarkers, which might otherwise be too dilute in peripheral fluids like blood or saliva for reliable detection. Furthermore, exosomes carry surface antigens reflective of their parent cells, allowing for selective isolation of disease-relevant exosomes. [Citation Needed] By isolating exosomes derived from specific cell types, such as dopaminergic neurons or oligodendrocytes, researchers can obtain enriched biomarker profiles in measurable concentrations, enhancing disease detection. This makes exosome-based diagnostics a promising avenue for the early identification and monitoring of neurodegenerative conditions.
+One critical advantage of exosome-based diagnostics is their ability to enrich and protect disease-relevant signals, particularly during early, pre-symptomatic stages. While small RNA fragments such as transfer RNA fragments (tRFs) and microRNAs (miRNAs) can be measured directly in blood, these signals are often weak and masked by background noise from peripheral tissues. Exosomes overcome this by acting as biological concentrators—secreting stress-induced molecular cargo from diseased cells into protective vesicles that can be selectively captured from biofluids such as blood or saliva. In addition, exosomes display surface antigens reflective of their cell of origin, enabling researchers to isolate vesicles derived from specific cell types, such as dopaminergic neurons or oligodendrocytes. This layered specificity improves signal-to-noise and enhances disease detection, making exosome-based diagnostics a promising platform for the early identification and monitoring of neurodegenerative conditions.
 
-## Exosomes Cargo and Key Biomarkers
+## Key Biomarkers in Neurodegenerative Exosomes
 
-Some text....
+With exosomes established as a viable vehicle for biomarker discovery, the next challenge lies in determining what molecular cargo to interrogate. Ideal biomarkers must not only reflect disease presence, but also offer diagnostic specificity, early-stage sensitivity, and mechanistic insight. In the case of Parkinson’s Disease (PD) and Multiple System Atrophy (MSA), several promising categories have emerged—each offering a distinct diagnostic angle. These include small non-coding RNAs such as microRNAs (miRNAs) and transfer RNA fragments (tRFs), misfolded and post-translationally modified alpha-synuclein, and even the cellular origin of the exosomes themselves, which can be inferred from surface antigens. Together, these biomarkers may allow for early, accurate, and stratified detection of neurodegenerative disease.
 
 ## Future Directions and Translational Implications
 
