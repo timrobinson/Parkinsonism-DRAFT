@@ -51,8 +51,9 @@ esse
 EVs
 Excepteur
 exercitation
+exosomal
 exosome
-Exosomes
+exosomes
 Filip
 Friedrich
 fugiat
@@ -91,6 +92,7 @@ MicroRNAs
 miRNAs
 Misfolded
 misfolding
+mitophagy
 modulatory
 mollit
 MPTP
@@ -107,11 +109,11 @@ myeloma
 myenteric
 neuroactive
 neurodegeneration
-Neurodegenerative
+neurodegenerative
 Neurofilament
 neuroimmune
 neuroinflammation
-neuroplasticity
+NEUROPLASTICITY
 neurotoxic
 neurotransmission
 nicotinic
@@ -131,7 +133,7 @@ Pandoc’s
 pariatur
 Parkin
 parkinsonian
-pathogenesis
+Pathogenesis
 pathologies
 peptidoglycan
 peptidoglycans
@@ -154,6 +156,7 @@ remyelination
 reprehenderit
 repurposing
 RNAs
+scalable
 SCFA
 SCFAs
 Scheperjans
@@ -165,6 +168,7 @@ SNCA
 stimulator
 submucosal
 substantia
+subtypes
 sunt
 Supranuclear
 synuclein

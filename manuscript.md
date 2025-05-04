@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-04" />
   <meta name="citation_publication_date" content="2025-05-04" />
   <meta property="article:published_time" content="2025-05-04" />
-  <meta name="dc.modified" content="2025-05-04T20:18:59+00:00" />
-  <meta property="article:modified_time" content="2025-05-04T20:18:59+00:00" />
+  <meta name="dc.modified" content="2025-05-04T20:28:49+00:00" />
+  <meta property="article:modified_time" content="2025-05-04T20:28:49+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/45485278394870ea0459dccd189daa50ffb2058d/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/45485278394870ea0459dccd189daa50ffb2058d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/45485278394870ea0459dccd189daa50ffb2058d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/ab455ed65582900032f790c127262ff2c3f6fd30/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/ab455ed65582900032f790c127262ff2c3f6fd30/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/ab455ed65582900032f790c127262ff2c3f6fd30/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/45485278394870ea0459dccd189daa50ffb2058d/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/ab455ed65582900032f790c127262ff2c3f6fd30/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@4548527](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/45485278394870ea0459dccd189daa50ffb2058d)
+from [timrobinson/Parkinsonism-DRAFT@ab455ed](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/ab455ed65582900032f790c127262ff2c3f6fd30)
 on May 4, 2025.
 </em></small>
 
@@ -236,7 +236,11 @@ One critical advantage of exosome-based diagnostics is their ability to enrich a
 
 ## Key Biomarkers in Neurodegenerative Exosomes
 
-With exosomes established as a viable vehicle for biomarker discovery, the next challenge lies in determining what molecular cargo to interrogate. Ideal biomarkers must not only reflect disease presence, but also offer diagnostic specificity, early-stage sensitivity, and mechanistic insight. In the case of Parkinson’s Disease (PD) and Multiple System Atrophy (MSA), several promising categories have emerged—each offering a distinct diagnostic angle. These include small non-coding RNAs such as microRNAs (miRNAs) and transfer RNA fragments (tRFs), misfolded and post-translationally modified alpha-synuclein, and even the cellular origin of the exosomes themselves, which can be inferred from surface antigens. Together, these biomarkers may allow for early, accurate, and stratified detection of neurodegenerative disease.
+With exosomes established as a viable vehicle for biomarker discovery, the next challenge lies in determining what molecular cargo to interrogate. Ideal biomarkers for clinical use must offer diagnostic specificity, early-stage sensitivity, and be reliably detectable in peripheral biofluids. For this purpose, non-coding RNAs such as microRNAs (miRNAs) and transfer RNA fragments (tRFs), post-translationally modified alpha-synuclein, and even the cell-of-origin signatures encoded on the exosome surface have emerged as practical and scalable options.
+
+However, not all biomarkers need serve a diagnostic endpoint to be valuable. Certain molecular markers—such as components of the mitophagy pathway like PINK1 and Parkin—may have limited applicability in population screening, but their presence or absence in specific exosomal subtypes can offer deep insight into underlying cellular dysfunction. These mechanistic biomarkers help trace disease etiology, clarify subtypes, and potentially guide the development of targeted therapeutics.
+
+What follows is a survey of candidate biomarkers—some geared toward practical early detection, others included for their ability to illuminate the biology of Parkinson’s Disease (PD) and Multiple System Atrophy (MSA).
 
 ## Future Directions and Translational Implications
 
