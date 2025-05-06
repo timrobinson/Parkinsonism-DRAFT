@@ -41,7 +41,7 @@ DLB
 dolore
 dopaminergic
 Duis
-dysbiosis
+DYSBIOSIS
 dysregulate
 dysregulation
 EGCs
@@ -57,7 +57,7 @@ exercitation
 exocytosis
 exosomal
 Exosome
-Exosomes
+exosomes
 Filip
 Friedrich
 fugiat
@@ -126,7 +126,7 @@ neurodegeneration
 Neurodegenerative
 Neurofilament
 neuroimmune
-neuroplasticity
+NEUROPLASTICITY
 neurotoxic
 neurotransmission
 nicotinic
