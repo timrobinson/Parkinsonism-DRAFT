@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-06" />
   <meta name="citation_publication_date" content="2025-05-06" />
   <meta property="article:published_time" content="2025-05-06" />
-  <meta name="dc.modified" content="2025-05-06T23:40:34+00:00" />
-  <meta property="article:modified_time" content="2025-05-06T23:40:34+00:00" />
+  <meta name="dc.modified" content="2025-05-06T23:43:22+00:00" />
+  <meta property="article:modified_time" content="2025-05-06T23:43:22+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8f9a9d8a5ca4ca902dbd60280ae2ffe7395804e4/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8f9a9d8a5ca4ca902dbd60280ae2ffe7395804e4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8f9a9d8a5ca4ca902dbd60280ae2ffe7395804e4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/b73ce1d39599270d169d0566b66985fccef8c584/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/b73ce1d39599270d169d0566b66985fccef8c584/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/b73ce1d39599270d169d0566b66985fccef8c584/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/8f9a9d8a5ca4ca902dbd60280ae2ffe7395804e4/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/b73ce1d39599270d169d0566b66985fccef8c584/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@8f9a9d8](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/8f9a9d8a5ca4ca902dbd60280ae2ffe7395804e4)
+from [timrobinson/Parkinsonism-DRAFT@b73ce1d](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/b73ce1d39599270d169d0566b66985fccef8c584)
 on May 6, 2025.
 </em></small>
 
@@ -251,9 +251,9 @@ Despite their diagnostic promise, current methods for isolating and analyzing ex
   1.	Removal of cellular debris: Red and white blood cells are separated via low-speed centrifugation or filtration.
   2.	Depletion of plasma proteins: High-abundance proteins such as albumin and immunoglobulins are removed to reduce background noise.
   3.	Size-based separation: Differential ultracentrifugation or gradient density centrifugation isolates vesicles in the 30–150 nm range characteristic of exosomes.
-  4.	Immunoaffinity capture: Exosomes are sorted based on surface protein markers that reflect their parent cell identity:;NBSP
-       o	L1CAM (CD171) and NCAM for neuron-derived exosomes, including dopaminergic neurons⁵ ;NBSP
-       o	CNPase and MOG for oligodendrocyte-derived exosomes⁶ ;NBSP
+  4.	Immunoaffinity capture: Exosomes are sorted based on surface protein markers that reflect their parent cell identity:
+       *	L1CAM (CD171) and NCAM for neuron-derived exosomes, including dopaminergic neurons⁵ 
+       *	CNPase and MOG for oligodendrocyte-derived exosomes⁶ 
   6.	Lysis and molecular analysis: Once isolated, exosomes are lysed to release their internal contents (e.g., proteins, miRNAs, tRFs), which are then analyzed using methods that are adaptable to Point-of-Care settings, including emerging platforms for rapid detection of nucleic acids and disease-specific proteins.
 
 This multi-step workflow demands specialized equipment (e.g., ultracentrifuges, immunoprecipitation platforms) and highly skilled personnel, making it unsuitable for routine clinical application—particularly in Point-of-Care (POC) environments. Additionally, the labor-intensive nature of the process introduces inter-lab variability and limits the scalability of exosome-based diagnostics.

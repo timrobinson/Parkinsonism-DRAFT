@@ -13,7 +13,7 @@ biome
 Braak
 Braak’s
 bradykinesia
-butyrate
+Butyrate
 carbidopa
 Carlsson
 CBD
@@ -56,7 +56,7 @@ Excepteur
 exercitation
 exocytosis
 exosomal
-exosome
+Exosome
 Exosomes
 Filip
 Friedrich
@@ -100,7 +100,7 @@ microfluidics
 microRNAs
 microvesicles
 miRNAs
-Misfolded
+misfolded
 misfolding
 mitophagy
 modulatory
@@ -120,7 +120,6 @@ myelinate
 myelinated
 myeloma
 myenteric
-NBSP
 NCAM
 neuroactive
 neurodegeneration
