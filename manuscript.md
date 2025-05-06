@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-05-04'
+date-meta: '2025-05-06'
 author-meta:
 - Tim Robinson
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Parkinsonism" />
   <meta property="og:title" content="Parkinsonism" />
   <meta property="twitter:title" content="Parkinsonism" />
-  <meta name="dc.date" content="2025-05-04" />
-  <meta name="citation_publication_date" content="2025-05-04" />
-  <meta property="article:published_time" content="2025-05-04" />
-  <meta name="dc.modified" content="2025-05-04T20:28:49+00:00" />
-  <meta property="article:modified_time" content="2025-05-04T20:28:49+00:00" />
+  <meta name="dc.date" content="2025-05-06" />
+  <meta name="citation_publication_date" content="2025-05-06" />
+  <meta property="article:published_time" content="2025-05-06" />
+  <meta name="dc.modified" content="2025-05-06T21:04:47+00:00" />
+  <meta property="article:modified_time" content="2025-05-06T21:04:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/ab455ed65582900032f790c127262ff2c3f6fd30/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/ab455ed65582900032f790c127262ff2c3f6fd30/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/ab455ed65582900032f790c127262ff2c3f6fd30/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/95f92ab98240609066ef39c19b767ab1b329536d/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/95f92ab98240609066ef39c19b767ab1b329536d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/95f92ab98240609066ef39c19b767ab1b329536d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,10 +68,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/ab455ed65582900032f790c127262ff2c3f6fd30/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/95f92ab98240609066ef39c19b767ab1b329536d/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@ab455ed](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/ab455ed65582900032f790c127262ff2c3f6fd30)
-on May 4, 2025.
+from [timrobinson/Parkinsonism-DRAFT@95f92ab](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/95f92ab98240609066ef39c19b767ab1b329536d)
+on May 6, 2025.
 </em></small>
 
 
@@ -223,6 +223,18 @@ By anchoring this anatomical comparison with a clear illustration and accompanyi
 
 
 *Note: PD = Parkinson's Disease; MSA = Multiple System Atrophy; DLB = Dementia with Lewy Bodies; PSP = Progressive Supranuclear Palsy; CBD = Corticobasal Degeneration; AD = Alzheimer's Disease* 
+
+## Target Biomarkers
+
+In this study, we focus on three classes of biomarkers: exosomes, alpha-synuclein (α-syn), and transfer RNA fragments (tRFs). Each offers a distinct advantage in the early detection and stratification of Parkinsonism, including Parkinson’s Disease (PD) and Multiple System Atrophy (MSA).
+
+Exosomes are small extracellular vesicles that encapsulate molecular cargo reflective of their parent cells' physiological and pathological states. While blood-based biomarker detection has shown promise, systemic noise from abundant plasma proteins and fragmented RNAs often masks subtle early signals—especially in neurodegenerative disease. Exosomes, by contrast, offer a means to selectively enrich disease-relevant cargo from the affected cell population, potentially improving signal-to-noise ratios. Although definitive clinical validation is still underway, preliminary studies suggest that targeted isolation of exosomes—particularly those derived from neurons or oligodendrocytes—may enhance early detection sensitivity in synucleinopathies such as PD and MSA. As we plan to isolate and characterize exosomes by parent cell type, we propose leveraging their protein and RNA cargo as a core source of biomarkers for early and differential diagnosis.
+
+Alpha-synuclein (α-syn) is a central pathological hallmark of all synucleinopathies. While early oligomeric or post-translationally modified forms of α-syn may serve as disease-specific markers, we view α-syn primarily as a downstream convergence point that reflects prior upstream assaults—whether inflammatory, toxic, or genetic. As such, α-syn is best interpreted within the context of active or late-stage pathology, complementing upstream indicators rather than replacing them.
+
+tRFs offer a window into upstream disease mechanisms. These small RNA fragments, derived from the enzymatic processing of specific tRNAs, display disease-specific expression patterns influenced by mode of onset—idiopathic, environmental, or hereditary. While still an emerging field, we anticipate that tRFs may carry contextual signatures of the disease’s point of origin, potentially reflecting whether early immune and metabolic stress began in the gut, nasal mucosa, bloodstream, or elsewhere. Though this mapping remains speculative, we consider it a worthwhile direction for research, with the potential to inform future efforts toward personalized therapeutic interventions targeting early—and potentially disparate—proinflammatory pathways.
+
+Given the complexity and heterogeneity of Parkinsonism pathogenesis, we propose that tRFs be integrated alongside exosome profiling and α-synuclein characterization, forming a composite biomarker strategy that leverages the strengths of each while mitigating individual limitations. This multi-dimensional approach increases diagnostic robustness and enhances the potential to both detect disease earlier and tailor interventions to individualized etiological profiles.
 
 ## Exosomes
 

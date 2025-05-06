@@ -39,7 +39,7 @@ DLB
 dolore
 dopaminergic
 Duis
-DYSBIOSIS
+dysbiosis
 dysregulate
 dysregulation
 EGCs
@@ -88,7 +88,7 @@ MDP
 microbiome
 microbiota
 microRNA
-MicroRNAs
+microRNAs
 miRNAs
 Misfolded
 misfolding
@@ -108,12 +108,12 @@ myelinated
 myeloma
 myenteric
 neuroactive
-neurodegeneration
+NEURODEGENERATION
 neurodegenerative
 Neurofilament
 neuroimmune
 neuroinflammation
-NEUROPLASTICITY
+neuroplasticity
 neurotoxic
 neurotransmission
 nicotinic
@@ -124,6 +124,7 @@ occaecat
 officia
 oligodendrocyte
 oligodendrocytes
+oligomeric
 Oligomerization
 Oligomers
 orthostatic
@@ -133,7 +134,7 @@ Pandoc’s
 pariatur
 Parkin
 parkinsonian
-Pathogenesis
+pathogenesis
 pathologies
 peptidoglycan
 peptidoglycans
@@ -145,6 +146,7 @@ pre
 preclinical
 prodromal
 proident
+proinflammatory
 propionate
 propria
 PSP
@@ -181,6 +183,7 @@ Translational
 translationally
 Tregs
 tRFs
+tRNAs
 ullamco
 unmyelinated
 unmyelination
