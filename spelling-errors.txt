@@ -41,7 +41,7 @@ DLB
 dolore
 dopaminergic
 Duis
-dysbiosis
+DYSBIOSIS
 dysregulate
 dysregulation
 EGCs
@@ -56,7 +56,7 @@ Excepteur
 exercitation
 exocytosis
 exosomal
-exosome
+Exosome
 exosomes
 Filip
 Friedrich
@@ -94,13 +94,13 @@ Lysis
 magna
 Maladie
 MDP
-microbiome
+Microbiome
 microbiota
 microfluidics
-MicroRNAs
+microRNAs
 microvesicles
 miRNAs
-Misfolded
+misfolded
 misfolding
 mitophagy
 modulatory
@@ -123,10 +123,10 @@ myenteric
 NCAM
 neuroactive
 neurodegeneration
-neurodegenerative
+Neurodegenerative
 Neurofilament
 neuroimmune
-NEUROPLASTICITY
+neuroplasticity
 neurotoxic
 neurotransmission
 nicotinic
@@ -147,7 +147,7 @@ Pandoc’s
 pariatur
 Parkin
 parkinsonian
-Pathogenesis
+pathogenesis
 pathologies
 peptidoglycan
 peptidoglycans

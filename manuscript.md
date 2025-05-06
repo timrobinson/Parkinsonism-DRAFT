@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-06" />
   <meta name="citation_publication_date" content="2025-05-06" />
   <meta property="article:published_time" content="2025-05-06" />
-  <meta name="dc.modified" content="2025-05-06T23:36:44+00:00" />
-  <meta property="article:modified_time" content="2025-05-06T23:36:44+00:00" />
+  <meta name="dc.modified" content="2025-05-06T23:38:15+00:00" />
+  <meta property="article:modified_time" content="2025-05-06T23:38:15+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/bcd77b421fb0bec068bc12a07b723182c5e00154/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/bcd77b421fb0bec068bc12a07b723182c5e00154/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/bcd77b421fb0bec068bc12a07b723182c5e00154/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/a09eada06799d5aa510aa24be3f9e1299d52f435/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/a09eada06799d5aa510aa24be3f9e1299d52f435/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/a09eada06799d5aa510aa24be3f9e1299d52f435/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/bcd77b421fb0bec068bc12a07b723182c5e00154/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/a09eada06799d5aa510aa24be3f9e1299d52f435/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@bcd77b4](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/bcd77b421fb0bec068bc12a07b723182c5e00154)
+from [timrobinson/Parkinsonism-DRAFT@a09eada](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/a09eada06799d5aa510aa24be3f9e1299d52f435)
 on May 6, 2025.
 </em></small>
 
@@ -236,7 +236,7 @@ tRFs offer a window into upstream disease mechanisms. These small RNA fragments,
 
 Given the complexity and heterogeneity of Parkinsonism pathogenesis, we propose that tRFs be integrated alongside exosome profiling and α-synuclein characterization, forming a composite biomarker strategy that leverages the strengths of each while mitigating individual limitations. This multi-dimensional approach increases diagnostic robustness and enhances the potential to both detect disease earlier and tailor interventions to individualized etiological profiles.
 
-##Exosomes
+## Exosomes
 
 Exosomes are a specific subtype of extracellular vesicles (EVs), distinct from microvesicles and apoptotic bodies, and are defined by their endosomal origin. They form as intraluminal vesicles within multivesicular bodies (MVBs) and are released into the extracellular space via exocytosis. This mode of biogenesis ensures that their cargo—proteins, lipids, and RNAs—reflects the internal physiological and pathological state of the parent cell. In contrast, microvesicles bud directly from the plasma membrane and may carry more surface-shed material, while apoptotic bodies arise from fragmented dying cells and contain mixed cellular contents.¹ Because of their intracellular origin and selective packaging, exosomes offer a particularly rich source of early, disease-relevant molecular signals, especially in disorders like Parkinson’s Disease (PD) and Multiple System Atrophy (MSA).
 
@@ -244,7 +244,7 @@ These synucleinopathies are characterized by long prodromal phases during which 
 
 Another defining strength of exosomes is their ability to cross the blood-brain barrier (BBB) bidirectionally, allowing molecular signatures of central nervous system (CNS) pathology to be captured from peripheral samples.³ In neurodegenerative conditions, however, a compromised BBB may also allow exosomes bearing toxic protein aggregates (e.g., oligomeric α-synuclein), metabolic stress markers, and pro-inflammatory molecules to circulate systemically.⁴ These vesicles may contribute to disease progression by amplifying inflammation, spreading misfolded proteins, and disrupting neuronal homeostasis—making exosomes both diagnostic tools and potential pathogenic agents.
 
-###Current Workflow for Exosome Isolation and Characterization
+### Current Workflow for Exosome Isolation and Characterization
 
 Despite their diagnostic promise, current methods for isolating and analyzing exosomes are technically complex and confined to research laboratories. The typical workflow includes:
 
@@ -258,7 +258,7 @@ Despite their diagnostic promise, current methods for isolating and analyzing ex
 
 This multi-step workflow demands specialized equipment (e.g., ultracentrifuges, immunoprecipitation platforms) and highly skilled personnel, making it unsuitable for routine clinical application—particularly in Point-of-Care (POC) environments. Additionally, the labor-intensive nature of the process introduces inter-lab variability and limits the scalability of exosome-based diagnostics.
 
-###Current Limitations and the Path Forward
+### Current Limitations and the Path Forward
 
 While the molecular resolution enabled by exosome analysis is powerful, its clinical utility remains constrained by its technical inaccessibility. Without a simplified, reproducible platform for clinical use, exosome-based early detection remains largely academic and inaccessible to most patients. This presents a critical opportunity for innovation in microfluidics and lab-on-a-chip platforms, which we explore in the following section.
 
