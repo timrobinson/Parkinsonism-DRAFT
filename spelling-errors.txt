@@ -13,7 +13,7 @@ biome
 Braak
 Braak’s
 bradykinesia
-Butyrate
+butyrate
 carbidopa
 Carlsson
 CBD
@@ -41,7 +41,7 @@ DLB
 dolore
 dopaminergic
 Duis
-DYSBIOSIS
+dysbiosis
 dysregulate
 dysregulation
 EGCs
@@ -56,8 +56,8 @@ Excepteur
 exercitation
 exocytosis
 exosomal
-Exosome
-exosomes
+exosome
+Exosomes
 Filip
 Friedrich
 fugiat
@@ -94,13 +94,13 @@ Lysis
 magna
 Maladie
 MDP
-Microbiome
+microbiome
 microbiota
 microfluidics
 microRNAs
 microvesicles
 miRNAs
-misfolded
+Misfolded
 misfolding
 mitophagy
 modulatory
@@ -120,6 +120,7 @@ myelinate
 myelinated
 myeloma
 myenteric
+NBSP
 NCAM
 neuroactive
 neurodegeneration
@@ -147,7 +148,7 @@ Pandoc’s
 pariatur
 Parkin
 parkinsonian
-pathogenesis
+Pathogenesis
 pathologies
 peptidoglycan
 peptidoglycans
