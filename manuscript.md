@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-07" />
   <meta name="citation_publication_date" content="2025-05-07" />
   <meta property="article:published_time" content="2025-05-07" />
-  <meta name="dc.modified" content="2025-05-07T00:24:19+00:00" />
-  <meta property="article:modified_time" content="2025-05-07T00:24:19+00:00" />
+  <meta name="dc.modified" content="2025-05-07T22:11:53+00:00" />
+  <meta property="article:modified_time" content="2025-05-07T22:11:53+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/36002cb51a7d81b3c51b8a263b9fe16b127cf3b0/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/36002cb51a7d81b3c51b8a263b9fe16b127cf3b0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/36002cb51a7d81b3c51b8a263b9fe16b127cf3b0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/4eb840ace27d94622b87ccf538b781f2abe0de9a/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/4eb840ace27d94622b87ccf538b781f2abe0de9a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/4eb840ace27d94622b87ccf538b781f2abe0de9a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/36002cb51a7d81b3c51b8a263b9fe16b127cf3b0/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/4eb840ace27d94622b87ccf538b781f2abe0de9a/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@36002cb](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/36002cb51a7d81b3c51b8a263b9fe16b127cf3b0)
+from [timrobinson/Parkinsonism-DRAFT@4eb840a](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/4eb840ace27d94622b87ccf538b781f2abe0de9a)
 on May 7, 2025.
 </em></small>
 
@@ -209,9 +209,52 @@ This multi-step workflow demands specialized equipment (e.g., ultracentrifuges, 
 
 While the molecular resolution enabled by exosome analysis is powerful, its clinical utility remains constrained by its technical inaccessibility. Without a simplified, reproducible platform for clinical use, exosome-based early detection remains largely academic and inaccessible to most patients. This presents a critical opportunity for innovation in microfluidics and lab-on-a-chip platforms, which we explore in the following section.
 
-### Alpha-Synuclein Oligomers
+### Alpha-Synuclein: A Key Protein in Parkinsonism Pathology
 
-some text....
+Alpha-synuclein (a-syn) is a small, intrinsically disordered protein involved in membrane stabilization, vesicle trafficking, and organelle communication. Under physiological conditions, it plays a central role in supporting mitochondria-associated membranes (MAMs)—transient contact sites between the endoplasmic reticulum (ER) and mitochondria that mediate lipid transfer, calcium signaling, and organelle coordination. a-syn also helps regulate synaptic vesicle dynamics, particularly at presynaptic terminals.
+
+The protein is predominantly expressed in neurons, especially those with high metabolic demands such as dopaminergic neurons in the substantia nigra. Under energetic stress, a-syn expression increases, reflecting its role in sustaining membrane interactions under conditions of elevated activity.
+
+However, this conformationally flexible protein can misfold into rigid, β-sheet-rich structures that promote oligomerization, fibril formation, and ultimately the accumulation of insoluble aggregates. These aggregates present as Lewy Bodies (LBs) in Parkinson’s Disease (PD) and Glial Cytoplasmic Inclusions (GCIs) in Multiple System Atrophy (MSA). Although both disorders involve pathological a-syn accumulation, they differ in cell type involvement, aggregate structure, and likely pathogenic mechanisms.
+
+A key mechanistic question in MSA is how a neuron-enriched protein like a-syn forms aggregates in oligodendrocytes, which do not normally express it at high levels. Current evidence suggests that a-syn is transferred from neurons to glial cells via exosomes, endocytosis, or other forms of vesicle-mediated uptake. Once inside the oligodendrocyte, the protein misfolds and accumulates as GCIs, impairing glial functions including myelination and metabolic support of axons.
+
+Protein misfolding is not inherently pathological—cells routinely produce misfolded proteins, and have evolved sophisticated mechanisms to manage them. These include molecular chaperones (such as heat shock proteins and chaperonins) that assist in proper folding, and degradation pathways like the ubiquitin-proteasome system and the autophagy-lysosome pathway, which eliminate irreversibly misfolded proteins. Under normal conditions, misfolded a-syn is rapidly cleared by these systems.
+
+However, in neurodegenerative diseases like PD and MSA, this proteostasis network becomes compromised—either through chronic cellular stress, genetic predisposition, or an overproduction of misfolded a-syn. These conditions allow soluble oligomers to accumulate, evade quality control, and begin seeding further aggregation. These oligomeric intermediates, rather than the final aggregates, are now believed to be the most toxic forms of a-syn, capable of disrupting membranes, damaging mitochondria, and triggering inflammatory cascades.
+
+Importantly, the toxic mechanisms and cellular responses differ between neurons and oligodendrocytes due to their divergent metabolic strategies. In PD, a-syn oligomers directly impair the electron transport chain (ETC)—particularly Complex I—leading to mitochondrial depolarization and activation of the PINK1/Parkin mitophagy pathway. In contrast, MSA shows little to no upregulation of PINK1/Parkin, suggesting that mitochondrial dysfunction occurs upstream of the ETC, possibly due to disrupted MAM integrity or impaired lipid and calcium flux. Oligodendrocytes, which rely more on glycolytic intermediates for lipid production than on mitochondrial ATP generation, may be especially vulnerable to these early-stage disruptions.
+
+Interestingly, this differential stress response highlights the potential of PINK1 and Parkin as disease-specific biomarkers—elevated in PD but not MSA. While such markers may eventually support targeted diagnostics or therapeutics, a broader and more dynamic molecular signature may lie in transfer RNA fragments (tRFs). These fragments, discussed in the next section, offer a promising window into mitochondrial stress states and disease subtype, potentially enabling personalized therapeutic strategies.
+
+#### Diagnostic Insights from a-syn Aggregation
+
+Although a-syn aggregates are central to pathology, their diagnostic utility lies in when and where they appear. Importantly, misfolded a-syn is not restricted to the brain—it also accumulates in the peripheral nervous system, including unmyelinated fibers in the skin. This has enabled development of the Syn-One Test, a minimally invasive skin biopsy used to detect phosphorylated a-syn aggregates. While currently deployed to confirm clinical diagnoses, studies suggest that aggregate location and ultrastructure differ between PD and MSA, raising the possibility of earlier and more refined diagnostic use.
+
+At an earlier disease stage, seeding amplification assays such as Protein Misfolding Cyclic Amplification (PMCA) and Real-Time Quaking-Induced Conversion (RT-QuIC) have demonstrated the ability to detect misfolded a-syn by amplifying minute amounts from cerebrospinal fluid (CSF). These assays show strong sensitivity for preclinical diagnosis and offer mechanistic insights into aggregate propagation. However, they require lumbar puncture for CSF collection—an invasive procedure unsuitable for point-of-care (POC) use—despite the growing recognition that early, routine testing will be essential for meaningful intervention.
+
+#### New Frontiers for Blood-Based Early Detection
+
+##### Soluble Oligomer Binding Assay
+
+A promising development is the Soluble Oligomer Binding Assay (SOBA), which aims to detect toxic α-sheet-rich a-syn oligomers from a standard blood sample. By targeting early, conformationally distinct oligomeric forms before fibril or aggregate formation, SOBA may function as a true prodromal diagnostic tool—identifying disease prior to clinical onset.
+
+Crucially, SOBA is compatible with POC diagnostic workflows, addressing the key limitations of current biopsy- and CSF-based methods. Early results suggest that it may not only detect disease early, but also help distinguish between PD, MSA, and other synucleinopathies based on oligomer profile and conformational signature.
+
+#### Saliva-Based Collection: CandyCollect and the Potential for At-Home a-syn Diagnostics
+
+A recent advancement in accessible diagnostics involves the use of saliva as a biofluid and the CandyCollect device as a novel sample collection platform. CandyCollect is a lollipop-inspired, open-microfluidic sampling tool initially developed for pathogen detection, but now validated for the non-invasive capture of extracellular vesicles (EVs) from saliva. In a recent preclinical study, researchers demonstrated that this device could reliably isolate EVs suitable for downstream analysis of alpha-synuclein (a-syn)—including species relevant to synucleinopathy diagnosis.
+This approach offers several advantages:
+
+•	Non-invasive and user-friendly, eliminating the need for trained personnel or clinical infrastructure
+•	Compatible with at-home or general practitioner settings, increasing feasibility for large-scale screening
+•	Suited for serial collection, enabling longitudinal monitoring of disease progression or therapeutic response
+
+The study demonstrated that salivary EVs collected with CandyCollect could be processed for molecular characterization, including detection of a-syn biomarkers. This represents a meaningful step toward a routine, point-of-care screening model for Parkinson’s Disease and related disorders—mirroring the convenience and scalability of tests like the complete blood count (CBC).
+While further clinical validation is needed, saliva-based EV testing using CandyCollect complements technologies like SOBA by extending non-invasive diagnostic potential to alternative, easily collected biofluids, broadening the accessibility of early detection.
+
+Taken together, these emerging tools underscore a growing consensus: effective diagnosis must pair early detection with mechanistic insight—not only to recognize pathology, but to intervene at a stage when neurodegeneration may still be preventable or reversible.
+
 
 ### Transfer RNA Fragments
 
