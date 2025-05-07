@@ -15,7 +15,7 @@ biome
 Braak
 Braak’s
 bradykinesia
-butyrate
+Butyrate
 CandyCollect
 carbidopa
 Carlsson
@@ -62,7 +62,7 @@ Excepteur
 exercitation
 exocytosis
 exosome
-exosomes
+Exosomes
 Filip
 Friedrich
 fugiat
@@ -107,7 +107,7 @@ microfluidics
 microvesicles
 miRNAs
 misfold
-Misfolded
+misfolded
 misfolding
 misfolds
 mitophagy
@@ -129,7 +129,7 @@ neuroactive
 neurodegeneration
 neurodegenerative
 neuroimmune
-NEUROPLASTICITY
+neuroplasticity
 neurotoxic
 neurotransmission
 nicotinic
@@ -139,10 +139,10 @@ nostrud
 occaecat
 officia
 oligodendrocyte
-Oligodendrocytes
-Oligomer
+oligodendrocytes
+oligomer
 oligomeric
-Oligomerization
+oligomerization
 oligomers
 orthostatic
 overactivation
@@ -151,7 +151,7 @@ Pandoc’s
 pariatur
 Parkin
 parkinsonian
-pathogenesis
+Pathogenesis
 pathologies
 peptidoglycan
 peptidoglycans
