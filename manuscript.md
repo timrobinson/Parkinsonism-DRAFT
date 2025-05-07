@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-05-06'
+date-meta: '2025-05-07'
 author-meta:
 - Tim Robinson
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Parkinsonism" />
   <meta property="og:title" content="Parkinsonism" />
   <meta property="twitter:title" content="Parkinsonism" />
-  <meta name="dc.date" content="2025-05-06" />
-  <meta name="citation_publication_date" content="2025-05-06" />
-  <meta property="article:published_time" content="2025-05-06" />
-  <meta name="dc.modified" content="2025-05-06T23:47:33+00:00" />
-  <meta property="article:modified_time" content="2025-05-06T23:47:33+00:00" />
+  <meta name="dc.date" content="2025-05-07" />
+  <meta name="citation_publication_date" content="2025-05-07" />
+  <meta property="article:published_time" content="2025-05-07" />
+  <meta name="dc.modified" content="2025-05-07T00:17:43+00:00" />
+  <meta property="article:modified_time" content="2025-05-07T00:17:43+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/44f2454a36624b9b5819ac4c4007182e0c07d80a/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/44f2454a36624b9b5819ac4c4007182e0c07d80a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/44f2454a36624b9b5819ac4c4007182e0c07d80a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8f7d9aee0859b97ca4318b7c98624516751f027c/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8f7d9aee0859b97ca4318b7c98624516751f027c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8f7d9aee0859b97ca4318b7c98624516751f027c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,10 +68,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/44f2454a36624b9b5819ac4c4007182e0c07d80a/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/8f7d9aee0859b97ca4318b7c98624516751f027c/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@44f2454](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/44f2454a36624b9b5819ac4c4007182e0c07d80a)
-on May 6, 2025.
+from [timrobinson/Parkinsonism-DRAFT@8f7d9ae](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/8f7d9aee0859b97ca4318b7c98624516751f027c)
+on May 7, 2025.
 </em></small>
 
 
@@ -178,51 +178,6 @@ To visually anchor this comparison, we present a labeled illustration of represe
 
 <iframe src="./images/Myelination Picture.jpg" width="100%" height="400px"></iframe>
 
-<ins>Enteric Nervous System (ENS) Neuron</ins>
-
-Although the ENS is technically a subdivision of the autonomic branch of the Peripheral Nervous System (PNS), its extensive autonomy and structural specialization justify its separate discussion here.
-The ENS resides in the walls of the gastrointestinal tract, primarily within the myenteric and submucosal plexuses. These plexuses are dense, highly branched networks of unmyelinated neurons and enteric glial cells. Rather than transmitting long-range signals, these neurons coordinate complex, localized reflexes to control gut motility, secretion, and blood flow. The unmyelinated nature of ENS neurons facilitates tight packing and high-density connectivity, which is critical for fine-tuned digestive control.
-
-Importantly, research suggests that alpha-synuclein pathology may begin in this region, with misfolded protein appearing in the enteric plexus before spreading via autonomic pathways to the CNS. This supports Braak's hypothesis that synucleinopathies such as PD and possibly MSA may originate in the gut.
-
-<ins>Peripheral Nervous System (PNS) Neuron</ins>
-
-PNS neurons bridge the gap between the CNS and the digestive tract and other visceral organs. They are frequently myelinated by Schwann cells, each of which wraps a single axonal segment. This design supports rapid conduction of autonomic signals critical for regulating functions like blood pressure and digestion. In the context of PD and MSA, the PNS is a useful diagnostic window: alpha-synuclein pathology can be detected in skin and autonomic nerves even in the prodromal phase of disease.
-
-A notable distinction between PD and MSA lies in the extent of autonomic dysfunction seen in the PNS. MSA often presents with earlier and more severe autonomic symptoms—such as orthostatic hypotension, urinary incontinence, and erectile dysfunction—compared to PD. This greater impact on autonomic systems contributes directly to the term "multiple system atrophy," reflecting degeneration that extends beyond the motor system.
-
-A notable distinction between PD and MSA lies in the extent of autonomic dysfunction seen in the PNS. MSA often presents with earlier and more severe autonomic symptoms—such as orthostatic hypotension, urinary incontinence, and erectile dysfunction—compared to PD. This greater impact on autonomic systems contributes directly to the term "multiple system atrophy," reflecting degeneration that extends beyond the motor system.
-
-<ins>Central Nervous System (CNS) Neuron</ins>
-
-CNS neurons reside within the brain and spinal cord and play integrative roles in everything from motor control to higher cognitive function. They are myelinated by oligodendrocytes, which can extend processes to multiple axons. Uniquely, a single oligodendrocyte can myelinate axons from multiple types of neurons—such as dopaminergic, GABAergic, and serotonergic—contributing to the efficiency and interconnectivity of CNS signaling. This allows for high-efficiency signal propagation across vast brain regions. In PD, CNS dopaminergic neurons degenerate, particularly in the substantia nigra. In MSA, it is the oligodendrocytes themselves that become pathological, forming glial cytoplasmic inclusions of misfolded alpha-synuclein.
-
-One distinguishing feature of MSA is that demyelination occurs across a broad range of neuron types. The death of oligodendrocytes leads to widespread disruption of myelin sheaths, affecting not only dopaminergic neurons but also serotonergic, cholinergic, and other neuron classes. This loss of structural insulation impairs axonal function and triggers apoptotic cell death, contributing to the multisystem nature of degeneration observed in MSA.
-
-By anchoring this anatomical comparison with a clear illustration and accompanying bullet points, we can directly visualize how structural differences in neuron types contribute to both healthy function and disease vulnerability.
-
-
-## A Broad Selection of Potential Early Detection Biomarkers
-
-
-| Biomarker	| Category | Applicable Disorders | Source Fluid/Tissue |
-| :--------- | :--------: | :--------------------: | :-------------------: |
-| α-Synuclein Oligomers | Disease-specific | PD, MSA, DLB | CSF, Blood |
-| Total α-Synuclein | Disease-associated | PD, MSA, DLB	| CSF |
-| Phosphorylated α-Synuclein | Disease-specific	| PD | CSF |
-| Neurofilament Light Chain (NfL) |	Disease-associated | PD, MSA, PSP, CBD | CSF, Blood |
-| Total Tau Protein	| Disease-associated | PD, MSA, DLB, AD	| CSF |
-| Phosphorylated Tau Protein | Disease-associated | AD, DLB	| CSF |
-| Amyloid-β42 |	Disease-associated | AD, DLB | CSF |
-| DJ-1 Protein | Disease-associated	| PD | CSF, Blood |
-| Lysosomal Enzymes | Disease-associated | PD, MSA | CSF |
-| Inflammatory Cytokines (e.g., IL-6, TNF-α) | Disease-associated | PD, MSA, PSP, CBD | CSF, Blood |
-| MicroRNAs (e.g., miR-34b/c, miR-133b) | Disease-associated | PD | Blood, CSF |
-| PINK1/Parkin Levels | Disease-associated | PD, MSA | Blood, CSF |
-| Complement Proteins (e.g., C3, Factor H) | Disease-associated	| PD, MSA | CSF |
-
-
-*Note: PD = Parkinson's Disease; MSA = Multiple System Atrophy; DLB = Dementia with Lewy Bodies; PSP = Progressive Supranuclear Palsy; CBD = Corticobasal Degeneration; AD = Alzheimer's Disease* 
 
 ## Target Biomarkers
 
@@ -236,7 +191,7 @@ tRFs offer a window into upstream disease mechanisms. These small RNA fragments,
 
 Given the complexity and heterogeneity of Parkinsonism pathogenesis, we propose that tRFs be integrated alongside exosome profiling and α-synuclein characterization, forming a composite biomarker strategy that leverages the strengths of each while mitigating individual limitations. This multi-dimensional approach increases diagnostic robustness and enhances the potential to both detect disease earlier and tailor interventions to individualized etiological profiles.
 
-## Exosomes
+### Exosomes
 
 Exosomes are a specific subtype of extracellular vesicles (EVs), distinct from microvesicles and apoptotic bodies, and are defined by their endosomal origin. They form as intraluminal vesicles within multivesicular bodies (MVBs) and are released into the extracellular space via exocytosis. This mode of biogenesis ensures that their cargo—proteins, lipids, and RNAs—reflects the internal physiological and pathological state of the parent cell. In contrast, microvesicles bud directly from the plasma membrane and may carry more surface-shed material, while apoptotic bodies arise from fragmented dying cells and contain mixed cellular contents.¹ Because of their intracellular origin and selective packaging, exosomes offer a particularly rich source of early, disease-relevant molecular signals, especially in disorders like Parkinson’s Disease (PD) and Multiple System Atrophy (MSA).
 
@@ -244,7 +199,7 @@ These synucleinopathies are characterized by long prodromal phases during which 
 
 Another defining strength of exosomes is their ability to cross the blood-brain barrier (BBB) bidirectionally, allowing molecular signatures of central nervous system (CNS) pathology to be captured from peripheral samples.³ In neurodegenerative conditions, however, a compromised BBB may also allow exosomes bearing toxic protein aggregates (e.g., oligomeric α-synuclein), metabolic stress markers, and pro-inflammatory molecules to circulate systemically.⁴ These vesicles may contribute to disease progression by amplifying inflammation, spreading misfolded proteins, and disrupting neuronal homeostasis—making exosomes both diagnostic tools and potential pathogenic agents.
 
-### Current Workflow for Exosome Isolation and Characterization
+#### Current Workflow for Exosome Isolation and Characterization
 
 Despite their diagnostic promise, current methods for isolating and analyzing exosomes are technically complex and confined to research laboratories. The typical workflow includes:
 
@@ -258,18 +213,11 @@ Despite their diagnostic promise, current methods for isolating and analyzing ex
 
 This multi-step workflow demands specialized equipment (e.g., ultracentrifuges, immunoprecipitation platforms) and highly skilled personnel, making it unsuitable for routine clinical application—particularly in Point-of-Care (POC) environments. Additionally, the labor-intensive nature of the process introduces inter-lab variability and limits the scalability of exosome-based diagnostics.
 
-### Current Limitations and the Path Forward
+#### Current Limitations and the Path Forward
 
 While the molecular resolution enabled by exosome analysis is powerful, its clinical utility remains constrained by its technical inaccessibility. Without a simplified, reproducible platform for clinical use, exosome-based early detection remains largely academic and inaccessible to most patients. This presents a critical opportunity for innovation in microfluidics and lab-on-a-chip platforms, which we explore in the following section.
 
 
-## Key Biomarkers in Neurodegenerative Exosomes
-
-With exosomes established as a viable vehicle for biomarker discovery, the next challenge lies in determining what molecular cargo to interrogate. Ideal biomarkers for clinical use must offer diagnostic specificity, early-stage sensitivity, and be reliably detectable in peripheral biofluids. For this purpose, non-coding RNAs such as microRNAs (miRNAs) and transfer RNA fragments (tRFs), post-translationally modified alpha-synuclein, and even the cell-of-origin signatures encoded on the exosome surface have emerged as practical and scalable options.
-
-However, not all biomarkers need serve a diagnostic endpoint to be valuable. Certain molecular markers—such as components of the mitophagy pathway like PINK1 and Parkin—may have limited applicability in population screening, but their presence or absence in specific exosomal subtypes can offer deep insight into underlying cellular dysfunction. These mechanistic biomarkers help trace disease etiology, clarify subtypes, and potentially guide the development of targeted therapeutics.
-
-What follows is a survey of candidate biomarkers—some geared toward practical early detection, others included for their ability to illuminate the biology of Parkinson’s Disease (PD) and Multiple System Atrophy (MSA).
 
 ## Future Directions and Translational Implications
 
