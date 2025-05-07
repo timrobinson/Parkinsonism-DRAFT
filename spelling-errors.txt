@@ -62,7 +62,7 @@ Excepteur
 exercitation
 exocytosis
 exosome
-Exosomes
+exosomes
 Filip
 Friedrich
 fugiat
@@ -100,14 +100,14 @@ lysosome
 magna
 Maladie
 MDP
-microbiome
+Microbiome
 microbiota
 microfluidic
 microfluidics
 microvesicles
 miRNAs
 misfold
-misfolded
+Misfolded
 misfolding
 misfolds
 mitophagy
@@ -129,7 +129,7 @@ neuroactive
 neurodegeneration
 neurodegenerative
 neuroimmune
-neuroplasticity
+NEUROPLASTICITY
 neurotoxic
 neurotransmission
 nicotinic
@@ -140,7 +140,7 @@ occaecat
 officia
 oligodendrocyte
 oligodendrocytes
-oligomer
+Oligomer
 oligomeric
 oligomerization
 oligomers
@@ -151,7 +151,7 @@ Pandoc’s
 pariatur
 Parkin
 parkinsonian
-Pathogenesis
+pathogenesis
 pathologies
 peptidoglycan
 peptidoglycans

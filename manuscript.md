@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-07" />
   <meta name="citation_publication_date" content="2025-05-07" />
   <meta property="article:published_time" content="2025-05-07" />
-  <meta name="dc.modified" content="2025-05-07T22:14:31+00:00" />
-  <meta property="article:modified_time" content="2025-05-07T22:14:31+00:00" />
+  <meta name="dc.modified" content="2025-05-07T22:19:17+00:00" />
+  <meta property="article:modified_time" content="2025-05-07T22:19:17+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/60458fc3120f1a043bdc354406becb75e5f6e450/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/60458fc3120f1a043bdc354406becb75e5f6e450/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/60458fc3120f1a043bdc354406becb75e5f6e450/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/26605e02895c0129c742f1dd76ea46bd321d189c/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/26605e02895c0129c742f1dd76ea46bd321d189c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/26605e02895c0129c742f1dd76ea46bd321d189c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/60458fc3120f1a043bdc354406becb75e5f6e450/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/26605e02895c0129c742f1dd76ea46bd321d189c/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@60458fc](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/60458fc3120f1a043bdc354406becb75e5f6e450)
+from [timrobinson/Parkinsonism-DRAFT@26605e0](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/26605e02895c0129c742f1dd76ea46bd321d189c)
 on May 7, 2025.
 </em></small>
 
@@ -211,7 +211,7 @@ While the molecular resolution enabled by exosome analysis is powerful, its clin
 
 ### Alpha-Synuclein: A Key Protein in Parkinsonism Pathology
 
-Alpha-synuclein (a-syn) is a small, intrinsically disordered protein involved in membrane stabilization, vesicle trafficking, and organelle communication. Under physiological conditions, it plays a central role in supporting mitochondria-associated membranes (MAMs)—transient contact sites between the endoplasmic reticulum (ER) and mitochondria that mediate lipid transfer, calcium signaling, and organelle coordination. a-syn also helps regulate synaptic vesicle dynamics, particularly at presynaptic terminals.
+Alpha-synuclein (a-syn) is a small, intrinsically disordered protein involved in membrane stabilization, vesicle trafficking, and organelle communication. Under physiological conditions, it plays a central role in supporting mitochondria-associated membranes (MAMs)—transient contact sites between the endoplasmic reticulum (ER) and mitochondria that mediate lipid transfer, calcium signaling, and organelle coordination. Alpha-synuclein also helps regulate synaptic vesicle dynamics, particularly at presynaptic terminals.
 
 The protein is predominantly expressed in neurons, especially those with high metabolic demands such as dopaminergic neurons in the substantia nigra. Under energetic stress, a-syn expression increases, reflecting its role in sustaining membrane interactions under conditions of elevated activity.
 

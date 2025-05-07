@@ -293,6 +293,7 @@ content/02.body-document.md:84:Synuclein
 content/02.body-document.md:86:endoplasmic
 content/02.body-document.md:86:presynaptic
 content/02.body-document.md:86:synuclein
+content/02.body-document.md:86:synuclein
 content/02.body-document.md:88:dopaminergic
 content/02.body-document.md:88:nigra
 content/02.body-document.md:88:substantia
