@@ -90,7 +90,7 @@ microbiota
 microfluidics
 microvesicles
 miRNAs
-misfolded
+Misfolded
 misfolding
 modulatory
 MOG
@@ -122,6 +122,7 @@ oligodendrocyte
 oligodendrocytes
 oligomeric
 Oligomerization
+Oligomers
 orthostatic
 overactivation
 overrepresentation

@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-07" />
   <meta name="citation_publication_date" content="2025-05-07" />
   <meta property="article:published_time" content="2025-05-07" />
-  <meta name="dc.modified" content="2025-05-07T00:17:43+00:00" />
-  <meta property="article:modified_time" content="2025-05-07T00:17:43+00:00" />
+  <meta name="dc.modified" content="2025-05-07T00:19:35+00:00" />
+  <meta property="article:modified_time" content="2025-05-07T00:19:35+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8f7d9aee0859b97ca4318b7c98624516751f027c/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8f7d9aee0859b97ca4318b7c98624516751f027c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8f7d9aee0859b97ca4318b7c98624516751f027c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/d3ee5925d9048df8a454be54f66fa6006cccf1d1/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/d3ee5925d9048df8a454be54f66fa6006cccf1d1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/d3ee5925d9048df8a454be54f66fa6006cccf1d1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/8f7d9aee0859b97ca4318b7c98624516751f027c/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/d3ee5925d9048df8a454be54f66fa6006cccf1d1/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@8f7d9ae](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/8f7d9aee0859b97ca4318b7c98624516751f027c)
+from [timrobinson/Parkinsonism-DRAFT@d3ee592](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/d3ee5925d9048df8a454be54f66fa6006cccf1d1)
 on May 7, 2025.
 </em></small>
 
@@ -217,7 +217,17 @@ This multi-step workflow demands specialized equipment (e.g., ultracentrifuges, 
 
 While the molecular resolution enabled by exosome analysis is powerful, its clinical utility remains constrained by its technical inaccessibility. Without a simplified, reproducible platform for clinical use, exosome-based early detection remains largely academic and inaccessible to most patients. This presents a critical opportunity for innovation in microfluidics and lab-on-a-chip platforms, which we explore in the following section.
 
+### Alpha-Synuclein Oligomers
 
+some text....
+
+### Transfer RNA Fragments
+
+Some text....
+
+## The Design of a Point-of-Care Diagnostic Device
+
+Some text
 
 ## Future Directions and Translational Implications
 
