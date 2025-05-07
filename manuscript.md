@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-07" />
   <meta name="citation_publication_date" content="2025-05-07" />
   <meta property="article:published_time" content="2025-05-07" />
-  <meta name="dc.modified" content="2025-05-07T00:19:35+00:00" />
-  <meta property="article:modified_time" content="2025-05-07T00:19:35+00:00" />
+  <meta name="dc.modified" content="2025-05-07T00:24:19+00:00" />
+  <meta property="article:modified_time" content="2025-05-07T00:24:19+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/d3ee5925d9048df8a454be54f66fa6006cccf1d1/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/d3ee5925d9048df8a454be54f66fa6006cccf1d1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/d3ee5925d9048df8a454be54f66fa6006cccf1d1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/36002cb51a7d81b3c51b8a263b9fe16b127cf3b0/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/36002cb51a7d81b3c51b8a263b9fe16b127cf3b0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/36002cb51a7d81b3c51b8a263b9fe16b127cf3b0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/d3ee5925d9048df8a454be54f66fa6006cccf1d1/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/36002cb51a7d81b3c51b8a263b9fe16b127cf3b0/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@d3ee592](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/d3ee5925d9048df8a454be54f66fa6006cccf1d1)
+from [timrobinson/Parkinsonism-DRAFT@36002cb](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/36002cb51a7d81b3c51b8a263b9fe16b127cf3b0)
 on May 7, 2025.
 </em></small>
 
@@ -169,14 +169,6 @@ Although this section focuses on the gut microbiome, it is important to note tha
 Early identification of chronic gut-derived inflammation—prior to the onset of overt motor symptoms—may present a critical window for therapeutic intervention. Measuring biomarkers associated with PD and MSA during this early prodromal stage opens the door to novel treatment strategies that address the disease before it becomes clinically entrenched. Central to this is the tipping point between neuroplasticity and neurodegeneration: as degeneration begins to outpace the brain's adaptive capacity, therapeutic windows narrow. A two-pronged strategy may help shift this balance. The first arm would target inflammatory potentiators such as the serotonin receptor 5-HT2A, using agonists in the R-DOI family or compounds with psychotropic or psychedelic properties to modulate receptor activity and attenuate cytokine amplification. The second would aim to restore metabolic balance, including interventions that reduce the accumulation of kynurenine-derived neurotoxic metabolites or promote serotonin availability. Enhancing neuroplasticity through lifestyle interventions—such as aerobic exercise, cognitive stimulation, and dietary modification—as well as emerging pharmacological therapies that promote neuronal resilience, may further strengthen the brain’s ability to resist degeneration. Together, these approaches may delay or prevent the neurodegenerative cascade that characterizes later-stage PD and MSA, offering a rationale for developing early detection strategies that shift intervention further upstream in the disease course.
 
 <center>ADD TABLE NEURODEGENERATION STRATEGIES AND NEUROPLASTICITY STRATEGIES</center>
-
-________________________________
-
-Mounting evidence suggests that the pathogenesis of neurodegenerative diseases like Parkinson’s Disease (PD) may begin in the Enteric Nervous System (ENS), progress through the autonomic branches of the Peripheral Nervous System (PNS), and ascend via a neural bridge—most notably, the vagus nerve—into the Central Nervous System (CNS). While this ENS-to-CNS progression is well supported in PD, similar pathways are being explored in Multiple System Atrophy (MSA), especially in cases where early autonomic symptoms and peripheral alpha-synuclein pathology are evident. Understanding the structural anatomy of these three interconnected systems is therefore critical to realizing how synucleinopathies may develop and spread through the body. A key to this understanding lies in comparing dopaminergic neurons as they appear in each of these environments: the Enteric Nervous System (ENS), the Peripheral Nervous System (PNS), and the Central Nervous System (CNS). These comparisons not only illustrate structural distinctions but also highlight how each system is uniquely affected in diseases like PD and MSA.
-
-To visually anchor this comparison, we present a labeled illustration of representative neurons from each system. This drawing forms the centerpiece of this section and includes bullet points beneath each neuron to highlight their key structural and functional characteristics. These visual summaries also reinforce each system's relevance to synucleinopathies like PD and MSA.
-
-<iframe src="./images/Myelination Picture.jpg" width="100%" height="400px"></iframe>
 
 
 ## Target Biomarkers

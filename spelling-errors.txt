@@ -90,7 +90,7 @@ microbiota
 microfluidics
 microvesicles
 miRNAs
-Misfolded
+misfolded
 misfolding
 modulatory
 MOG
@@ -129,12 +129,11 @@ overrepresentation
 Pandoc’s
 pariatur
 parkinsonian
-pathogenesis
+Pathogenesis
 pathologies
 peptidoglycan
 peptidoglycans
 PGNs
-PNS
 POC
 potentiators
 preclinical
