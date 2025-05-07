@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-07" />
   <meta name="citation_publication_date" content="2025-05-07" />
   <meta property="article:published_time" content="2025-05-07" />
-  <meta name="dc.modified" content="2025-05-07T22:19:17+00:00" />
-  <meta property="article:modified_time" content="2025-05-07T22:19:17+00:00" />
+  <meta name="dc.modified" content="2025-05-07T22:36:56+00:00" />
+  <meta property="article:modified_time" content="2025-05-07T22:36:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/26605e02895c0129c742f1dd76ea46bd321d189c/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/26605e02895c0129c742f1dd76ea46bd321d189c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/26605e02895c0129c742f1dd76ea46bd321d189c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/043f74269bbbf6af9425ef43bc14cb7d355f54c3/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/043f74269bbbf6af9425ef43bc14cb7d355f54c3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/043f74269bbbf6af9425ef43bc14cb7d355f54c3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/26605e02895c0129c742f1dd76ea46bd321d189c/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/043f74269bbbf6af9425ef43bc14cb7d355f54c3/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@26605e0](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/26605e02895c0129c742f1dd76ea46bd321d189c)
+from [timrobinson/Parkinsonism-DRAFT@043f742](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/043f74269bbbf6af9425ef43bc14cb7d355f54c3)
 on May 7, 2025.
 </em></small>
 
@@ -233,27 +233,27 @@ Although a-syn aggregates are central to pathology, their diagnostic utility lie
 
 At an earlier disease stage, seeding amplification assays such as Protein Misfolding Cyclic Amplification (PMCA) and Real-Time Quaking-Induced Conversion (RT-QuIC) have demonstrated the ability to detect misfolded a-syn by amplifying minute amounts from cerebrospinal fluid (CSF). These assays show strong sensitivity for preclinical diagnosis and offer mechanistic insights into aggregate propagation. However, they require lumbar puncture for CSF collection—an invasive procedure unsuitable for point-of-care (POC) use—despite the growing recognition that early, routine testing will be essential for meaningful intervention.
 
-#### New Frontiers for Blood-Based Early Detection
+#### Emerging Tools for Early, Routine Detection of Synucleinopathies
 
-##### <ins>Soluble Oligomer Binding Assay</ins>
+While several groups are actively pursuing alpha-synuclein (a-syn)–based diagnostic strategies, two recent approaches deserve particular attention for their potential to transform detection from a specialist task into a routine, point-of-care procedure: the Soluble Oligomer Binding Assay (SOBA) and the CandyCollect saliva-based collection device.
 
-A promising development is the Soluble Oligomer Binding Assay (SOBA), which aims to detect toxic α-sheet-rich a-syn oligomers from a standard blood sample. By targeting early, conformationally distinct oligomeric forms before fibril or aggregate formation, SOBA may function as a true prodromal diagnostic tool—identifying disease prior to clinical onset.
+SOBA is a blood-based assay designed to detect α-sheet-rich oligomeric forms of a-syn, believed to represent the most pathogenic and earliest detectable conformation in synucleinopathies. By capturing these species before fibrils or large aggregates form, SOBA aims to function as a true prodromal diagnostic tool—one capable of identifying disease before clinical symptoms emerge. Crucially, SOBA is compatible with POC diagnostic workflows, overcoming the accessibility and invasiveness limitations associated with CSF- or biopsy-based testing. Early studies suggest it may not only support early diagnosis, but also help distinguish between PD, MSA, and other synucleinopathies based on oligomer profile and conformational signature.
 
-Crucially, SOBA is compatible with POC diagnostic workflows, addressing the key limitations of current biopsy- and CSF-based methods. Early results suggest that it may not only detect disease early, but also help distinguish between PD, MSA, and other synucleinopathies based on oligomer profile and conformational signature.
+CandyCollect, meanwhile, introduces a novel collection format for an alternative biofluid: saliva. This lollipop-inspired, open-microfluidic sampling device was originally developed for infectious disease surveillance but has recently been adapted for capturing extracellular vesicles (EVs) from saliva. In a preclinical study, researchers demonstrated that EVs collected using CandyCollect could be processed for molecular characterization of a-syn species—offering a non-invasive, scalable option for early detection.
 
-##### <ins>Saliva-Based Collection: CandyCollect and the Potential for At-Home a-syn Diagnostics</ins>
+Together, these methods offer significant benefits:
 
-A recent advancement in accessible diagnostics involves the use of saliva as a biofluid and the CandyCollect device as a novel sample collection platform. CandyCollect is a lollipop-inspired, open-microfluidic sampling tool initially developed for pathogen detection, but now validated for the non-invasive capture of extracellular vesicles (EVs) from saliva. In a recent preclinical study, researchers demonstrated that this device could reliably isolate EVs suitable for downstream analysis of alpha-synuclein (a-syn)—including species relevant to synucleinopathy diagnosis.
-This approach offers several advantages:
+*  Non-invasive sampling (blood or saliva)
 
-•	Non-invasive and user-friendly, eliminating the need for trained personnel or clinical infrastructure
-•	Compatible with at-home or general practitioner settings, increasing feasibility for large-scale screening
-•	Suited for serial collection, enabling longitudinal monitoring of disease progression or therapeutic response
+*  POC compatibility, requiring no advanced clinical infrastructure
 
-The study demonstrated that salivary EVs collected with CandyCollect could be processed for molecular characterization, including detection of a-syn biomarkers. This represents a meaningful step toward a routine, point-of-care screening model for Parkinson’s Disease and related disorders—mirroring the convenience and scalability of tests like the complete blood count (CBC).
-While further clinical validation is needed, saliva-based EV testing using CandyCollect complements technologies like SOBA by extending non-invasive diagnostic potential to alternative, easily collected biofluids, broadening the accessibility of early detection.
+*  Repeatability, enabling longitudinal monitoring of disease state or therapy response
 
-Taken together, these emerging tools underscore a growing consensus: effective diagnosis must pair early detection with mechanistic insight—not only to recognize pathology, but to intervene at a stage when neurodegeneration may still be preventable or reversible.
+*  Feasibility for general practitioner use, paving the way for mass screening
+
+While further clinical validation is needed, both SOBA and CandyCollect represent a meaningful departure from invasive, episodic testing. They point toward a future where screening for Parkinson’s Disease and related disorders could be as routine as a complete blood count—a shift with profound implications for diagnosis, treatment timing, and patient outcomes.
+
+An intriguing future direction lies in combining the strengths of these two approaches: applying assays like SOBA not to whole blood, but to extracellular vesicle (EV) fractions isolated from saliva or plasma. Because EVs are cell-derived and carry molecular cargo specific to their origin, they may provide a less noisy, more disease-relevant readout than unfractionated biofluids. Integrating EV isolation with conformation-specific assays could enable even earlier and more precise detection, potentially pushing the diagnostic window further upstream into the prodromal phase—before irreversible neurodegeneration begins.
 
 
 ### Transfer RNA Fragments

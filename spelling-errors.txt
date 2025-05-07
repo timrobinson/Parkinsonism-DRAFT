@@ -15,7 +15,7 @@ biome
 Braak
 Braak’s
 bradykinesia
-Butyrate
+butyrate
 CandyCollect
 carbidopa
 Carlsson
@@ -80,6 +80,7 @@ intracellular
 intracellularly
 intraluminal
 intraneuronal
+invasiveness
 ipsum
 irure
 janeroe
@@ -100,14 +101,14 @@ lysosome
 magna
 Maladie
 MDP
-Microbiome
+microbiome
 microbiota
 microfluidic
 microfluidics
 microvesicles
 miRNAs
 misfold
-Misfolded
+misfolded
 misfolding
 misfolds
 mitophagy
@@ -140,7 +141,7 @@ occaecat
 officia
 oligodendrocyte
 oligodendrocytes
-Oligomer
+oligomer
 oligomeric
 oligomerization
 oligomers
@@ -179,6 +180,7 @@ remyelination
 reprehenderit
 repurposing
 RNAs
+scalable
 SCFA
 SCFAs
 Scheperjans
@@ -192,9 +194,8 @@ substantia
 subtype
 sunt
 Supranuclear
-synuclein
+Synuclein
 synucleinopathies
-synucleinopathy
 tempor
 timrobinson
 TLR
@@ -208,6 +209,7 @@ ullamco
 ultracentrifugation
 ultracentrifuges
 ultrastructure
+unfractionated
 unmyelinated
 unmyelination
 upregulation
