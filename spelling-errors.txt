@@ -127,10 +127,10 @@ myelination
 myeloma
 NCAM
 neuroactive
-neurodegeneration
+NEURODEGENERATION
 neurodegenerative
 neuroimmune
-NEUROPLASTICITY
+neuroplasticity
 neurotoxic
 neurotransmission
 nicotinic
@@ -141,9 +141,9 @@ occaecat
 officia
 oligodendrocyte
 oligodendrocytes
-oligomer
+Oligomer
 oligomeric
-oligomerization
+Oligomerization
 oligomers
 orthostatic
 overactivation
@@ -194,7 +194,7 @@ substantia
 subtype
 sunt
 Supranuclear
-Synuclein
+synuclein
 synucleinopathies
 tempor
 timrobinson
