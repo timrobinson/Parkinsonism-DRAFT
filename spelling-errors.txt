@@ -70,7 +70,7 @@ Friedrich
 fugiat
 GCIs
 glia
-Glial
+glial
 glycolytic
 Heiko
 hypotension
@@ -111,7 +111,7 @@ microvesicles
 miRNAs
 misfold
 misfolded
-Misfolding
+misfolding
 misfolds
 mitophagy
 modulatory
@@ -133,7 +133,7 @@ NEURODEGENERATION
 neurodegenerative
 neurohealthy
 neuroimmune
-neuroplasticity
+NEUROPLASTICITY
 neurotoxic
 neurotransmission
 nicotinic
@@ -144,7 +144,7 @@ occaecat
 officia
 oligodendrocyte
 oligodendrocytes
-Oligomer
+oligomer
 oligomeric
 oligomerization
 oligomers
