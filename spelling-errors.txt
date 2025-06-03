@@ -15,7 +15,7 @@ biome
 Braak
 Braak’s
 bradykinesia
-Butyrate
+butyrate
 CandyCollect
 carbidopa
 Carlsson
@@ -44,7 +44,7 @@ dipeptide
 dolore
 dopaminergic
 Duis
-DYSBIOSIS
+dysbiosis
 dysregulate
 dysregulation
 EGCs
@@ -61,8 +61,8 @@ EVs
 Excepteur
 exercitation
 exocytosis
-Exosome
-exosomes
+exosome
+Exosomes
 Filip
 Friedrich
 fugiat
@@ -130,7 +130,8 @@ neuroactive
 neurodegeneration
 neurodegenerative
 neuroimmune
-NEUROPLASTICITY
+neuroinflammation
+neuroplasticity
 neurotoxic
 neurotransmission
 nicotinic
@@ -141,9 +142,9 @@ occaecat
 officia
 oligodendrocyte
 oligodendrocytes
-oligomer
+Oligomer
 oligomeric
-Oligomerization
+oligomerization
 oligomers
 orthostatic
 overactivation
@@ -157,6 +158,7 @@ pathogenesis
 pathologies
 peptidoglycan
 peptidoglycans
+PGN
 PGNs
 phosphorylated
 PMCA
@@ -170,6 +172,7 @@ proinflammatory
 propionate
 propria
 proteasome
+Proteobacteria
 proteostasis
 PSP
 purinergic
@@ -189,14 +192,13 @@ sed
 sint
 SNCA
 SOBA
-stimulator
 submucosal
 substantia
 subtype
 sunt
 Supranuclear
-synuclein
-synucleinopathies
+Synuclein
+Synucleinopathies
 tempor
 timrobinson
 TLR
