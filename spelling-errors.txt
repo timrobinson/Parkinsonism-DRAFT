@@ -70,7 +70,7 @@ Friedrich
 fugiat
 GCIs
 glia
-Glial
+glial
 glycolytic
 Heiko
 hypotension
@@ -129,7 +129,7 @@ myelination
 myeloma
 NCAM
 neuroactive
-NEURODEGENERATION
+neurodegeneration
 neurodegenerative
 neurohealthy
 neuroimmune
