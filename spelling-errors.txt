@@ -44,7 +44,7 @@ dipeptide
 dolore
 dopaminergic
 Duis
-dysbiosis
+DYSBIOSIS
 dysregulate
 dysregulation
 EGCs
@@ -61,8 +61,8 @@ EVs
 Excepteur
 exercitation
 exocytosis
-exosome
-Exosomes
+Exosome
+exosomes
 Filip
 Friedrich
 fugiat
@@ -130,7 +130,7 @@ neuroactive
 neurodegeneration
 neurodegenerative
 neuroimmune
-neuroplasticity
+NEUROPLASTICITY
 neurotoxic
 neurotransmission
 nicotinic
@@ -143,7 +143,7 @@ oligodendrocyte
 oligodendrocytes
 oligomer
 oligomeric
-oligomerization
+Oligomerization
 oligomers
 orthostatic
 overactivation
@@ -195,7 +195,7 @@ substantia
 subtype
 sunt
 Supranuclear
-Synuclein
+synuclein
 synucleinopathies
 tempor
 timrobinson

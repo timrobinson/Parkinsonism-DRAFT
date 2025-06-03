@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-06-03" />
   <meta name="citation_publication_date" content="2025-06-03" />
   <meta property="article:published_time" content="2025-06-03" />
-  <meta name="dc.modified" content="2025-06-03T15:38:36+00:00" />
-  <meta property="article:modified_time" content="2025-06-03T15:38:36+00:00" />
+  <meta name="dc.modified" content="2025-06-03T15:52:42+00:00" />
+  <meta property="article:modified_time" content="2025-06-03T15:52:42+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/d8c0b2997c51a830533166f1d03a1ac91f050bc8/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/d8c0b2997c51a830533166f1d03a1ac91f050bc8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/d8c0b2997c51a830533166f1d03a1ac91f050bc8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/11d110a927219d352b05655981452c9df3203c89/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/11d110a927219d352b05655981452c9df3203c89/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/11d110a927219d352b05655981452c9df3203c89/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/d8c0b2997c51a830533166f1d03a1ac91f050bc8/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/11d110a927219d352b05655981452c9df3203c89/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@d8c0b29](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/d8c0b2997c51a830533166f1d03a1ac91f050bc8)
+from [timrobinson/Parkinsonism-DRAFT@11d110a](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/11d110a927219d352b05655981452c9df3203c89)
 on June 3, 2025.
 </em></small>
 
@@ -138,7 +138,7 @@ Building on this mechanistic shift, Heiko Braak proposed in 2002 and 2003 that P
 
 All of these scientific developments—from Lewy’s discovery to Braak’s hypothesis and the rise of microbiome research—have expanded our understanding of Parkinsonism. Yet despite this progress, the clinical diagnosis of Parkinson’s Disease (PD) and Multiple System Atrophy (MSA) remains largely reliant on neurologists' evaluation of motor symptoms—such as tremor, rigidity, balance, and coordination—which only manifest well after disease onset. Moreover, these symptoms overlap considerably between PD and MSA, making accurate differentiation difficult in early stages. While several promising biomarkers are under investigation, none are currently used as a front-line diagnostic tool. The closest example, a synuclein-positive skin biopsy, is typically reserved for confirmatory use after clinical suspicion has already been established. This gap underscores the need for sensitive, disease-specific biomarkers capable of identifying Parkinsonism early—ideally in its prodromal phase—when therapeutic intervention may be most effective.
 
-## Peripheral Gateways to Disease Onset
+## Gateways to Disease Onset
 
 As proposed by Braak (see introduction), for many individuals, some of the earliest signs of Parkinson’s disease (PD) and Multiple System Atrophy (MSA) may begin outside the brain—in parts of the body like the peripheral nervous system within the gut lining or the tissue inside the nose. Braak suggested that harmful changes might start in these peripheral areas and then gradually spread into the brain. Of the two, the gut has attracted the most sustained attention. When the gut’s protective lining becomes “leaky,” pathobiont bacteria may invade nearby nerve and immune cells, triggering inflammation. In this environment, the alpha-synuclein (α-synuclein) protein within the nerve can become damaged or misfolded. In PD, these misfolded proteins may travel along the vagus nerve in a prion-like manner, helping to spread the disease. In MSA, however, the misfolded protein may instead be packaged into extracellular vesicles and transferred from nerve cells to nearby glial cells, where the pathway continues toward the formation of aggregates known as glial cytoplasmic inclusions (GCIs).
 
