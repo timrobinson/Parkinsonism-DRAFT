@@ -70,9 +70,15 @@ content/02.body-document.md:11:prodromal
 content/02.body-document.md:11:synuclein
 content/02.body-document.md:15:Braak
 content/02.body-document.md:15:Braak
+content/02.body-document.md:15:GCIs
+content/02.body-document.md:15:glial
+content/02.body-document.md:15:glial
+content/02.body-document.md:15:misfolded
 content/02.body-document.md:15:misfolded
 content/02.body-document.md:15:misfolded
 content/02.body-document.md:15:MSA
+content/02.body-document.md:15:MSA
+content/02.body-document.md:15:pathobiont
 content/02.body-document.md:15:synuclein
 content/02.body-document.md:15:synuclein
 content/02.body-document.md:17:Braak

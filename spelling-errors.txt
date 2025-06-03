@@ -15,7 +15,7 @@ biome
 Braak
 Braak’s
 bradykinesia
-butyrate
+Butyrate
 CandyCollect
 carbidopa
 Carlsson
@@ -62,7 +62,7 @@ Excepteur
 exercitation
 exocytosis
 exosome
-exosomes
+Exosomes
 Filip
 Friedrich
 fugiat
@@ -127,7 +127,7 @@ myelination
 myeloma
 NCAM
 neuroactive
-NEURODEGENERATION
+neurodegeneration
 neurodegenerative
 neuroimmune
 neuroplasticity
@@ -141,9 +141,9 @@ occaecat
 officia
 oligodendrocyte
 oligodendrocytes
-Oligomer
+oligomer
 oligomeric
-Oligomerization
+oligomerization
 oligomers
 orthostatic
 overactivation
@@ -152,6 +152,7 @@ Pandoc’s
 pariatur
 Parkin
 parkinsonian
+pathobiont
 pathogenesis
 pathologies
 peptidoglycan
@@ -194,7 +195,7 @@ substantia
 subtype
 sunt
 Supranuclear
-synuclein
+Synuclein
 synucleinopathies
 tempor
 timrobinson
