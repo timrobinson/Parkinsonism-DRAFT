@@ -15,7 +15,7 @@ biome
 Braak
 Braak’s
 bradykinesia
-Butyrate
+butyrate
 butyric
 CandyCollect
 carbidopa
@@ -129,7 +129,7 @@ myelination
 myeloma
 NCAM
 neuroactive
-neurodegeneration
+NEURODEGENERATION
 neurodegenerative
 neurohealthy
 neuroimmune
@@ -144,7 +144,7 @@ occaecat
 officia
 oligodendrocyte
 oligodendrocytes
-oligomer
+Oligomer
 oligomeric
 oligomerization
 oligomers
