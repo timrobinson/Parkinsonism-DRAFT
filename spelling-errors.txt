@@ -62,7 +62,7 @@ EVs
 Excepteur
 exercitation
 exocytosis
-Exosome
+exosome
 exosomes
 Filip
 Firmicutes
@@ -111,7 +111,7 @@ microvesicles
 miRNAs
 misfold
 misfolded
-misfolding
+Misfolding
 misfolds
 mitophagy
 modulatory
@@ -133,7 +133,7 @@ NEURODEGENERATION
 neurodegenerative
 neurohealthy
 neuroimmune
-NEUROPLASTICITY
+neuroplasticity
 neurotoxic
 neurotransmission
 nicotinic

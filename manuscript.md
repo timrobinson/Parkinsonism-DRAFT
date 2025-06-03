@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-06-03" />
   <meta name="citation_publication_date" content="2025-06-03" />
   <meta property="article:published_time" content="2025-06-03" />
-  <meta name="dc.modified" content="2025-06-03T20:21:25+00:00" />
-  <meta property="article:modified_time" content="2025-06-03T20:21:25+00:00" />
+  <meta name="dc.modified" content="2025-06-03T23:40:16+00:00" />
+  <meta property="article:modified_time" content="2025-06-03T23:40:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/1b959bdeda72f56558414131d3a4920d9d04b0bc/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/1b959bdeda72f56558414131d3a4920d9d04b0bc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/1b959bdeda72f56558414131d3a4920d9d04b0bc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8b540f99253bcefb4e204cd69c159882c6748963/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8b540f99253bcefb4e204cd69c159882c6748963/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/8b540f99253bcefb4e204cd69c159882c6748963/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/1b959bdeda72f56558414131d3a4920d9d04b0bc/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/8b540f99253bcefb4e204cd69c159882c6748963/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@1b959bd](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/1b959bdeda72f56558414131d3a4920d9d04b0bc)
+from [timrobinson/Parkinsonism-DRAFT@8b540f9](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/8b540f99253bcefb4e204cd69c159882c6748963)
 on June 3, 2025.
 </em></small>
 
@@ -152,6 +152,8 @@ Much of the recent support for Braak’s body-first model has focused on the gut
 In Parkinson’s disease (PD), dysbiosis often takes on a universal pattern seen in many other chronic conditions, including diabetes, multiple sclerosis, and various cancers. A group of bacteria known as Proteobacteria tends to increase. These bacteria are mostly gram-negative, meaning they have an outer membrane rich in a molecule called lipopolysaccharide (LPS). LPS is a powerful immune trigger that can damage the gut barrier and provoke inflammation. At the same time, there is typically a decrease in Firmicutes, a group made up largely of gram-positive bacteria. Many members of this group produce short-chain fatty acids (SCFAs) like propionic acid and butyric acid—molecules that help regulate inflammation and maintain gut barrier health. When Firmicutes are lost, these protective effects may be diminished.
 
 This pattern—marked by an overabundance of Proteobacteria and a reduction in SCFA-producing Firmicutes—may reflect a general microbial response to systemic inflammation or metabolic stress. These shifts are visible at both the phylum and genus level and are summarized in Figure X, which compares microbiome composition between individuals with PD and those with neurohealthy profiles.
+
+<iframe src="./images/ightlab.com/libs/timeline3/latest/embed/index.html?source=1nc1AmCGVeYvWKCsUK-RoPmd7edOBzMuWDLVsUuCPpzY&font=Default&lang=en&initial_zoom=2&height=700%22%20width=%223000%22%20height=%22700%22%20frameborder=%220%22" width="100%" height="500px"></iframe> <br><br>
 
 As for MSA, the picture is less clear. There is no consistent pattern of dysbiosis that has been firmly established, and it’s still uncertain whether changes in the microbiome play a major role in disease onset. However, early studies suggest that if dysbiosis is present, it may lean more toward gram-positive bacteria. If that’s the case, the gut may be exposed to different microbial stressors—such as fragments of the peptidoglycan layer found in gram-positive cell walls—that could still contribute to inflammation and potentially act as disease triggers.
 
