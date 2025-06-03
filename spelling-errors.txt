@@ -15,7 +15,7 @@ biome
 Braak
 Braak’s
 bradykinesia
-Butyrate
+butyrate
 butyric
 CandyCollect
 carbidopa
@@ -62,7 +62,7 @@ EVs
 Excepteur
 exercitation
 exocytosis
-exosome
+Exosome
 exosomes
 Filip
 Firmicutes
@@ -70,7 +70,7 @@ Friedrich
 fugiat
 GCIs
 glia
-glial
+Glial
 glycolytic
 Heiko
 hypotension
@@ -201,7 +201,7 @@ subtype
 sunt
 Supranuclear
 synuclein
-Synucleinopathies
+synucleinopathies
 tempor
 timrobinson
 TLR
