@@ -15,7 +15,7 @@ biome
 Braak
 Braak’s
 bradykinesia
-butyrate
+Butyrate
 butyric
 CandyCollect
 carbidopa
@@ -70,7 +70,7 @@ Friedrich
 fugiat
 GCIs
 glia
-glial
+Glial
 glycolytic
 Heiko
 hypotension

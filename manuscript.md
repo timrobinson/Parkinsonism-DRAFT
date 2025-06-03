@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-06-03" />
   <meta name="citation_publication_date" content="2025-06-03" />
   <meta property="article:published_time" content="2025-06-03" />
-  <meta name="dc.modified" content="2025-06-03T23:41:40+00:00" />
-  <meta property="article:modified_time" content="2025-06-03T23:41:40+00:00" />
+  <meta name="dc.modified" content="2025-06-03T23:48:23+00:00" />
+  <meta property="article:modified_time" content="2025-06-03T23:48:23+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/046363c45d97b3877d381c7a9dd877d905afb746/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/046363c45d97b3877d381c7a9dd877d905afb746/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/046363c45d97b3877d381c7a9dd877d905afb746/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/7677e1ad51a0ae384a5406f92bb3e9683de86d0e/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/7677e1ad51a0ae384a5406f92bb3e9683de86d0e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/7677e1ad51a0ae384a5406f92bb3e9683de86d0e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/046363c45d97b3877d381c7a9dd877d905afb746/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/7677e1ad51a0ae384a5406f92bb3e9683de86d0e/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@046363c](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/046363c45d97b3877d381c7a9dd877d905afb746)
+from [timrobinson/Parkinsonism-DRAFT@7677e1a](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/7677e1ad51a0ae384a5406f92bb3e9683de86d0e)
 on June 3, 2025.
 </em></small>
 
@@ -153,7 +153,7 @@ In Parkinson’s disease (PD), dysbiosis often takes on a universal pattern seen
 
 This pattern—marked by an overabundance of Proteobacteria and a reduction in SCFA-producing Firmicutes—may reflect a general microbial response to systemic inflammation or metabolic stress. These shifts are visible at both the phylum and genus level and are summarized in Figure X, which compares microbiome composition between individuals with PD and those with neurohealthy profiles.
 
-<iframe src="./images/side_by_side_microbiome_sunburst.html" width="100%" height="500px"></iframe> <br><br>
+<iframe src="./images/side_by_side_microbiome_sunburst.html" width="60%" height="200px"></iframe> <br><br>
 
 As for MSA, the picture is less clear. There is no consistent pattern of dysbiosis that has been firmly established, and it’s still uncertain whether changes in the microbiome play a major role in disease onset. However, early studies suggest that if dysbiosis is present, it may lean more toward gram-positive bacteria. If that’s the case, the gut may be exposed to different microbial stressors—such as fragments of the peptidoglycan layer found in gram-positive cell walls—that could still contribute to inflammation and potentially act as disease triggers.
 
