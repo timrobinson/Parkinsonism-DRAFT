@@ -15,7 +15,7 @@ biome
 Braak
 Braak’s
 bradykinesia
-butyrate
+Butyrate
 butyric
 CandyCollect
 carbidopa
@@ -63,14 +63,14 @@ Excepteur
 exercitation
 exocytosis
 exosome
-exosomes
+Exosomes
 Filip
 Firmicutes
 Friedrich
 fugiat
 GCIs
 glia
-glial
+Glial
 glycolytic
 Heiko
 hypotension
@@ -111,7 +111,7 @@ microvesicles
 miRNAs
 misfold
 misfolded
-Misfolding
+misfolding
 misfolds
 mitophagy
 modulatory
@@ -144,7 +144,7 @@ occaecat
 officia
 oligodendrocyte
 oligodendrocytes
-oligomer
+Oligomer
 oligomeric
 oligomerization
 oligomers
