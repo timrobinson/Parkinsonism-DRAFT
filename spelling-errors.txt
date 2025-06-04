@@ -111,7 +111,7 @@ microvesicles
 miRNAs
 misfold
 misfolded
-misfolding
+Misfolding
 misfolds
 mitophagy
 modulatory
@@ -133,7 +133,7 @@ NEURODEGENERATION
 neurodegenerative
 neurohealthy
 neuroimmune
-NEUROPLASTICITY
+neuroplasticity
 neurotoxic
 neurotransmission
 nicotinic
@@ -144,7 +144,7 @@ occaecat
 officia
 oligodendrocyte
 oligodendrocytes
-Oligomer
+oligomer
 oligomeric
 oligomerization
 oligomers
