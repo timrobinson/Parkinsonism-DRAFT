@@ -15,7 +15,7 @@ biome
 Braak
 Braak’s
 bradykinesia
-Butyrate
+butyrate
 butyric
 CandyCollect
 carbidopa
@@ -63,7 +63,7 @@ Excepteur
 exercitation
 exocytosis
 exosome
-Exosomes
+exosomes
 Filip
 Firmicutes
 Friedrich
@@ -129,11 +129,11 @@ myelination
 myeloma
 NCAM
 neuroactive
-NEURODEGENERATION
+neurodegeneration
 neurodegenerative
 neurohealthy
 neuroimmune
-neuroplasticity
+NEUROPLASTICITY
 neurotoxic
 neurotransmission
 nicotinic
@@ -144,7 +144,7 @@ occaecat
 officia
 oligodendrocyte
 oligodendrocytes
-Oligomer
+oligomer
 oligomeric
 oligomerization
 oligomers
