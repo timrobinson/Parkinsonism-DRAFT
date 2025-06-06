@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-06-04'
+date-meta: '2025-06-06'
 author-meta:
 - Tim Robinson
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Parkinsonism" />
   <meta property="og:title" content="Parkinsonism" />
   <meta property="twitter:title" content="Parkinsonism" />
-  <meta name="dc.date" content="2025-06-04" />
-  <meta name="citation_publication_date" content="2025-06-04" />
-  <meta property="article:published_time" content="2025-06-04" />
-  <meta name="dc.modified" content="2025-06-04T00:13:12+00:00" />
-  <meta property="article:modified_time" content="2025-06-04T00:13:12+00:00" />
+  <meta name="dc.date" content="2025-06-06" />
+  <meta name="citation_publication_date" content="2025-06-06" />
+  <meta property="article:published_time" content="2025-06-06" />
+  <meta name="dc.modified" content="2025-06-06T17:39:26+00:00" />
+  <meta property="article:modified_time" content="2025-06-06T17:39:26+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/52b3b8f0c1b5943d893f7c5feb8564b43bec2341/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/52b3b8f0c1b5943d893f7c5feb8564b43bec2341/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/52b3b8f0c1b5943d893f7c5feb8564b43bec2341/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/16e4c5f118b81bda5e711ecba35d09ba5cae01be/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/16e4c5f118b81bda5e711ecba35d09ba5cae01be/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/16e4c5f118b81bda5e711ecba35d09ba5cae01be/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,10 +68,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/52b3b8f0c1b5943d893f7c5feb8564b43bec2341/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/16e4c5f118b81bda5e711ecba35d09ba5cae01be/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@52b3b8f](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/52b3b8f0c1b5943d893f7c5feb8564b43bec2341)
-on June 4, 2025.
+from [timrobinson/Parkinsonism-DRAFT@16e4c5f](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/16e4c5f118b81bda5e711ecba35d09ba5cae01be)
+on June 6, 2025.
 </em></small>
 
 
@@ -144,10 +144,11 @@ As proposed by Braak (see introduction), for many individuals, some of the earli
 
 While Braak’s theory was a breakthrough, later research has shown that it's not the whole story. Not all cases of PD or MSA appear to begin in the peripheral nervous system. An estimated 51% of patients may experience the first disease-related changes in the central nervous system—specifically, in the brain [citation]. As such, current models are often described as “brain-first” or “body-first,” reflecting the observation that PD and MSA are not one-size-fits-all diseases. Instead, they may follow different paths in different people, depending on genetics, prior medical conditions or systemic stressors, immune responses, environmental exposures, and even the makeup of the gut microbiome. Understanding where the disease begins—whether in the brain or the body—is key to catching it earlier and developing better treatments.
 
+Among the proposed entry points, the gut has drawn particular attention—especially in idiopathic PD—due to its close relationship with the enteric nervous system and its exposure to microbial and inflammatory influences. The following section explores how disruptions in the gut environment might create conditions that favor early alpha-synuclein misfolding and disease propagation. We will later contrast this with brain-first pathways, where chronic systemic stressors, such as those seen in diabetes, may initiate neurodegeneration within the central nervous system itself.
 
 ### Gut Microbiome and the Intestinal Lining
 
-Much of the recent support for Braak’s body-first model has focused on the gut, particularly on how the microbial community living there—the gut microbiome—may influence early disease processes. In a healthy state, the gut microbiome helps regulate immune responses, supports digestion, and maintains the integrity of the intestinal lining. But when this balance is disrupted, a condition known as dysbiosis, certain bacterial populations may become more dominant while others decline. This shift in microbial makeup may contribute to inflammation and stress at the gut–nervous system interface, possibly setting the stage for alpha-synuclein misfolding and its spread into the brain.
+One of the strongest lines of support for the body-first model centers on the gut microbiome—the diverse microbial community that inhabits the intestinal tract. In a balanced state, this ecosystem helps regulate immune responses, supports digestion, and preserves the integrity of the intestinal barrier. But when this balance is disrupted—a condition known as dysbiosis—certain pro-inflammatory bacterial populations may dominate. These changes can erode gut barrier function and trigger both localized and systemic inflammation, potentially setting off the misfolding of alpha-synuclein proteins in enteric neurons and supporting their prion-like spread toward the brain.
 
 In Parkinson’s disease (PD), dysbiosis often takes on a universal pattern seen in many other chronic conditions, including diabetes, multiple sclerosis, and various cancers. A group of bacteria known as Proteobacteria tends to increase. These bacteria are mostly gram-negative, meaning they have an outer membrane rich in a molecule called lipopolysaccharide (LPS). LPS is a powerful immune trigger that can damage the gut barrier and provoke inflammation. At the same time, there is typically a decrease in Firmicutes, a group made up largely of gram-positive bacteria. Many members of this group produce short-chain fatty acids (SCFAs) like propionic acid and butyric acid—molecules that help regulate inflammation and maintain gut barrier health. When Firmicutes are lost, these protective effects may be diminished.
 

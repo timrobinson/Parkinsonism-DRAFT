@@ -133,7 +133,7 @@ neurodegeneration
 neurodegenerative
 neurohealthy
 neuroimmune
-NEUROPLASTICITY
+neuroplasticity
 neurotoxic
 neurotransmission
 nicotinic
