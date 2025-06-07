@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-06-06'
+date-meta: '2025-06-07'
 author-meta:
 - Tim Robinson
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Parkinsonism" />
   <meta property="og:title" content="Parkinsonism" />
   <meta property="twitter:title" content="Parkinsonism" />
-  <meta name="dc.date" content="2025-06-06" />
-  <meta name="citation_publication_date" content="2025-06-06" />
-  <meta property="article:published_time" content="2025-06-06" />
-  <meta name="dc.modified" content="2025-06-06T23:58:59+00:00" />
-  <meta property="article:modified_time" content="2025-06-06T23:58:59+00:00" />
+  <meta name="dc.date" content="2025-06-07" />
+  <meta name="citation_publication_date" content="2025-06-07" />
+  <meta property="article:published_time" content="2025-06-07" />
+  <meta name="dc.modified" content="2025-06-07T01:35:04+00:00" />
+  <meta property="article:modified_time" content="2025-06-07T01:35:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -44,9 +44,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/" />
   <meta name="citation_pdf_url" content="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://timrobinson.github.io/Parkinsonism-DRAFT/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/724fa69cf91f752647a6e7b946133405d76c66a0/" />
-  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/724fa69cf91f752647a6e7b946133405d76c66a0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/724fa69cf91f752647a6e7b946133405d76c66a0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://timrobinson.github.io/Parkinsonism-DRAFT/v/cf09f85e5d0c747cf400d25dcfe84de69313b330/" />
+  <meta name="manubot_html_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/cf09f85e5d0c747cf400d25dcfe84de69313b330/" />
+  <meta name="manubot_pdf_url_versioned" content="https://timrobinson.github.io/Parkinsonism-DRAFT/v/cf09f85e5d0c747cf400d25dcfe84de69313b330/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,10 +68,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/724fa69cf91f752647a6e7b946133405d76c66a0/))
+([permalink](https://timrobinson.github.io/Parkinsonism-DRAFT/v/cf09f85e5d0c747cf400d25dcfe84de69313b330/))
 was automatically generated
-from [timrobinson/Parkinsonism-DRAFT@724fa69](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/724fa69cf91f752647a6e7b946133405d76c66a0)
-on June 6, 2025.
+from [timrobinson/Parkinsonism-DRAFT@cf09f85](https://github.com/timrobinson/Parkinsonism-DRAFT/tree/cf09f85e5d0c747cf400d25dcfe84de69313b330)
+on June 7, 2025.
 </em></small>
 
 
@@ -128,6 +128,7 @@ Parkinsonism is a category of neurological diseases characterized primarily by m
 
 
 ## Introduction
+
 The history of Parkinsonism began in 1817, when James Parkinson published An Essay on the Shaking Palsy, describing the characteristic motor symptoms of the condition that would later bear his name. Several decades later, Jean-Martin Charcot refined Parkinson’s observations, distinguishing the disease from other movement disorders and formally naming it Maladie de Parkinson. Charcot also noted degeneration of the substantia nigra, an insight later validated as a central pathological feature. Around 1900, Dejerine and Thomas described a distinct degenerative disorder now recognized as Multiple System Atrophy (MSA). Although its pathology differs from Parkinson’s Disease, MSA presents with overlapping motor symptoms and is often misdiagnosed as PD in clinical settings—a confusion made more understandable by the later discovery that both diseases involve toxic aggregates of misfolded alpha-synuclein. In 1912, Friedrich Lewy identified intraneuronal inclusions—later called Lewy bodies—marking the first visible pathological hallmark of PD, though their significance would remain unclear for decades.
 
 The mid-20th century brought a major breakthrough when Arvid Carlsson demonstrated the essential role of the neurotransmitter dopamine in motor control and its abundance in the basal ganglia, laying the groundwork for understanding its depletion in Parkinson’s Disease (PD). This discovery led to dopamine-replacement therapy, culminating in the widespread use—and eventual FDA approval in 1975—of carbidopa/levodopa, which remains the cornerstone of PD treatment and is also the mainstay therapy for Multiple System Atrophy (MSA), despite its typically limited and short-lived benefits. In the 1980s, an unexpected insight came when individuals exposed to heroin laced with the synthetic drug MPTP developed rapid-onset parkinsonism. The compound’s inhibition of mitochondrial Complex I exposed the particular vulnerability of dopaminergic neurons to environmental toxins, marking a pivotal shift away from symptomatic treatments toward mechanistic studies focused on the cellular underpinnings of PD. Subsequent investigations uncovered key roles for mitochondrial dysfunction, oxidative stress, and impaired protein clearance. In the 1990s, mutations in the SNCA gene, which encodes the alpha-synuclein protein, confirmed it as a causative factor in familial PD, and misfolded alpha-synuclein aggregates were identified as the major component of Lewy bodies, cementing the protein’s central role in both inherited and sporadic forms of the disease.

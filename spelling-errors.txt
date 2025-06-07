@@ -62,7 +62,7 @@ EVs
 Excepteur
 exercitation
 exocytosis
-Exosome
+exosome
 exosomes
 Filip
 Firmicutes
@@ -70,7 +70,7 @@ Friedrich
 fugiat
 GCIs
 glia
-glial
+Glial
 glycolytic
 Heiko
 hypotension
@@ -129,7 +129,7 @@ myelination
 myeloma
 NCAM
 neuroactive
-neurodegeneration
+NEURODEGENERATION
 neurodegenerative
 neurohealthy
 neuroimmune
@@ -144,7 +144,7 @@ occaecat
 officia
 oligodendrocyte
 oligodendrocytes
-Oligomer
+oligomer
 oligomeric
 oligomerization
 oligomers
