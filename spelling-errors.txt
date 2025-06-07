@@ -62,7 +62,7 @@ EVs
 Excepteur
 exercitation
 exocytosis
-exosome
+Exosome
 exosomes
 Filip
 Firmicutes
@@ -70,7 +70,7 @@ Friedrich
 fugiat
 GCIs
 glia
-Glial
+glial
 glycolytic
 Heiko
 hypotension
@@ -144,7 +144,7 @@ occaecat
 officia
 oligodendrocyte
 oligodendrocytes
-oligomer
+Oligomer
 oligomeric
 oligomerization
 oligomers
